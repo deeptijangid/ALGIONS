@@ -1,0 +1,2501 @@
+user_id,age_group,gender,primary_category,secondary_category,price_tier,activity_tier,signup_date
+USER_0001,35-44,M,Home & Living,Fashion,budget,casual,2025-04-15
+USER_0002,45-54,M,Fitness & Sports,Electronics,budget,moderate,2025-08-12
+USER_0003,35-44,F,Beauty & Personal Care,Books & Media,mid-range,moderate,2026-04-05
+USER_0004,45-54,M,Fashion,Books & Media,mid-range,moderate,2025-06-09
+USER_0005,35-44,M,Fitness & Sports,Electronics,mid-range,casual,2025-12-19
+USER_0006,45-54,F,Books & Media,Electronics,premium,power,2026-01-23
+USER_0007,25-34,F,Home & Living,Beauty & Personal Care,budget,power,2025-03-13
+USER_0008,25-34,M,Electronics,Home & Living,premium,moderate,2026-01-25
+USER_0009,35-44,M,Home & Living,Fitness & Sports,budget,casual,2025-10-01
+USER_0010,35-44,M,Beauty & Personal Care,Fashion,mid-range,moderate,2025-09-08
+USER_0011,25-34,Other,Beauty & Personal Care,Books & Media,budget,casual,2025-11-29
+USER_0012,35-44,M,Electronics,Fitness & Sports,mid-range,moderate,2025-03-09
+USER_0013,55+,F,Home & Living,Fashion,mid-range,casual,2026-02-10
+USER_0014,35-44,M,Fashion,Home & Living,mid-range,moderate,2026-07-06
+USER_0015,35-44,F,Fitness & Sports,Home & Living,budget,moderate,2025-05-22
+USER_0016,18-24,M,Electronics,Home & Living,mid-range,moderate,2026-03-09
+USER_0017,25-34,F,Fitness & Sports,Beauty & Personal Care,budget,casual,2026-07-21
+USER_0018,18-24,F,Beauty & Personal Care,Books & Media,mid-range,power,2025-12-15
+USER_0019,25-34,M,Beauty & Personal Care,Home & Living,premium,moderate,2025-07-02
+USER_0020,18-24,F,Beauty & Personal Care,Books & Media,mid-range,moderate,2025-06-06
+USER_0021,18-24,F,Books & Media,Electronics,mid-range,power,2026-05-16
+USER_0022,55+,F,Home & Living,Fashion,budget,power,2025-03-22
+USER_0023,25-34,M,Books & Media,Fashion,budget,cold_start,2026-05-02
+USER_0024,18-24,F,Books & Media,Fitness & Sports,premium,casual,2026-07-07
+USER_0025,35-44,F,Fitness & Sports,Home & Living,mid-range,moderate,2026-06-14
+USER_0026,25-34,M,Electronics,Beauty & Personal Care,mid-range,power,2025-08-14
+USER_0027,35-44,M,Electronics,Fashion,premium,moderate,2025-03-14
+USER_0028,25-34,F,Books & Media,Fashion,mid-range,moderate,2026-04-30
+USER_0029,25-34,M,Electronics,Fashion,mid-range,moderate,2025-12-29
+USER_0030,25-34,F,Beauty & Personal Care,Electronics,budget,casual,2025-12-14
+USER_0031,18-24,M,Books & Media,Fitness & Sports,budget,moderate,2025-07-07
+USER_0032,25-34,F,Fitness & Sports,Beauty & Personal Care,budget,casual,2026-07-08
+USER_0033,55+,F,Fashion,Home & Living,mid-range,moderate,2026-05-08
+USER_0034,25-34,M,Fitness & Sports,Electronics,premium,cold_start,2025-09-29
+USER_0035,35-44,M,Beauty & Personal Care,Books & Media,mid-range,moderate,2026-05-14
+USER_0036,25-34,Other,Books & Media,Beauty & Personal Care,budget,power,2025-11-18
+USER_0037,35-44,F,Books & Media,Fashion,budget,power,2026-06-05
+USER_0038,18-24,F,Beauty & Personal Care,Fashion,mid-range,moderate,2025-09-10
+USER_0039,18-24,M,Beauty & Personal Care,Books & Media,mid-range,cold_start,2025-11-20
+USER_0040,25-34,F,Fashion,Fitness & Sports,mid-range,moderate,2025-11-04
+USER_0041,55+,F,Electronics,Books & Media,mid-range,cold_start,2026-07-31
+USER_0042,18-24,M,Home & Living,Fashion,premium,casual,2025-03-12
+USER_0043,25-34,M,Books & Media,Home & Living,mid-range,power,2026-06-26
+USER_0044,45-54,M,Beauty & Personal Care,Electronics,premium,moderate,2025-05-18
+USER_0045,45-54,F,Fashion,Fitness & Sports,budget,casual,2025-08-04
+USER_0046,25-34,F,Home & Living,Beauty & Personal Care,mid-range,power,2025-02-22
+USER_0047,25-34,M,Electronics,Fitness & Sports,mid-range,moderate,2025-09-26
+USER_0048,25-34,F,Books & Media,Electronics,budget,moderate,2025-06-02
+USER_0049,45-54,F,Fashion,Books & Media,budget,moderate,2025-11-12
+USER_0050,55+,Other,Electronics,Fitness & Sports,budget,casual,2025-09-13
+USER_0051,25-34,F,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2025-08-31
+USER_0052,55+,F,Fitness & Sports,Electronics,budget,casual,2025-12-07
+USER_0053,25-34,F,Beauty & Personal Care,Fashion,budget,moderate,2025-04-21
+USER_0054,18-24,M,Fashion,Books & Media,mid-range,moderate,2025-08-22
+USER_0055,35-44,M,Home & Living,Electronics,premium,moderate,2025-10-13
+USER_0056,25-34,F,Books & Media,Home & Living,premium,casual,2025-04-29
+USER_0057,25-34,F,Home & Living,Electronics,budget,moderate,2026-03-21
+USER_0058,35-44,M,Books & Media,Electronics,mid-range,moderate,2025-07-14
+USER_0059,35-44,M,Books & Media,Fashion,mid-range,cold_start,2025-03-13
+USER_0060,55+,F,Beauty & Personal Care,Electronics,mid-range,moderate,2025-11-04
+USER_0061,35-44,M,Beauty & Personal Care,Home & Living,mid-range,moderate,2025-07-16
+USER_0062,55+,F,Fashion,Beauty & Personal Care,mid-range,moderate,2026-02-20
+USER_0063,18-24,M,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2025-11-26
+USER_0064,25-34,M,Fitness & Sports,Fashion,mid-range,moderate,2025-10-18
+USER_0065,35-44,M,Fashion,Fitness & Sports,budget,moderate,2025-07-23
+USER_0066,18-24,Other,Books & Media,Electronics,mid-range,casual,2025-07-19
+USER_0067,25-34,M,Fashion,Electronics,premium,casual,2025-04-20
+USER_0068,25-34,F,Beauty & Personal Care,Books & Media,mid-range,moderate,2026-07-25
+USER_0069,45-54,M,Fitness & Sports,Beauty & Personal Care,premium,cold_start,2025-11-21
+USER_0070,45-54,F,Beauty & Personal Care,Books & Media,mid-range,moderate,2026-07-16
+USER_0071,18-24,F,Fitness & Sports,Home & Living,mid-range,casual,2025-10-11
+USER_0072,25-34,F,Home & Living,Books & Media,budget,moderate,2025-10-20
+USER_0073,25-34,F,Electronics,Home & Living,budget,casual,2026-01-28
+USER_0074,35-44,M,Fitness & Sports,Home & Living,mid-range,power,2026-03-02
+USER_0075,45-54,M,Books & Media,Electronics,premium,moderate,2026-01-25
+USER_0076,55+,M,Fitness & Sports,Books & Media,mid-range,casual,2026-07-14
+USER_0077,45-54,F,Home & Living,Books & Media,mid-range,moderate,2026-02-03
+USER_0078,35-44,M,Fashion,Books & Media,premium,power,2026-07-01
+USER_0079,25-34,F,Electronics,Fashion,mid-range,casual,2025-05-19
+USER_0080,18-24,M,Home & Living,Fashion,mid-range,casual,2025-12-12
+USER_0081,25-34,F,Fitness & Sports,Home & Living,premium,power,2026-04-27
+USER_0082,25-34,Other,Home & Living,Fashion,mid-range,casual,2025-02-11
+USER_0083,55+,M,Electronics,Beauty & Personal Care,budget,moderate,2025-05-10
+USER_0084,18-24,F,Fitness & Sports,Home & Living,mid-range,casual,2025-06-21
+USER_0085,55+,F,Fashion,Fitness & Sports,budget,cold_start,2025-01-27
+USER_0086,25-34,F,Fitness & Sports,Books & Media,premium,power,2025-07-23
+USER_0087,35-44,F,Electronics,Fitness & Sports,premium,casual,2025-05-04
+USER_0088,25-34,M,Books & Media,Fitness & Sports,mid-range,moderate,2025-03-12
+USER_0089,25-34,F,Fitness & Sports,Electronics,mid-range,casual,2026-01-06
+USER_0090,45-54,F,Fitness & Sports,Fashion,mid-range,casual,2025-10-04
+USER_0091,45-54,F,Fitness & Sports,Books & Media,premium,moderate,2025-10-02
+USER_0092,25-34,F,Home & Living,Books & Media,budget,moderate,2026-04-21
+USER_0093,35-44,M,Fitness & Sports,Home & Living,budget,moderate,2025-08-06
+USER_0094,25-34,M,Books & Media,Home & Living,mid-range,cold_start,2026-06-14
+USER_0095,18-24,F,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2026-05-03
+USER_0096,25-34,F,Electronics,Fitness & Sports,budget,moderate,2025-09-07
+USER_0097,35-44,M,Books & Media,Home & Living,mid-range,moderate,2026-07-18
+USER_0098,35-44,M,Home & Living,Fashion,budget,moderate,2025-07-17
+USER_0099,35-44,F,Beauty & Personal Care,Fashion,budget,moderate,2026-05-11
+USER_0100,35-44,F,Books & Media,Home & Living,premium,moderate,2025-07-18
+USER_0101,25-34,M,Beauty & Personal Care,Books & Media,budget,cold_start,2025-02-16
+USER_0102,25-34,F,Fashion,Books & Media,budget,moderate,2025-01-13
+USER_0103,25-34,M,Fashion,Electronics,budget,power,2026-05-05
+USER_0104,18-24,F,Books & Media,Electronics,budget,cold_start,2026-07-31
+USER_0105,18-24,M,Books & Media,Fitness & Sports,mid-range,casual,2025-08-20
+USER_0106,25-34,F,Home & Living,Beauty & Personal Care,premium,moderate,2025-11-09
+USER_0107,18-24,Other,Electronics,Home & Living,mid-range,casual,2025-09-28
+USER_0108,18-24,M,Electronics,Home & Living,budget,casual,2026-04-07
+USER_0109,25-34,M,Home & Living,Fitness & Sports,mid-range,power,2026-04-10
+USER_0110,25-34,M,Beauty & Personal Care,Books & Media,mid-range,moderate,2025-07-22
+USER_0111,25-34,F,Home & Living,Fashion,budget,casual,2025-06-19
+USER_0112,35-44,F,Home & Living,Books & Media,budget,casual,2025-11-08
+USER_0113,55+,F,Fitness & Sports,Books & Media,budget,casual,2025-02-10
+USER_0114,35-44,F,Electronics,Fashion,budget,cold_start,2025-01-22
+USER_0115,35-44,M,Electronics,Home & Living,mid-range,cold_start,2026-03-29
+USER_0116,18-24,F,Beauty & Personal Care,Fitness & Sports,premium,moderate,2026-04-27
+USER_0117,25-34,F,Fashion,Fitness & Sports,mid-range,moderate,2026-05-23
+USER_0118,55+,F,Books & Media,Electronics,mid-range,moderate,2025-11-19
+USER_0119,18-24,F,Books & Media,Electronics,mid-range,moderate,2026-07-10
+USER_0120,18-24,F,Books & Media,Fitness & Sports,mid-range,moderate,2025-02-22
+USER_0121,25-34,F,Fitness & Sports,Books & Media,budget,casual,2025-09-03
+USER_0122,25-34,M,Fitness & Sports,Electronics,budget,moderate,2025-04-27
+USER_0123,18-24,F,Fitness & Sports,Home & Living,mid-range,moderate,2025-10-07
+USER_0124,25-34,M,Fitness & Sports,Beauty & Personal Care,budget,cold_start,2025-07-15
+USER_0125,25-34,F,Electronics,Fitness & Sports,mid-range,moderate,2026-03-01
+USER_0126,35-44,M,Electronics,Fitness & Sports,mid-range,casual,2026-05-17
+USER_0127,25-34,F,Home & Living,Beauty & Personal Care,mid-range,moderate,2026-01-22
+USER_0128,25-34,M,Beauty & Personal Care,Fashion,mid-range,casual,2025-08-28
+USER_0129,25-34,M,Fitness & Sports,Books & Media,mid-range,moderate,2025-06-05
+USER_0130,18-24,F,Books & Media,Home & Living,premium,power,2026-03-27
+USER_0131,45-54,M,Fashion,Books & Media,premium,power,2025-06-08
+USER_0132,35-44,M,Books & Media,Fitness & Sports,mid-range,casual,2025-12-03
+USER_0133,45-54,M,Home & Living,Books & Media,premium,casual,2025-02-06
+USER_0134,25-34,F,Home & Living,Fashion,mid-range,cold_start,2026-03-21
+USER_0135,35-44,F,Electronics,Books & Media,budget,cold_start,2025-11-03
+USER_0136,18-24,F,Home & Living,Fitness & Sports,mid-range,moderate,2025-05-30
+USER_0137,25-34,F,Fashion,Home & Living,budget,casual,2026-01-27
+USER_0138,25-34,F,Fashion,Home & Living,mid-range,moderate,2025-09-18
+USER_0139,35-44,F,Fitness & Sports,Home & Living,mid-range,power,2025-06-11
+USER_0140,55+,Other,Home & Living,Books & Media,mid-range,casual,2026-04-13
+USER_0141,18-24,M,Fitness & Sports,Electronics,budget,moderate,2026-01-03
+USER_0142,55+,M,Beauty & Personal Care,Fitness & Sports,budget,cold_start,2025-02-20
+USER_0143,35-44,F,Home & Living,Fashion,mid-range,moderate,2025-12-27
+USER_0144,18-24,M,Beauty & Personal Care,Fashion,mid-range,moderate,2025-02-10
+USER_0145,25-34,F,Beauty & Personal Care,Fashion,budget,moderate,2025-10-30
+USER_0146,25-34,M,Books & Media,Home & Living,mid-range,casual,2025-10-07
+USER_0147,25-34,F,Fitness & Sports,Home & Living,mid-range,casual,2025-12-13
+USER_0148,25-34,M,Fashion,Books & Media,premium,moderate,2026-07-25
+USER_0149,35-44,M,Books & Media,Electronics,mid-range,moderate,2025-09-26
+USER_0150,45-54,F,Electronics,Home & Living,mid-range,moderate,2026-07-29
+USER_0151,35-44,F,Beauty & Personal Care,Fitness & Sports,premium,casual,2025-11-06
+USER_0152,18-24,M,Electronics,Fitness & Sports,premium,power,2025-04-29
+USER_0153,45-54,M,Fitness & Sports,Home & Living,mid-range,moderate,2026-07-08
+USER_0154,35-44,M,Fitness & Sports,Electronics,premium,cold_start,2026-02-22
+USER_0155,25-34,F,Fashion,Books & Media,mid-range,casual,2025-08-30
+USER_0156,18-24,F,Books & Media,Home & Living,budget,moderate,2025-10-10
+USER_0157,18-24,F,Fitness & Sports,Electronics,mid-range,power,2025-01-22
+USER_0158,25-34,Other,Books & Media,Fashion,budget,moderate,2026-07-22
+USER_0159,25-34,F,Home & Living,Fashion,mid-range,moderate,2025-01-03
+USER_0160,55+,Other,Books & Media,Home & Living,mid-range,casual,2025-04-23
+USER_0161,18-24,M,Fashion,Beauty & Personal Care,mid-range,moderate,2025-06-28
+USER_0162,18-24,M,Electronics,Fashion,mid-range,moderate,2026-01-06
+USER_0163,18-24,F,Books & Media,Electronics,mid-range,moderate,2026-06-18
+USER_0164,35-44,M,Fitness & Sports,Books & Media,mid-range,moderate,2025-04-21
+USER_0165,45-54,M,Electronics,Fitness & Sports,mid-range,moderate,2025-03-09
+USER_0166,35-44,F,Beauty & Personal Care,Home & Living,mid-range,moderate,2026-06-28
+USER_0167,25-34,M,Beauty & Personal Care,Electronics,premium,casual,2026-07-19
+USER_0168,25-34,M,Fashion,Books & Media,mid-range,moderate,2026-04-10
+USER_0169,35-44,M,Home & Living,Fitness & Sports,mid-range,casual,2025-06-06
+USER_0170,25-34,M,Electronics,Fashion,mid-range,casual,2026-01-17
+USER_0171,25-34,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2025-05-06
+USER_0172,45-54,F,Fitness & Sports,Electronics,premium,moderate,2025-11-16
+USER_0173,25-34,M,Beauty & Personal Care,Fitness & Sports,budget,moderate,2025-04-21
+USER_0174,25-34,M,Home & Living,Beauty & Personal Care,budget,casual,2026-03-16
+USER_0175,55+,F,Books & Media,Beauty & Personal Care,budget,power,2025-10-01
+USER_0176,25-34,F,Home & Living,Fitness & Sports,budget,moderate,2025-05-27
+USER_0177,25-34,M,Beauty & Personal Care,Electronics,budget,moderate,2026-06-28
+USER_0178,25-34,M,Home & Living,Fitness & Sports,mid-range,casual,2025-03-28
+USER_0179,18-24,F,Electronics,Fashion,budget,moderate,2026-03-11
+USER_0180,25-34,M,Books & Media,Electronics,mid-range,moderate,2025-04-24
+USER_0181,35-44,F,Beauty & Personal Care,Home & Living,budget,cold_start,2026-02-09
+USER_0182,18-24,M,Fashion,Home & Living,mid-range,moderate,2025-10-24
+USER_0183,18-24,F,Fashion,Home & Living,mid-range,moderate,2025-08-24
+USER_0184,45-54,F,Electronics,Books & Media,premium,moderate,2025-02-13
+USER_0185,25-34,M,Home & Living,Beauty & Personal Care,mid-range,casual,2026-02-19
+USER_0186,25-34,M,Electronics,Fitness & Sports,budget,casual,2026-04-17
+USER_0187,45-54,M,Electronics,Home & Living,mid-range,moderate,2026-02-15
+USER_0188,25-34,M,Home & Living,Fashion,mid-range,power,2025-06-22
+USER_0189,35-44,F,Fashion,Fitness & Sports,mid-range,moderate,2025-06-01
+USER_0190,18-24,M,Books & Media,Fashion,mid-range,moderate,2025-03-19
+USER_0191,35-44,F,Books & Media,Beauty & Personal Care,mid-range,casual,2025-11-27
+USER_0192,35-44,M,Electronics,Books & Media,mid-range,casual,2025-11-07
+USER_0193,35-44,M,Electronics,Fitness & Sports,mid-range,power,2025-02-08
+USER_0194,45-54,M,Electronics,Beauty & Personal Care,mid-range,moderate,2026-01-29
+USER_0195,25-34,F,Electronics,Books & Media,premium,moderate,2025-07-12
+USER_0196,25-34,M,Electronics,Books & Media,budget,cold_start,2025-12-18
+USER_0197,18-24,F,Electronics,Home & Living,mid-range,moderate,2026-03-26
+USER_0198,35-44,M,Home & Living,Books & Media,mid-range,casual,2025-12-13
+USER_0199,18-24,F,Home & Living,Electronics,mid-range,casual,2026-07-26
+USER_0200,25-34,F,Beauty & Personal Care,Books & Media,premium,power,2025-12-08
+USER_0201,35-44,F,Home & Living,Books & Media,budget,moderate,2025-03-28
+USER_0202,25-34,F,Fashion,Beauty & Personal Care,budget,moderate,2026-03-10
+USER_0203,18-24,M,Fashion,Fitness & Sports,premium,moderate,2026-05-13
+USER_0204,55+,M,Home & Living,Electronics,mid-range,casual,2026-07-07
+USER_0205,45-54,M,Home & Living,Beauty & Personal Care,budget,moderate,2026-01-21
+USER_0206,18-24,F,Books & Media,Fashion,mid-range,moderate,2025-02-14
+USER_0207,35-44,M,Fitness & Sports,Beauty & Personal Care,budget,moderate,2026-04-05
+USER_0208,25-34,Other,Fitness & Sports,Fashion,mid-range,moderate,2026-03-28
+USER_0209,25-34,M,Books & Media,Fitness & Sports,premium,casual,2025-07-24
+USER_0210,18-24,M,Beauty & Personal Care,Fitness & Sports,premium,cold_start,2026-07-22
+USER_0211,35-44,F,Electronics,Fitness & Sports,budget,moderate,2025-06-14
+USER_0212,45-54,M,Fitness & Sports,Electronics,premium,casual,2025-08-16
+USER_0213,45-54,F,Fitness & Sports,Electronics,mid-range,moderate,2026-01-18
+USER_0214,55+,M,Electronics,Fitness & Sports,premium,casual,2025-12-10
+USER_0215,18-24,M,Fitness & Sports,Fashion,mid-range,moderate,2026-04-26
+USER_0216,18-24,M,Home & Living,Fashion,premium,cold_start,2026-07-16
+USER_0217,35-44,M,Home & Living,Fashion,mid-range,moderate,2025-02-18
+USER_0218,35-44,F,Electronics,Fashion,premium,moderate,2026-05-27
+USER_0219,18-24,F,Fashion,Home & Living,budget,casual,2025-01-02
+USER_0220,25-34,M,Beauty & Personal Care,Electronics,mid-range,power,2026-01-05
+USER_0221,25-34,F,Books & Media,Beauty & Personal Care,budget,power,2026-04-27
+USER_0222,25-34,M,Beauty & Personal Care,Electronics,mid-range,moderate,2025-03-11
+USER_0223,35-44,F,Books & Media,Home & Living,budget,moderate,2025-12-27
+USER_0224,45-54,M,Beauty & Personal Care,Fitness & Sports,premium,casual,2026-05-06
+USER_0225,45-54,M,Fitness & Sports,Electronics,budget,casual,2025-02-14
+USER_0226,45-54,M,Home & Living,Beauty & Personal Care,mid-range,moderate,2026-07-11
+USER_0227,18-24,F,Home & Living,Fitness & Sports,premium,casual,2025-02-18
+USER_0228,25-34,M,Home & Living,Books & Media,premium,casual,2026-03-27
+USER_0229,25-34,Other,Fitness & Sports,Books & Media,mid-range,moderate,2026-06-16
+USER_0230,18-24,M,Fitness & Sports,Beauty & Personal Care,premium,moderate,2025-07-04
+USER_0231,25-34,M,Beauty & Personal Care,Home & Living,mid-range,moderate,2026-03-13
+USER_0232,25-34,M,Beauty & Personal Care,Home & Living,mid-range,moderate,2026-03-22
+USER_0233,55+,F,Electronics,Books & Media,mid-range,cold_start,2025-06-13
+USER_0234,18-24,F,Fitness & Sports,Electronics,budget,casual,2025-08-30
+USER_0235,25-34,M,Books & Media,Electronics,mid-range,cold_start,2026-04-06
+USER_0236,25-34,F,Books & Media,Fashion,mid-range,moderate,2026-02-12
+USER_0237,25-34,Other,Electronics,Home & Living,mid-range,cold_start,2026-02-01
+USER_0238,18-24,F,Beauty & Personal Care,Fitness & Sports,budget,casual,2025-10-20
+USER_0239,55+,M,Fashion,Electronics,mid-range,cold_start,2026-04-01
+USER_0240,45-54,Other,Home & Living,Fitness & Sports,mid-range,moderate,2026-07-18
+USER_0241,45-54,F,Beauty & Personal Care,Fashion,mid-range,moderate,2026-06-05
+USER_0242,55+,F,Fashion,Books & Media,budget,moderate,2026-07-22
+USER_0243,25-34,Other,Fashion,Beauty & Personal Care,premium,moderate,2025-03-09
+USER_0244,55+,F,Books & Media,Fitness & Sports,mid-range,moderate,2025-03-17
+USER_0245,25-34,M,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2026-07-19
+USER_0246,18-24,Other,Fitness & Sports,Beauty & Personal Care,premium,casual,2025-02-26
+USER_0247,25-34,M,Fashion,Fitness & Sports,premium,moderate,2025-08-19
+USER_0248,55+,F,Electronics,Fitness & Sports,budget,moderate,2026-07-19
+USER_0249,35-44,F,Electronics,Beauty & Personal Care,mid-range,moderate,2025-06-07
+USER_0250,35-44,F,Home & Living,Beauty & Personal Care,budget,power,2025-01-30
+USER_0251,55+,F,Home & Living,Fashion,mid-range,casual,2026-03-03
+USER_0252,18-24,F,Books & Media,Home & Living,mid-range,moderate,2025-11-06
+USER_0253,45-54,F,Home & Living,Books & Media,budget,moderate,2025-03-03
+USER_0254,25-34,M,Home & Living,Beauty & Personal Care,budget,casual,2025-11-23
+USER_0255,45-54,Other,Fashion,Fitness & Sports,mid-range,moderate,2025-04-19
+USER_0256,25-34,M,Fashion,Home & Living,budget,cold_start,2025-10-25
+USER_0257,45-54,M,Fashion,Fitness & Sports,premium,moderate,2025-11-17
+USER_0258,18-24,Other,Fitness & Sports,Books & Media,premium,power,2026-05-25
+USER_0259,55+,F,Fashion,Home & Living,mid-range,power,2025-02-19
+USER_0260,25-34,F,Beauty & Personal Care,Fitness & Sports,budget,casual,2025-01-09
+USER_0261,25-34,F,Beauty & Personal Care,Home & Living,mid-range,power,2026-01-10
+USER_0262,18-24,F,Home & Living,Beauty & Personal Care,budget,moderate,2026-01-31
+USER_0263,35-44,M,Books & Media,Beauty & Personal Care,budget,moderate,2025-04-10
+USER_0264,35-44,M,Home & Living,Fashion,budget,moderate,2026-06-06
+USER_0265,18-24,M,Beauty & Personal Care,Home & Living,premium,moderate,2026-06-16
+USER_0266,35-44,F,Home & Living,Beauty & Personal Care,mid-range,cold_start,2026-02-07
+USER_0267,35-44,M,Home & Living,Beauty & Personal Care,premium,moderate,2026-06-30
+USER_0268,25-34,M,Electronics,Fitness & Sports,mid-range,cold_start,2025-04-23
+USER_0269,35-44,F,Beauty & Personal Care,Electronics,mid-range,cold_start,2025-09-29
+USER_0270,35-44,F,Books & Media,Fashion,mid-range,moderate,2026-05-07
+USER_0271,35-44,F,Fitness & Sports,Fashion,premium,power,2025-09-06
+USER_0272,55+,M,Electronics,Books & Media,mid-range,moderate,2025-06-05
+USER_0273,25-34,F,Books & Media,Fitness & Sports,premium,casual,2025-03-05
+USER_0274,25-34,F,Beauty & Personal Care,Fitness & Sports,mid-range,cold_start,2025-11-18
+USER_0275,25-34,F,Books & Media,Home & Living,mid-range,casual,2025-09-28
+USER_0276,18-24,M,Books & Media,Home & Living,budget,casual,2025-11-01
+USER_0277,35-44,F,Fitness & Sports,Home & Living,mid-range,cold_start,2026-07-28
+USER_0278,35-44,M,Electronics,Beauty & Personal Care,mid-range,casual,2026-01-24
+USER_0279,25-34,M,Fashion,Fitness & Sports,budget,moderate,2025-03-22
+USER_0280,25-34,M,Fitness & Sports,Fashion,budget,moderate,2026-07-06
+USER_0281,25-34,M,Electronics,Beauty & Personal Care,mid-range,moderate,2025-09-03
+USER_0282,35-44,F,Beauty & Personal Care,Fashion,budget,moderate,2026-02-28
+USER_0283,25-34,F,Fashion,Electronics,premium,moderate,2025-06-11
+USER_0284,55+,F,Fitness & Sports,Fashion,mid-range,moderate,2025-10-22
+USER_0285,35-44,F,Electronics,Beauty & Personal Care,budget,cold_start,2025-02-08
+USER_0286,18-24,F,Fashion,Electronics,premium,casual,2026-02-11
+USER_0287,18-24,F,Home & Living,Electronics,budget,cold_start,2025-04-20
+USER_0288,25-34,M,Beauty & Personal Care,Books & Media,mid-range,casual,2025-05-18
+USER_0289,25-34,M,Electronics,Fitness & Sports,budget,casual,2026-04-15
+USER_0290,35-44,M,Home & Living,Fitness & Sports,mid-range,moderate,2025-07-17
+USER_0291,45-54,F,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2026-02-15
+USER_0292,18-24,M,Home & Living,Fashion,budget,moderate,2026-01-28
+USER_0293,35-44,F,Home & Living,Beauty & Personal Care,mid-range,moderate,2025-01-12
+USER_0294,25-34,M,Beauty & Personal Care,Electronics,mid-range,moderate,2025-06-13
+USER_0295,25-34,F,Beauty & Personal Care,Home & Living,mid-range,moderate,2025-10-30
+USER_0296,25-34,F,Fitness & Sports,Fashion,mid-range,moderate,2026-01-18
+USER_0297,25-34,M,Books & Media,Fashion,mid-range,moderate,2025-03-25
+USER_0298,25-34,M,Books & Media,Electronics,budget,cold_start,2026-07-15
+USER_0299,25-34,F,Fashion,Fitness & Sports,premium,power,2026-03-29
+USER_0300,25-34,F,Electronics,Beauty & Personal Care,mid-range,moderate,2025-02-26
+USER_0301,25-34,M,Electronics,Beauty & Personal Care,mid-range,casual,2025-11-12
+USER_0302,25-34,F,Beauty & Personal Care,Fashion,mid-range,moderate,2025-02-16
+USER_0303,35-44,F,Electronics,Fashion,premium,power,2026-04-29
+USER_0304,25-34,F,Beauty & Personal Care,Fitness & Sports,mid-range,moderate,2026-01-27
+USER_0305,45-54,M,Electronics,Beauty & Personal Care,budget,power,2025-12-23
+USER_0306,55+,M,Fashion,Home & Living,premium,cold_start,2025-01-24
+USER_0307,25-34,F,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2025-08-24
+USER_0308,25-34,M,Beauty & Personal Care,Electronics,budget,casual,2026-03-06
+USER_0309,55+,F,Fashion,Home & Living,budget,moderate,2025-02-04
+USER_0310,35-44,F,Fashion,Electronics,mid-range,moderate,2025-08-28
+USER_0311,35-44,F,Fashion,Beauty & Personal Care,premium,casual,2025-08-28
+USER_0312,35-44,M,Books & Media,Home & Living,budget,cold_start,2025-05-27
+USER_0313,25-34,M,Home & Living,Electronics,mid-range,casual,2025-06-29
+USER_0314,25-34,F,Home & Living,Books & Media,mid-range,casual,2025-11-23
+USER_0315,25-34,M,Fashion,Beauty & Personal Care,mid-range,moderate,2025-08-19
+USER_0316,35-44,F,Electronics,Beauty & Personal Care,mid-range,moderate,2026-03-03
+USER_0317,18-24,M,Fashion,Fitness & Sports,mid-range,casual,2026-04-06
+USER_0318,18-24,F,Fashion,Electronics,budget,casual,2025-02-10
+USER_0319,18-24,F,Beauty & Personal Care,Books & Media,budget,casual,2025-08-02
+USER_0320,25-34,F,Electronics,Home & Living,premium,casual,2025-05-01
+USER_0321,35-44,F,Beauty & Personal Care,Books & Media,mid-range,cold_start,2026-02-11
+USER_0322,25-34,F,Fitness & Sports,Books & Media,mid-range,moderate,2026-01-03
+USER_0323,25-34,F,Fitness & Sports,Electronics,premium,casual,2026-04-26
+USER_0324,25-34,M,Home & Living,Books & Media,budget,casual,2025-08-15
+USER_0325,18-24,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2025-10-30
+USER_0326,25-34,M,Fashion,Books & Media,mid-range,moderate,2025-12-12
+USER_0327,45-54,Other,Beauty & Personal Care,Fitness & Sports,mid-range,moderate,2025-12-27
+USER_0328,35-44,F,Books & Media,Electronics,mid-range,cold_start,2025-03-18
+USER_0329,35-44,F,Fitness & Sports,Fashion,premium,power,2025-08-25
+USER_0330,18-24,M,Fitness & Sports,Home & Living,budget,casual,2026-05-10
+USER_0331,18-24,F,Fitness & Sports,Electronics,budget,moderate,2025-10-09
+USER_0332,25-34,F,Beauty & Personal Care,Fitness & Sports,premium,power,2025-07-03
+USER_0333,18-24,M,Fashion,Beauty & Personal Care,mid-range,moderate,2025-12-29
+USER_0334,25-34,M,Fitness & Sports,Books & Media,mid-range,moderate,2025-08-20
+USER_0335,45-54,M,Beauty & Personal Care,Electronics,budget,moderate,2026-01-24
+USER_0336,25-34,F,Beauty & Personal Care,Fashion,budget,casual,2026-03-21
+USER_0337,25-34,Other,Electronics,Beauty & Personal Care,premium,moderate,2025-08-24
+USER_0338,45-54,F,Fitness & Sports,Home & Living,budget,casual,2025-03-18
+USER_0339,25-34,F,Beauty & Personal Care,Electronics,budget,power,2025-11-19
+USER_0340,25-34,M,Beauty & Personal Care,Fitness & Sports,premium,moderate,2025-11-03
+USER_0341,25-34,F,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2025-05-24
+USER_0342,35-44,M,Beauty & Personal Care,Home & Living,budget,moderate,2026-03-24
+USER_0343,18-24,F,Books & Media,Beauty & Personal Care,mid-range,power,2025-12-01
+USER_0344,25-34,Other,Fitness & Sports,Fashion,mid-range,moderate,2026-01-20
+USER_0345,35-44,F,Electronics,Beauty & Personal Care,budget,casual,2025-09-10
+USER_0346,18-24,M,Beauty & Personal Care,Fashion,mid-range,moderate,2025-11-21
+USER_0347,18-24,F,Fitness & Sports,Home & Living,mid-range,moderate,2025-04-15
+USER_0348,18-24,M,Books & Media,Beauty & Personal Care,mid-range,power,2025-01-27
+USER_0349,25-34,F,Home & Living,Books & Media,budget,moderate,2026-02-28
+USER_0350,18-24,F,Fashion,Beauty & Personal Care,mid-range,moderate,2026-01-25
+USER_0351,25-34,M,Fashion,Electronics,budget,moderate,2025-10-10
+USER_0352,25-34,M,Home & Living,Fashion,mid-range,moderate,2026-05-23
+USER_0353,18-24,M,Home & Living,Electronics,premium,casual,2025-12-07
+USER_0354,25-34,F,Fitness & Sports,Home & Living,mid-range,moderate,2025-05-20
+USER_0355,35-44,F,Fitness & Sports,Home & Living,budget,cold_start,2026-02-12
+USER_0356,25-34,F,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2025-11-30
+USER_0357,45-54,M,Electronics,Beauty & Personal Care,budget,moderate,2026-07-13
+USER_0358,35-44,M,Beauty & Personal Care,Fitness & Sports,premium,moderate,2025-08-03
+USER_0359,25-34,F,Fitness & Sports,Books & Media,budget,moderate,2025-11-07
+USER_0360,35-44,F,Fitness & Sports,Electronics,mid-range,moderate,2026-05-06
+USER_0361,25-34,F,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2026-01-04
+USER_0362,45-54,F,Electronics,Fashion,mid-range,moderate,2025-12-30
+USER_0363,35-44,F,Beauty & Personal Care,Fitness & Sports,premium,cold_start,2025-12-06
+USER_0364,25-34,M,Home & Living,Fashion,mid-range,moderate,2026-06-16
+USER_0365,35-44,M,Home & Living,Books & Media,mid-range,moderate,2026-05-28
+USER_0366,55+,F,Home & Living,Books & Media,premium,power,2025-03-29
+USER_0367,55+,M,Home & Living,Fitness & Sports,mid-range,moderate,2025-07-31
+USER_0368,25-34,M,Beauty & Personal Care,Fitness & Sports,mid-range,power,2025-11-04
+USER_0369,35-44,M,Home & Living,Electronics,mid-range,cold_start,2025-06-18
+USER_0370,35-44,F,Books & Media,Fashion,mid-range,cold_start,2026-03-13
+USER_0371,25-34,M,Fashion,Home & Living,mid-range,moderate,2026-03-19
+USER_0372,35-44,F,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2025-01-05
+USER_0373,25-34,F,Electronics,Beauty & Personal Care,budget,moderate,2026-07-04
+USER_0374,25-34,M,Home & Living,Books & Media,mid-range,moderate,2025-11-17
+USER_0375,35-44,F,Home & Living,Fitness & Sports,premium,casual,2025-06-26
+USER_0376,35-44,M,Books & Media,Beauty & Personal Care,budget,moderate,2025-05-18
+USER_0377,25-34,M,Home & Living,Fashion,mid-range,moderate,2026-03-05
+USER_0378,25-34,M,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2025-06-27
+USER_0379,25-34,M,Home & Living,Books & Media,mid-range,cold_start,2026-01-03
+USER_0380,25-34,M,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2026-05-22
+USER_0381,25-34,F,Fitness & Sports,Books & Media,budget,casual,2025-02-01
+USER_0382,25-34,M,Fashion,Beauty & Personal Care,budget,moderate,2026-04-14
+USER_0383,35-44,F,Books & Media,Electronics,mid-range,casual,2025-10-02
+USER_0384,45-54,M,Electronics,Books & Media,mid-range,power,2026-03-12
+USER_0385,45-54,F,Home & Living,Electronics,mid-range,casual,2025-12-23
+USER_0386,18-24,F,Electronics,Home & Living,budget,casual,2025-12-26
+USER_0387,35-44,M,Books & Media,Fashion,mid-range,casual,2025-07-31
+USER_0388,25-34,F,Books & Media,Beauty & Personal Care,budget,moderate,2025-10-27
+USER_0389,25-34,F,Beauty & Personal Care,Electronics,budget,cold_start,2026-02-26
+USER_0390,55+,F,Fashion,Home & Living,budget,casual,2025-11-26
+USER_0391,35-44,F,Fitness & Sports,Fashion,mid-range,casual,2025-10-03
+USER_0392,25-34,M,Electronics,Books & Media,mid-range,casual,2025-10-12
+USER_0393,45-54,M,Fitness & Sports,Home & Living,mid-range,casual,2025-04-06
+USER_0394,25-34,F,Home & Living,Electronics,mid-range,moderate,2026-02-12
+USER_0395,25-34,M,Home & Living,Fitness & Sports,premium,moderate,2025-12-12
+USER_0396,18-24,F,Home & Living,Electronics,budget,power,2026-04-16
+USER_0397,55+,M,Fitness & Sports,Electronics,premium,moderate,2026-03-15
+USER_0398,35-44,M,Beauty & Personal Care,Home & Living,budget,power,2025-10-08
+USER_0399,25-34,M,Beauty & Personal Care,Fashion,budget,casual,2025-11-09
+USER_0400,35-44,M,Electronics,Fashion,budget,power,2026-05-04
+USER_0401,35-44,F,Fitness & Sports,Electronics,budget,casual,2025-12-18
+USER_0402,55+,M,Fashion,Books & Media,budget,power,2026-01-28
+USER_0403,45-54,M,Home & Living,Fitness & Sports,budget,casual,2025-05-17
+USER_0404,35-44,M,Books & Media,Electronics,mid-range,moderate,2025-06-18
+USER_0405,35-44,F,Fashion,Books & Media,mid-range,casual,2026-03-30
+USER_0406,18-24,M,Electronics,Beauty & Personal Care,mid-range,cold_start,2025-12-26
+USER_0407,25-34,M,Home & Living,Electronics,budget,casual,2025-10-19
+USER_0408,35-44,F,Beauty & Personal Care,Home & Living,budget,moderate,2026-06-06
+USER_0409,25-34,F,Fashion,Books & Media,mid-range,moderate,2025-09-04
+USER_0410,35-44,F,Electronics,Fitness & Sports,premium,moderate,2025-05-16
+USER_0411,45-54,M,Books & Media,Fashion,mid-range,power,2025-03-16
+USER_0412,18-24,M,Electronics,Fashion,premium,moderate,2026-02-12
+USER_0413,35-44,F,Fitness & Sports,Books & Media,mid-range,casual,2025-03-26
+USER_0414,25-34,M,Electronics,Fitness & Sports,budget,cold_start,2025-07-28
+USER_0415,18-24,M,Books & Media,Electronics,mid-range,casual,2026-03-24
+USER_0416,45-54,M,Electronics,Books & Media,budget,moderate,2025-02-26
+USER_0417,35-44,F,Electronics,Fashion,mid-range,moderate,2025-01-12
+USER_0418,55+,F,Beauty & Personal Care,Home & Living,budget,casual,2025-05-10
+USER_0419,45-54,F,Electronics,Fashion,mid-range,moderate,2026-03-16
+USER_0420,18-24,F,Books & Media,Electronics,mid-range,moderate,2026-06-08
+USER_0421,25-34,F,Home & Living,Fashion,budget,casual,2025-04-16
+USER_0422,35-44,M,Beauty & Personal Care,Books & Media,budget,moderate,2025-01-13
+USER_0423,25-34,M,Fashion,Home & Living,premium,moderate,2025-02-06
+USER_0424,45-54,F,Fitness & Sports,Fashion,mid-range,cold_start,2026-03-03
+USER_0425,25-34,F,Books & Media,Home & Living,budget,moderate,2025-02-23
+USER_0426,45-54,Other,Fitness & Sports,Electronics,premium,casual,2025-10-17
+USER_0427,25-34,M,Fitness & Sports,Electronics,mid-range,moderate,2025-10-26
+USER_0428,25-34,F,Fitness & Sports,Home & Living,mid-range,cold_start,2026-05-21
+USER_0429,35-44,F,Books & Media,Fashion,budget,power,2026-02-24
+USER_0430,25-34,F,Beauty & Personal Care,Electronics,premium,casual,2025-01-02
+USER_0431,25-34,F,Home & Living,Electronics,budget,moderate,2025-09-01
+USER_0432,55+,Other,Fashion,Fitness & Sports,budget,casual,2025-08-26
+USER_0433,25-34,F,Home & Living,Books & Media,premium,moderate,2025-03-28
+USER_0434,25-34,F,Fitness & Sports,Electronics,mid-range,moderate,2025-03-05
+USER_0435,55+,M,Home & Living,Fitness & Sports,premium,casual,2026-02-07
+USER_0436,35-44,M,Home & Living,Fashion,budget,moderate,2025-07-27
+USER_0437,35-44,M,Electronics,Home & Living,mid-range,moderate,2025-11-18
+USER_0438,25-34,Other,Fashion,Books & Media,mid-range,casual,2025-09-29
+USER_0439,18-24,F,Home & Living,Beauty & Personal Care,budget,moderate,2025-12-02
+USER_0440,35-44,Other,Fitness & Sports,Beauty & Personal Care,budget,moderate,2025-11-03
+USER_0441,55+,M,Fitness & Sports,Books & Media,mid-range,moderate,2026-07-18
+USER_0442,25-34,F,Fashion,Electronics,budget,moderate,2025-08-16
+USER_0443,45-54,M,Beauty & Personal Care,Electronics,mid-range,cold_start,2025-09-23
+USER_0444,18-24,Other,Fashion,Books & Media,premium,cold_start,2025-04-05
+USER_0445,45-54,M,Electronics,Books & Media,budget,casual,2026-03-20
+USER_0446,25-34,M,Beauty & Personal Care,Fitness & Sports,budget,cold_start,2025-08-08
+USER_0447,25-34,M,Fashion,Electronics,mid-range,casual,2025-09-09
+USER_0448,25-34,F,Fitness & Sports,Electronics,budget,moderate,2026-01-28
+USER_0449,18-24,F,Books & Media,Fashion,mid-range,casual,2026-07-11
+USER_0450,55+,F,Home & Living,Books & Media,mid-range,moderate,2026-05-12
+USER_0451,25-34,M,Home & Living,Fashion,budget,power,2025-08-13
+USER_0452,45-54,M,Fitness & Sports,Beauty & Personal Care,mid-range,cold_start,2025-08-27
+USER_0453,18-24,F,Home & Living,Beauty & Personal Care,premium,casual,2025-02-27
+USER_0454,55+,F,Fitness & Sports,Home & Living,premium,moderate,2025-06-27
+USER_0455,35-44,F,Beauty & Personal Care,Home & Living,premium,casual,2025-01-29
+USER_0456,25-34,F,Fashion,Beauty & Personal Care,premium,moderate,2026-05-20
+USER_0457,18-24,M,Electronics,Home & Living,mid-range,moderate,2025-01-21
+USER_0458,18-24,F,Fashion,Home & Living,mid-range,cold_start,2025-07-01
+USER_0459,45-54,M,Electronics,Home & Living,mid-range,casual,2025-05-26
+USER_0460,45-54,F,Electronics,Fitness & Sports,mid-range,moderate,2026-02-10
+USER_0461,25-34,M,Fashion,Books & Media,mid-range,casual,2026-05-14
+USER_0462,18-24,Other,Beauty & Personal Care,Books & Media,mid-range,casual,2025-08-17
+USER_0463,45-54,M,Beauty & Personal Care,Home & Living,budget,cold_start,2025-01-02
+USER_0464,55+,M,Books & Media,Electronics,budget,cold_start,2025-11-22
+USER_0465,55+,M,Books & Media,Electronics,premium,moderate,2025-05-25
+USER_0466,18-24,M,Home & Living,Fashion,mid-range,casual,2025-04-01
+USER_0467,35-44,F,Home & Living,Books & Media,budget,moderate,2025-08-03
+USER_0468,18-24,M,Electronics,Fashion,budget,casual,2026-03-25
+USER_0469,55+,F,Fitness & Sports,Books & Media,mid-range,power,2026-01-20
+USER_0470,25-34,F,Beauty & Personal Care,Fashion,budget,casual,2025-03-17
+USER_0471,18-24,M,Home & Living,Electronics,budget,casual,2025-06-24
+USER_0472,18-24,M,Electronics,Fitness & Sports,mid-range,casual,2026-05-10
+USER_0473,25-34,F,Books & Media,Fitness & Sports,budget,moderate,2025-04-14
+USER_0474,55+,M,Books & Media,Beauty & Personal Care,budget,moderate,2025-10-16
+USER_0475,18-24,M,Books & Media,Fitness & Sports,budget,power,2026-01-05
+USER_0476,18-24,F,Beauty & Personal Care,Books & Media,mid-range,power,2025-04-10
+USER_0477,18-24,M,Electronics,Books & Media,premium,casual,2025-11-12
+USER_0478,25-34,F,Home & Living,Electronics,mid-range,moderate,2026-02-01
+USER_0479,45-54,M,Fitness & Sports,Electronics,budget,moderate,2026-04-22
+USER_0480,45-54,F,Fashion,Electronics,budget,casual,2025-12-19
+USER_0481,25-34,F,Fashion,Beauty & Personal Care,budget,casual,2026-02-01
+USER_0482,25-34,F,Fitness & Sports,Beauty & Personal Care,premium,moderate,2026-05-03
+USER_0483,25-34,F,Electronics,Beauty & Personal Care,mid-range,casual,2026-06-14
+USER_0484,35-44,F,Electronics,Books & Media,budget,cold_start,2025-06-21
+USER_0485,45-54,M,Fitness & Sports,Electronics,premium,moderate,2026-03-22
+USER_0486,45-54,M,Books & Media,Home & Living,mid-range,power,2025-03-10
+USER_0487,25-34,F,Home & Living,Beauty & Personal Care,mid-range,casual,2025-01-13
+USER_0488,35-44,F,Fitness & Sports,Electronics,mid-range,moderate,2025-06-01
+USER_0489,35-44,Other,Electronics,Fashion,mid-range,casual,2025-04-14
+USER_0490,45-54,F,Fitness & Sports,Home & Living,mid-range,moderate,2026-05-13
+USER_0491,25-34,M,Fitness & Sports,Fashion,mid-range,power,2026-02-16
+USER_0492,45-54,M,Fashion,Electronics,mid-range,casual,2025-10-03
+USER_0493,18-24,F,Home & Living,Fitness & Sports,budget,casual,2026-05-19
+USER_0494,35-44,Other,Fashion,Home & Living,mid-range,casual,2026-03-30
+USER_0495,25-34,F,Books & Media,Electronics,budget,cold_start,2025-08-05
+USER_0496,25-34,F,Books & Media,Home & Living,premium,casual,2026-06-12
+USER_0497,18-24,F,Fitness & Sports,Fashion,mid-range,casual,2026-06-21
+USER_0498,18-24,M,Fashion,Electronics,budget,power,2026-04-13
+USER_0499,25-34,M,Home & Living,Books & Media,mid-range,casual,2025-05-07
+USER_0500,25-34,F,Fitness & Sports,Fashion,premium,moderate,2026-05-01
+USER_0501,25-34,M,Home & Living,Electronics,budget,power,2026-01-31
+USER_0502,45-54,F,Fashion,Home & Living,mid-range,moderate,2025-07-31
+USER_0503,25-34,M,Beauty & Personal Care,Electronics,mid-range,casual,2025-05-16
+USER_0504,35-44,M,Home & Living,Beauty & Personal Care,premium,casual,2025-11-09
+USER_0505,35-44,M,Fitness & Sports,Home & Living,mid-range,moderate,2025-08-12
+USER_0506,35-44,F,Fitness & Sports,Beauty & Personal Care,budget,cold_start,2026-06-08
+USER_0507,55+,F,Books & Media,Beauty & Personal Care,mid-range,casual,2025-11-02
+USER_0508,25-34,M,Home & Living,Fitness & Sports,premium,casual,2025-09-25
+USER_0509,55+,F,Fashion,Home & Living,mid-range,casual,2025-09-04
+USER_0510,45-54,F,Books & Media,Fitness & Sports,mid-range,casual,2025-05-24
+USER_0511,35-44,Other,Home & Living,Books & Media,mid-range,moderate,2025-02-06
+USER_0512,55+,F,Home & Living,Fashion,mid-range,cold_start,2026-05-03
+USER_0513,35-44,F,Fashion,Beauty & Personal Care,budget,moderate,2025-04-10
+USER_0514,35-44,F,Books & Media,Fashion,premium,casual,2025-12-10
+USER_0515,25-34,M,Home & Living,Books & Media,mid-range,moderate,2025-12-06
+USER_0516,35-44,M,Electronics,Books & Media,budget,moderate,2025-03-14
+USER_0517,18-24,M,Beauty & Personal Care,Fitness & Sports,mid-range,power,2026-02-28
+USER_0518,45-54,M,Fashion,Fitness & Sports,mid-range,moderate,2026-04-14
+USER_0519,45-54,M,Electronics,Books & Media,mid-range,moderate,2025-07-01
+USER_0520,18-24,M,Fashion,Home & Living,mid-range,moderate,2025-06-12
+USER_0521,35-44,M,Books & Media,Fitness & Sports,mid-range,moderate,2026-02-18
+USER_0522,25-34,M,Books & Media,Fashion,mid-range,casual,2025-01-15
+USER_0523,35-44,F,Electronics,Fashion,mid-range,moderate,2025-09-12
+USER_0524,45-54,M,Electronics,Books & Media,mid-range,moderate,2025-11-10
+USER_0525,45-54,M,Home & Living,Books & Media,mid-range,moderate,2026-06-21
+USER_0526,45-54,Other,Home & Living,Books & Media,mid-range,moderate,2025-07-12
+USER_0527,45-54,F,Electronics,Home & Living,budget,moderate,2025-05-15
+USER_0528,18-24,F,Electronics,Fitness & Sports,mid-range,moderate,2025-02-08
+USER_0529,35-44,F,Books & Media,Electronics,mid-range,casual,2025-02-19
+USER_0530,35-44,M,Beauty & Personal Care,Electronics,mid-range,moderate,2026-01-25
+USER_0531,25-34,F,Fashion,Electronics,mid-range,casual,2025-04-14
+USER_0532,25-34,F,Fashion,Books & Media,premium,moderate,2025-04-18
+USER_0533,35-44,M,Electronics,Books & Media,budget,casual,2025-07-24
+USER_0534,45-54,Other,Home & Living,Books & Media,budget,moderate,2025-02-10
+USER_0535,45-54,F,Fitness & Sports,Home & Living,budget,casual,2025-01-14
+USER_0536,45-54,F,Beauty & Personal Care,Fitness & Sports,budget,casual,2025-04-03
+USER_0537,18-24,F,Home & Living,Fashion,mid-range,moderate,2025-10-31
+USER_0538,18-24,F,Electronics,Fitness & Sports,mid-range,moderate,2025-11-17
+USER_0539,18-24,F,Electronics,Fashion,premium,moderate,2025-06-24
+USER_0540,45-54,F,Home & Living,Electronics,mid-range,moderate,2025-12-17
+USER_0541,25-34,Other,Home & Living,Books & Media,mid-range,casual,2026-05-05
+USER_0542,35-44,F,Electronics,Home & Living,mid-range,cold_start,2025-03-02
+USER_0543,45-54,M,Books & Media,Fitness & Sports,premium,moderate,2026-03-25
+USER_0544,25-34,M,Electronics,Home & Living,mid-range,power,2026-05-15
+USER_0545,25-34,M,Home & Living,Fitness & Sports,budget,casual,2026-06-22
+USER_0546,25-34,F,Beauty & Personal Care,Home & Living,mid-range,moderate,2025-04-08
+USER_0547,35-44,F,Beauty & Personal Care,Fitness & Sports,budget,casual,2026-07-26
+USER_0548,35-44,M,Fashion,Beauty & Personal Care,premium,casual,2026-05-23
+USER_0549,18-24,F,Fashion,Fitness & Sports,premium,moderate,2025-02-21
+USER_0550,25-34,M,Fashion,Electronics,mid-range,power,2026-04-04
+USER_0551,25-34,M,Fitness & Sports,Electronics,budget,power,2026-02-27
+USER_0552,25-34,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2026-06-05
+USER_0553,35-44,M,Home & Living,Fitness & Sports,premium,casual,2025-08-17
+USER_0554,25-34,F,Books & Media,Fitness & Sports,mid-range,casual,2026-01-08
+USER_0555,18-24,F,Fashion,Electronics,mid-range,moderate,2025-10-26
+USER_0556,25-34,M,Fashion,Books & Media,budget,power,2026-02-24
+USER_0557,35-44,M,Fitness & Sports,Fashion,mid-range,casual,2025-07-15
+USER_0558,18-24,M,Beauty & Personal Care,Books & Media,budget,moderate,2026-04-07
+USER_0559,35-44,F,Fitness & Sports,Electronics,mid-range,moderate,2025-02-19
+USER_0560,25-34,F,Books & Media,Fashion,mid-range,casual,2025-06-27
+USER_0561,18-24,M,Books & Media,Beauty & Personal Care,premium,casual,2026-06-01
+USER_0562,25-34,F,Beauty & Personal Care,Fashion,budget,cold_start,2025-12-18
+USER_0563,25-34,M,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2026-06-09
+USER_0564,35-44,F,Beauty & Personal Care,Books & Media,mid-range,moderate,2025-07-25
+USER_0565,35-44,F,Beauty & Personal Care,Fashion,premium,moderate,2025-07-02
+USER_0566,35-44,M,Electronics,Fitness & Sports,mid-range,casual,2026-03-04
+USER_0567,45-54,F,Fitness & Sports,Electronics,mid-range,moderate,2025-01-26
+USER_0568,18-24,M,Home & Living,Fashion,premium,moderate,2025-09-14
+USER_0569,18-24,F,Fashion,Beauty & Personal Care,budget,power,2026-04-09
+USER_0570,45-54,F,Fashion,Beauty & Personal Care,mid-range,casual,2026-06-08
+USER_0571,35-44,M,Beauty & Personal Care,Electronics,premium,moderate,2026-02-01
+USER_0572,35-44,F,Books & Media,Electronics,budget,moderate,2025-09-15
+USER_0573,45-54,F,Fitness & Sports,Fashion,premium,casual,2026-01-12
+USER_0574,25-34,F,Beauty & Personal Care,Fashion,budget,cold_start,2025-07-01
+USER_0575,18-24,Other,Beauty & Personal Care,Books & Media,budget,moderate,2025-02-11
+USER_0576,25-34,M,Books & Media,Home & Living,budget,casual,2026-04-23
+USER_0577,18-24,M,Home & Living,Beauty & Personal Care,budget,moderate,2025-11-05
+USER_0578,25-34,M,Beauty & Personal Care,Home & Living,mid-range,moderate,2025-07-08
+USER_0579,35-44,M,Books & Media,Beauty & Personal Care,mid-range,moderate,2025-12-24
+USER_0580,25-34,M,Home & Living,Fitness & Sports,budget,moderate,2026-06-28
+USER_0581,25-34,F,Beauty & Personal Care,Electronics,budget,moderate,2025-12-21
+USER_0582,45-54,F,Books & Media,Fashion,premium,moderate,2025-11-25
+USER_0583,35-44,M,Home & Living,Beauty & Personal Care,mid-range,cold_start,2025-01-26
+USER_0584,45-54,M,Books & Media,Fitness & Sports,mid-range,casual,2025-10-31
+USER_0585,18-24,F,Electronics,Home & Living,premium,moderate,2026-07-05
+USER_0586,35-44,M,Beauty & Personal Care,Fashion,premium,casual,2026-03-11
+USER_0587,25-34,F,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2025-03-15
+USER_0588,18-24,M,Home & Living,Electronics,budget,moderate,2025-02-25
+USER_0589,25-34,M,Fashion,Fitness & Sports,mid-range,casual,2026-04-07
+USER_0590,25-34,M,Beauty & Personal Care,Electronics,mid-range,casual,2025-03-06
+USER_0591,35-44,F,Electronics,Fitness & Sports,premium,moderate,2025-04-19
+USER_0592,35-44,F,Home & Living,Books & Media,mid-range,moderate,2025-02-01
+USER_0593,25-34,M,Fitness & Sports,Beauty & Personal Care,budget,moderate,2025-05-28
+USER_0594,45-54,Other,Beauty & Personal Care,Home & Living,premium,moderate,2025-01-12
+USER_0595,25-34,M,Electronics,Beauty & Personal Care,mid-range,moderate,2026-07-05
+USER_0596,18-24,M,Beauty & Personal Care,Home & Living,budget,moderate,2026-06-09
+USER_0597,18-24,F,Home & Living,Fashion,budget,casual,2025-02-25
+USER_0598,55+,Other,Fitness & Sports,Beauty & Personal Care,budget,moderate,2025-03-10
+USER_0599,18-24,F,Home & Living,Fitness & Sports,budget,power,2025-08-29
+USER_0600,35-44,F,Home & Living,Books & Media,mid-range,casual,2025-11-10
+USER_0601,18-24,F,Home & Living,Books & Media,budget,moderate,2025-11-17
+USER_0602,25-34,F,Fitness & Sports,Home & Living,premium,casual,2025-05-18
+USER_0603,25-34,M,Fitness & Sports,Home & Living,mid-range,moderate,2026-05-14
+USER_0604,18-24,F,Home & Living,Fashion,premium,moderate,2025-07-21
+USER_0605,45-54,M,Electronics,Fashion,premium,casual,2025-02-01
+USER_0606,25-34,F,Fashion,Electronics,mid-range,casual,2026-07-11
+USER_0607,25-34,F,Fashion,Fitness & Sports,mid-range,moderate,2025-10-25
+USER_0608,25-34,M,Home & Living,Beauty & Personal Care,budget,casual,2025-09-02
+USER_0609,45-54,F,Fashion,Beauty & Personal Care,budget,moderate,2025-06-13
+USER_0610,55+,F,Fashion,Books & Media,premium,moderate,2025-02-11
+USER_0611,25-34,M,Home & Living,Fashion,budget,moderate,2025-07-31
+USER_0612,35-44,M,Fitness & Sports,Electronics,budget,power,2025-11-28
+USER_0613,55+,F,Home & Living,Fitness & Sports,mid-range,moderate,2025-06-28
+USER_0614,25-34,F,Electronics,Beauty & Personal Care,budget,moderate,2025-08-17
+USER_0615,25-34,F,Fitness & Sports,Books & Media,premium,moderate,2025-01-07
+USER_0616,18-24,M,Electronics,Beauty & Personal Care,mid-range,moderate,2025-08-05
+USER_0617,18-24,F,Electronics,Home & Living,mid-range,casual,2025-12-05
+USER_0618,25-34,M,Fashion,Beauty & Personal Care,budget,power,2026-02-25
+USER_0619,18-24,F,Fashion,Home & Living,mid-range,casual,2025-02-10
+USER_0620,18-24,M,Fashion,Beauty & Personal Care,premium,casual,2026-08-01
+USER_0621,45-54,F,Home & Living,Electronics,budget,casual,2026-04-28
+USER_0622,18-24,F,Books & Media,Fashion,mid-range,casual,2025-07-06
+USER_0623,25-34,M,Beauty & Personal Care,Home & Living,premium,moderate,2025-03-12
+USER_0624,25-34,M,Fashion,Beauty & Personal Care,premium,casual,2026-06-01
+USER_0625,45-54,F,Fashion,Books & Media,premium,casual,2025-02-09
+USER_0626,25-34,F,Electronics,Books & Media,mid-range,casual,2026-07-07
+USER_0627,45-54,F,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2026-01-15
+USER_0628,35-44,M,Fitness & Sports,Books & Media,mid-range,moderate,2025-04-11
+USER_0629,25-34,F,Electronics,Fitness & Sports,mid-range,moderate,2026-07-11
+USER_0630,18-24,F,Electronics,Beauty & Personal Care,mid-range,power,2026-06-17
+USER_0631,35-44,F,Home & Living,Books & Media,mid-range,moderate,2025-06-08
+USER_0632,35-44,M,Books & Media,Fitness & Sports,mid-range,cold_start,2025-10-10
+USER_0633,25-34,M,Books & Media,Beauty & Personal Care,mid-range,moderate,2026-01-15
+USER_0634,25-34,Other,Books & Media,Home & Living,mid-range,casual,2026-02-12
+USER_0635,45-54,F,Beauty & Personal Care,Fashion,mid-range,power,2025-06-15
+USER_0636,25-34,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2025-02-23
+USER_0637,55+,M,Electronics,Home & Living,mid-range,power,2026-03-22
+USER_0638,25-34,M,Books & Media,Electronics,mid-range,casual,2026-02-15
+USER_0639,25-34,F,Books & Media,Electronics,premium,casual,2025-06-29
+USER_0640,25-34,M,Beauty & Personal Care,Books & Media,budget,casual,2025-02-04
+USER_0641,25-34,F,Books & Media,Fashion,mid-range,moderate,2026-01-04
+USER_0642,18-24,M,Home & Living,Books & Media,mid-range,moderate,2026-02-09
+USER_0643,25-34,M,Beauty & Personal Care,Electronics,premium,moderate,2026-07-17
+USER_0644,45-54,F,Home & Living,Fitness & Sports,premium,moderate,2025-10-11
+USER_0645,55+,M,Fitness & Sports,Beauty & Personal Care,budget,moderate,2025-06-29
+USER_0646,18-24,M,Home & Living,Fitness & Sports,premium,cold_start,2026-06-10
+USER_0647,45-54,F,Books & Media,Home & Living,mid-range,moderate,2026-01-22
+USER_0648,35-44,F,Fitness & Sports,Books & Media,premium,moderate,2025-01-29
+USER_0649,25-34,M,Fashion,Home & Living,premium,cold_start,2026-02-27
+USER_0650,25-34,M,Home & Living,Fashion,budget,casual,2026-02-13
+USER_0651,45-54,M,Fashion,Books & Media,mid-range,casual,2025-08-12
+USER_0652,25-34,F,Beauty & Personal Care,Fashion,mid-range,moderate,2025-07-24
+USER_0653,25-34,M,Fashion,Home & Living,premium,moderate,2025-12-31
+USER_0654,18-24,F,Beauty & Personal Care,Fitness & Sports,mid-range,cold_start,2026-07-09
+USER_0655,45-54,M,Home & Living,Books & Media,premium,moderate,2025-10-09
+USER_0656,55+,F,Home & Living,Books & Media,budget,power,2025-05-12
+USER_0657,35-44,M,Books & Media,Electronics,mid-range,casual,2026-02-08
+USER_0658,35-44,M,Electronics,Beauty & Personal Care,mid-range,power,2025-01-09
+USER_0659,25-34,F,Home & Living,Fitness & Sports,mid-range,moderate,2025-09-23
+USER_0660,25-34,M,Books & Media,Home & Living,mid-range,moderate,2026-05-26
+USER_0661,25-34,F,Home & Living,Books & Media,budget,moderate,2025-07-04
+USER_0662,55+,F,Electronics,Fitness & Sports,premium,moderate,2026-07-23
+USER_0663,25-34,M,Beauty & Personal Care,Fashion,mid-range,moderate,2025-01-10
+USER_0664,25-34,Other,Beauty & Personal Care,Books & Media,mid-range,casual,2025-11-20
+USER_0665,25-34,F,Books & Media,Electronics,mid-range,power,2025-06-17
+USER_0666,45-54,M,Beauty & Personal Care,Electronics,mid-range,moderate,2025-12-09
+USER_0667,25-34,F,Home & Living,Fitness & Sports,budget,moderate,2025-05-05
+USER_0668,35-44,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2026-07-06
+USER_0669,35-44,M,Beauty & Personal Care,Books & Media,mid-range,casual,2026-04-03
+USER_0670,25-34,M,Beauty & Personal Care,Fashion,premium,moderate,2025-12-12
+USER_0671,35-44,M,Electronics,Fashion,budget,moderate,2025-08-22
+USER_0672,35-44,F,Books & Media,Fitness & Sports,budget,casual,2026-04-01
+USER_0673,55+,F,Books & Media,Fitness & Sports,mid-range,casual,2025-07-08
+USER_0674,18-24,M,Home & Living,Electronics,budget,power,2026-02-11
+USER_0675,18-24,F,Books & Media,Electronics,budget,moderate,2026-02-11
+USER_0676,55+,M,Books & Media,Fashion,budget,moderate,2026-02-04
+USER_0677,25-34,M,Beauty & Personal Care,Fashion,budget,power,2025-06-24
+USER_0678,35-44,F,Home & Living,Books & Media,mid-range,cold_start,2026-07-08
+USER_0679,25-34,M,Beauty & Personal Care,Books & Media,budget,casual,2026-04-13
+USER_0680,35-44,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2025-12-22
+USER_0681,25-34,M,Home & Living,Fitness & Sports,mid-range,moderate,2025-06-09
+USER_0682,18-24,F,Fashion,Fitness & Sports,budget,power,2026-07-02
+USER_0683,55+,F,Fitness & Sports,Home & Living,budget,casual,2026-03-17
+USER_0684,35-44,F,Books & Media,Home & Living,budget,moderate,2026-07-29
+USER_0685,25-34,F,Beauty & Personal Care,Fitness & Sports,premium,moderate,2025-08-14
+USER_0686,25-34,M,Books & Media,Home & Living,budget,casual,2026-06-29
+USER_0687,25-34,F,Fashion,Home & Living,budget,casual,2026-04-12
+USER_0688,25-34,F,Fashion,Fitness & Sports,budget,cold_start,2025-02-20
+USER_0689,18-24,Other,Home & Living,Fitness & Sports,budget,casual,2026-03-25
+USER_0690,25-34,M,Fitness & Sports,Fashion,mid-range,casual,2025-11-16
+USER_0691,25-34,M,Beauty & Personal Care,Electronics,mid-range,power,2025-05-30
+USER_0692,35-44,M,Fitness & Sports,Fashion,budget,casual,2025-09-14
+USER_0693,45-54,M,Beauty & Personal Care,Fashion,mid-range,moderate,2026-03-30
+USER_0694,55+,M,Beauty & Personal Care,Electronics,mid-range,moderate,2025-08-02
+USER_0695,35-44,M,Home & Living,Fashion,mid-range,casual,2025-02-13
+USER_0696,25-34,M,Fitness & Sports,Home & Living,budget,casual,2025-02-23
+USER_0697,25-34,M,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2025-06-21
+USER_0698,35-44,M,Fashion,Electronics,premium,casual,2026-05-02
+USER_0699,18-24,F,Fashion,Home & Living,mid-range,cold_start,2025-12-13
+USER_0700,55+,F,Electronics,Fitness & Sports,mid-range,casual,2026-07-04
+USER_0701,18-24,M,Books & Media,Home & Living,premium,casual,2026-03-26
+USER_0702,18-24,M,Beauty & Personal Care,Fashion,budget,moderate,2025-02-10
+USER_0703,25-34,M,Beauty & Personal Care,Fitness & Sports,budget,moderate,2025-07-11
+USER_0704,25-34,M,Books & Media,Beauty & Personal Care,budget,moderate,2026-06-28
+USER_0705,25-34,M,Home & Living,Books & Media,budget,moderate,2026-06-03
+USER_0706,18-24,M,Home & Living,Beauty & Personal Care,budget,casual,2025-03-06
+USER_0707,25-34,M,Books & Media,Fitness & Sports,mid-range,casual,2025-06-07
+USER_0708,25-34,F,Electronics,Fashion,mid-range,power,2025-03-10
+USER_0709,55+,M,Electronics,Home & Living,budget,power,2025-07-16
+USER_0710,25-34,F,Beauty & Personal Care,Fitness & Sports,mid-range,power,2025-09-20
+USER_0711,25-34,F,Electronics,Home & Living,mid-range,moderate,2025-03-23
+USER_0712,35-44,M,Beauty & Personal Care,Fitness & Sports,premium,casual,2025-03-01
+USER_0713,25-34,M,Electronics,Fitness & Sports,budget,cold_start,2025-08-10
+USER_0714,18-24,F,Books & Media,Fitness & Sports,budget,casual,2026-06-23
+USER_0715,25-34,F,Books & Media,Beauty & Personal Care,mid-range,casual,2025-04-19
+USER_0716,25-34,F,Beauty & Personal Care,Fitness & Sports,premium,casual,2025-06-20
+USER_0717,25-34,F,Beauty & Personal Care,Fashion,mid-range,cold_start,2026-03-30
+USER_0718,45-54,F,Home & Living,Fitness & Sports,mid-range,casual,2026-03-17
+USER_0719,25-34,M,Books & Media,Fashion,mid-range,cold_start,2026-07-18
+USER_0720,25-34,Other,Fitness & Sports,Books & Media,budget,cold_start,2025-02-05
+USER_0721,35-44,F,Home & Living,Electronics,mid-range,moderate,2025-08-16
+USER_0722,25-34,F,Beauty & Personal Care,Home & Living,premium,moderate,2026-06-08
+USER_0723,55+,M,Electronics,Books & Media,mid-range,moderate,2025-05-22
+USER_0724,45-54,M,Home & Living,Fitness & Sports,budget,moderate,2026-02-14
+USER_0725,25-34,M,Home & Living,Books & Media,budget,moderate,2025-04-08
+USER_0726,25-34,F,Books & Media,Fitness & Sports,budget,cold_start,2025-02-27
+USER_0727,25-34,F,Fitness & Sports,Books & Media,premium,casual,2025-05-04
+USER_0728,25-34,F,Books & Media,Electronics,mid-range,power,2026-01-27
+USER_0729,25-34,M,Books & Media,Fashion,mid-range,moderate,2025-08-15
+USER_0730,35-44,Other,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2025-04-03
+USER_0731,25-34,M,Fashion,Fitness & Sports,budget,moderate,2025-02-20
+USER_0732,25-34,M,Fitness & Sports,Fashion,mid-range,moderate,2026-05-08
+USER_0733,25-34,F,Fashion,Beauty & Personal Care,mid-range,moderate,2026-06-21
+USER_0734,18-24,F,Home & Living,Beauty & Personal Care,budget,moderate,2026-02-28
+USER_0735,25-34,M,Books & Media,Electronics,mid-range,cold_start,2025-06-23
+USER_0736,35-44,Other,Fitness & Sports,Beauty & Personal Care,budget,cold_start,2025-02-15
+USER_0737,25-34,F,Fashion,Electronics,budget,moderate,2025-02-25
+USER_0738,35-44,M,Home & Living,Electronics,mid-range,moderate,2025-04-24
+USER_0739,25-34,M,Beauty & Personal Care,Books & Media,budget,moderate,2026-07-14
+USER_0740,25-34,F,Beauty & Personal Care,Fashion,mid-range,moderate,2025-01-19
+USER_0741,45-54,F,Home & Living,Fashion,budget,casual,2025-07-25
+USER_0742,35-44,M,Beauty & Personal Care,Electronics,budget,casual,2025-10-05
+USER_0743,45-54,M,Electronics,Fashion,budget,moderate,2026-01-31
+USER_0744,25-34,Other,Electronics,Fitness & Sports,mid-range,power,2026-06-29
+USER_0745,18-24,Other,Books & Media,Electronics,budget,moderate,2026-06-27
+USER_0746,25-34,F,Electronics,Fitness & Sports,mid-range,casual,2025-12-30
+USER_0747,25-34,Other,Books & Media,Home & Living,premium,casual,2025-09-21
+USER_0748,45-54,F,Electronics,Beauty & Personal Care,premium,moderate,2025-08-19
+USER_0749,45-54,F,Electronics,Books & Media,mid-range,moderate,2025-08-21
+USER_0750,25-34,M,Home & Living,Beauty & Personal Care,mid-range,moderate,2026-07-10
+USER_0751,35-44,F,Beauty & Personal Care,Fashion,premium,casual,2025-11-13
+USER_0752,45-54,F,Fitness & Sports,Fashion,mid-range,moderate,2025-06-11
+USER_0753,25-34,F,Electronics,Home & Living,mid-range,casual,2025-05-30
+USER_0754,35-44,F,Fitness & Sports,Books & Media,mid-range,moderate,2025-10-08
+USER_0755,18-24,M,Electronics,Beauty & Personal Care,mid-range,moderate,2025-08-25
+USER_0756,25-34,M,Electronics,Books & Media,budget,casual,2026-04-26
+USER_0757,25-34,F,Fitness & Sports,Books & Media,budget,moderate,2025-07-17
+USER_0758,25-34,Other,Home & Living,Books & Media,budget,casual,2025-07-27
+USER_0759,18-24,F,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2025-11-29
+USER_0760,45-54,M,Electronics,Beauty & Personal Care,mid-range,casual,2026-01-25
+USER_0761,25-34,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2025-02-09
+USER_0762,25-34,F,Electronics,Home & Living,mid-range,cold_start,2026-02-10
+USER_0763,18-24,M,Beauty & Personal Care,Electronics,budget,moderate,2026-03-27
+USER_0764,25-34,F,Fitness & Sports,Fashion,mid-range,casual,2025-02-25
+USER_0765,45-54,M,Beauty & Personal Care,Fitness & Sports,budget,power,2026-05-28
+USER_0766,35-44,F,Beauty & Personal Care,Books & Media,budget,moderate,2026-02-28
+USER_0767,18-24,M,Beauty & Personal Care,Fashion,premium,moderate,2025-04-03
+USER_0768,35-44,F,Fashion,Electronics,budget,casual,2026-04-06
+USER_0769,18-24,F,Beauty & Personal Care,Books & Media,mid-range,moderate,2025-06-13
+USER_0770,25-34,F,Home & Living,Beauty & Personal Care,premium,moderate,2025-06-03
+USER_0771,18-24,F,Electronics,Books & Media,mid-range,moderate,2026-04-02
+USER_0772,18-24,F,Fashion,Electronics,mid-range,power,2025-09-17
+USER_0773,25-34,F,Electronics,Beauty & Personal Care,premium,moderate,2025-09-01
+USER_0774,35-44,M,Fitness & Sports,Electronics,mid-range,moderate,2025-01-07
+USER_0775,25-34,F,Books & Media,Fashion,budget,power,2025-06-01
+USER_0776,25-34,M,Electronics,Beauty & Personal Care,premium,moderate,2025-11-02
+USER_0777,18-24,M,Fashion,Home & Living,mid-range,moderate,2026-07-30
+USER_0778,25-34,F,Electronics,Fashion,mid-range,moderate,2025-11-27
+USER_0779,25-34,M,Fitness & Sports,Beauty & Personal Care,budget,moderate,2026-04-28
+USER_0780,35-44,M,Books & Media,Fitness & Sports,mid-range,casual,2025-08-03
+USER_0781,18-24,F,Beauty & Personal Care,Books & Media,premium,casual,2026-05-11
+USER_0782,35-44,F,Beauty & Personal Care,Home & Living,mid-range,moderate,2025-11-21
+USER_0783,25-34,F,Fashion,Beauty & Personal Care,mid-range,casual,2026-06-17
+USER_0784,25-34,F,Books & Media,Fashion,mid-range,power,2025-07-18
+USER_0785,18-24,F,Electronics,Home & Living,mid-range,moderate,2026-03-01
+USER_0786,25-34,F,Beauty & Personal Care,Fashion,budget,casual,2025-07-26
+USER_0787,25-34,M,Home & Living,Beauty & Personal Care,mid-range,power,2025-01-07
+USER_0788,25-34,M,Books & Media,Beauty & Personal Care,premium,moderate,2025-06-29
+USER_0789,45-54,F,Fitness & Sports,Books & Media,mid-range,moderate,2025-05-20
+USER_0790,35-44,F,Books & Media,Home & Living,mid-range,cold_start,2026-02-28
+USER_0791,18-24,F,Books & Media,Home & Living,mid-range,moderate,2025-01-20
+USER_0792,35-44,F,Home & Living,Electronics,premium,casual,2025-10-15
+USER_0793,25-34,M,Books & Media,Fashion,mid-range,moderate,2026-02-03
+USER_0794,18-24,F,Home & Living,Fitness & Sports,mid-range,moderate,2025-10-06
+USER_0795,25-34,M,Fitness & Sports,Home & Living,budget,moderate,2025-11-06
+USER_0796,25-34,M,Fashion,Electronics,mid-range,casual,2025-01-26
+USER_0797,45-54,M,Home & Living,Books & Media,mid-range,moderate,2026-06-21
+USER_0798,25-34,F,Electronics,Beauty & Personal Care,mid-range,moderate,2025-05-16
+USER_0799,18-24,M,Books & Media,Electronics,budget,casual,2025-02-15
+USER_0800,35-44,M,Fitness & Sports,Electronics,budget,power,2025-11-16
+USER_0801,35-44,F,Fashion,Fitness & Sports,budget,moderate,2025-10-21
+USER_0802,25-34,M,Electronics,Fitness & Sports,budget,power,2025-10-08
+USER_0803,55+,F,Electronics,Home & Living,mid-range,moderate,2026-07-17
+USER_0804,18-24,F,Home & Living,Beauty & Personal Care,budget,moderate,2025-03-14
+USER_0805,45-54,F,Electronics,Home & Living,budget,power,2025-02-21
+USER_0806,18-24,M,Fashion,Beauty & Personal Care,premium,casual,2026-04-02
+USER_0807,25-34,F,Beauty & Personal Care,Books & Media,budget,moderate,2026-04-22
+USER_0808,18-24,F,Beauty & Personal Care,Fitness & Sports,budget,casual,2025-11-14
+USER_0809,35-44,M,Fashion,Home & Living,budget,cold_start,2025-09-22
+USER_0810,25-34,F,Beauty & Personal Care,Home & Living,mid-range,moderate,2025-11-29
+USER_0811,18-24,M,Home & Living,Books & Media,mid-range,moderate,2025-06-24
+USER_0812,25-34,F,Books & Media,Electronics,mid-range,moderate,2025-04-20
+USER_0813,35-44,F,Books & Media,Fitness & Sports,mid-range,moderate,2026-02-28
+USER_0814,25-34,M,Fitness & Sports,Books & Media,budget,casual,2025-08-02
+USER_0815,35-44,F,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2026-07-12
+USER_0816,18-24,F,Beauty & Personal Care,Books & Media,premium,moderate,2025-04-28
+USER_0817,25-34,F,Fitness & Sports,Fashion,mid-range,power,2026-02-20
+USER_0818,18-24,F,Fitness & Sports,Home & Living,mid-range,power,2025-03-04
+USER_0819,45-54,F,Beauty & Personal Care,Electronics,mid-range,moderate,2025-06-02
+USER_0820,25-34,F,Fitness & Sports,Fashion,budget,moderate,2025-11-21
+USER_0821,35-44,F,Fitness & Sports,Home & Living,premium,casual,2025-01-09
+USER_0822,25-34,F,Home & Living,Electronics,mid-range,cold_start,2026-07-17
+USER_0823,18-24,F,Home & Living,Electronics,premium,moderate,2025-02-01
+USER_0824,35-44,M,Home & Living,Books & Media,mid-range,moderate,2026-03-22
+USER_0825,35-44,M,Fashion,Beauty & Personal Care,mid-range,casual,2026-01-04
+USER_0826,18-24,Other,Beauty & Personal Care,Fashion,budget,casual,2025-03-15
+USER_0827,18-24,F,Beauty & Personal Care,Fitness & Sports,premium,power,2025-05-20
+USER_0828,35-44,M,Fitness & Sports,Beauty & Personal Care,premium,moderate,2025-07-04
+USER_0829,25-34,F,Fitness & Sports,Home & Living,budget,casual,2026-03-11
+USER_0830,25-34,F,Fashion,Beauty & Personal Care,budget,moderate,2026-07-14
+USER_0831,18-24,M,Fitness & Sports,Home & Living,budget,cold_start,2026-05-09
+USER_0832,18-24,F,Books & Media,Home & Living,mid-range,moderate,2025-03-22
+USER_0833,35-44,M,Beauty & Personal Care,Electronics,mid-range,casual,2026-07-07
+USER_0834,25-34,M,Home & Living,Beauty & Personal Care,mid-range,moderate,2026-04-26
+USER_0835,45-54,F,Home & Living,Books & Media,mid-range,moderate,2025-10-29
+USER_0836,18-24,F,Beauty & Personal Care,Home & Living,mid-range,moderate,2026-08-01
+USER_0837,35-44,F,Books & Media,Electronics,mid-range,casual,2025-10-26
+USER_0838,35-44,M,Electronics,Home & Living,mid-range,moderate,2025-10-12
+USER_0839,35-44,M,Home & Living,Electronics,mid-range,cold_start,2025-06-28
+USER_0840,35-44,F,Home & Living,Fashion,budget,moderate,2025-08-30
+USER_0841,35-44,F,Home & Living,Electronics,premium,casual,2025-06-07
+USER_0842,35-44,M,Fitness & Sports,Fashion,mid-range,moderate,2025-06-21
+USER_0843,35-44,M,Beauty & Personal Care,Home & Living,mid-range,power,2025-04-29
+USER_0844,25-34,M,Fitness & Sports,Beauty & Personal Care,budget,moderate,2026-02-04
+USER_0845,18-24,F,Electronics,Fitness & Sports,premium,moderate,2026-04-05
+USER_0846,25-34,F,Electronics,Fashion,premium,cold_start,2025-12-29
+USER_0847,25-34,F,Home & Living,Fitness & Sports,budget,moderate,2025-04-11
+USER_0848,35-44,M,Beauty & Personal Care,Fashion,mid-range,moderate,2025-07-19
+USER_0849,35-44,Other,Home & Living,Beauty & Personal Care,budget,casual,2025-01-09
+USER_0850,18-24,M,Electronics,Books & Media,mid-range,moderate,2025-10-18
+USER_0851,18-24,F,Electronics,Beauty & Personal Care,mid-range,cold_start,2025-08-11
+USER_0852,35-44,F,Electronics,Fashion,premium,moderate,2025-05-14
+USER_0853,35-44,F,Fashion,Electronics,mid-range,moderate,2025-09-17
+USER_0854,35-44,M,Fitness & Sports,Home & Living,mid-range,moderate,2025-11-28
+USER_0855,35-44,M,Electronics,Books & Media,mid-range,moderate,2025-03-03
+USER_0856,45-54,M,Electronics,Books & Media,premium,casual,2025-07-25
+USER_0857,18-24,F,Fashion,Beauty & Personal Care,mid-range,casual,2025-08-12
+USER_0858,18-24,M,Home & Living,Electronics,budget,moderate,2025-03-14
+USER_0859,25-34,M,Fitness & Sports,Fashion,mid-range,cold_start,2025-01-01
+USER_0860,35-44,M,Beauty & Personal Care,Home & Living,premium,moderate,2025-01-04
+USER_0861,55+,F,Fitness & Sports,Books & Media,premium,moderate,2025-03-13
+USER_0862,18-24,F,Fitness & Sports,Electronics,mid-range,moderate,2026-01-03
+USER_0863,25-34,M,Beauty & Personal Care,Electronics,mid-range,power,2025-12-15
+USER_0864,25-34,F,Beauty & Personal Care,Fashion,budget,cold_start,2025-02-10
+USER_0865,35-44,M,Fitness & Sports,Electronics,mid-range,moderate,2026-01-03
+USER_0866,45-54,M,Fashion,Home & Living,budget,casual,2025-01-26
+USER_0867,35-44,F,Electronics,Beauty & Personal Care,mid-range,moderate,2026-05-27
+USER_0868,45-54,M,Electronics,Fashion,mid-range,casual,2025-12-12
+USER_0869,18-24,M,Beauty & Personal Care,Books & Media,mid-range,moderate,2026-07-04
+USER_0870,25-34,F,Electronics,Home & Living,mid-range,moderate,2025-01-20
+USER_0871,45-54,M,Beauty & Personal Care,Fashion,budget,cold_start,2025-02-21
+USER_0872,45-54,M,Books & Media,Fashion,premium,casual,2025-03-07
+USER_0873,18-24,F,Books & Media,Fashion,budget,moderate,2025-07-27
+USER_0874,45-54,Other,Beauty & Personal Care,Fitness & Sports,mid-range,moderate,2026-07-13
+USER_0875,45-54,F,Electronics,Beauty & Personal Care,budget,moderate,2025-03-06
+USER_0876,18-24,M,Beauty & Personal Care,Home & Living,mid-range,moderate,2026-03-26
+USER_0877,35-44,M,Beauty & Personal Care,Books & Media,mid-range,power,2025-06-11
+USER_0878,25-34,M,Fashion,Electronics,mid-range,moderate,2025-10-18
+USER_0879,45-54,F,Beauty & Personal Care,Fashion,budget,moderate,2025-10-05
+USER_0880,25-34,F,Books & Media,Electronics,mid-range,casual,2026-05-27
+USER_0881,18-24,F,Home & Living,Fitness & Sports,mid-range,moderate,2026-07-26
+USER_0882,18-24,F,Electronics,Beauty & Personal Care,mid-range,moderate,2026-07-07
+USER_0883,25-34,F,Fashion,Fitness & Sports,budget,casual,2025-04-26
+USER_0884,35-44,Other,Fitness & Sports,Books & Media,budget,power,2025-02-14
+USER_0885,25-34,M,Home & Living,Fitness & Sports,mid-range,power,2026-04-10
+USER_0886,35-44,F,Fashion,Home & Living,mid-range,moderate,2026-05-12
+USER_0887,18-24,M,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2026-03-06
+USER_0888,35-44,M,Electronics,Fitness & Sports,budget,casual,2025-08-31
+USER_0889,45-54,M,Fashion,Electronics,mid-range,power,2026-05-12
+USER_0890,25-34,M,Books & Media,Fitness & Sports,budget,moderate,2026-01-18
+USER_0891,35-44,F,Home & Living,Fashion,mid-range,casual,2025-02-02
+USER_0892,18-24,M,Fitness & Sports,Books & Media,mid-range,moderate,2025-12-18
+USER_0893,25-34,M,Beauty & Personal Care,Books & Media,premium,casual,2026-07-21
+USER_0894,18-24,F,Fitness & Sports,Fashion,mid-range,moderate,2026-04-19
+USER_0895,35-44,F,Fashion,Home & Living,mid-range,casual,2025-08-16
+USER_0896,35-44,M,Books & Media,Electronics,mid-range,power,2025-02-15
+USER_0897,25-34,F,Electronics,Books & Media,mid-range,casual,2026-05-06
+USER_0898,35-44,M,Fitness & Sports,Fashion,budget,casual,2025-01-13
+USER_0899,25-34,M,Home & Living,Fitness & Sports,budget,power,2025-04-03
+USER_0900,35-44,M,Fitness & Sports,Beauty & Personal Care,mid-range,cold_start,2025-01-25
+USER_0901,25-34,M,Beauty & Personal Care,Fitness & Sports,budget,casual,2026-01-15
+USER_0902,35-44,M,Beauty & Personal Care,Electronics,mid-range,moderate,2025-12-07
+USER_0903,25-34,F,Beauty & Personal Care,Books & Media,mid-range,casual,2025-08-01
+USER_0904,18-24,F,Beauty & Personal Care,Electronics,mid-range,casual,2026-01-08
+USER_0905,18-24,M,Books & Media,Electronics,mid-range,casual,2025-06-29
+USER_0906,35-44,F,Fashion,Home & Living,premium,moderate,2025-09-02
+USER_0907,35-44,F,Books & Media,Fashion,mid-range,moderate,2025-08-19
+USER_0908,45-54,F,Fitness & Sports,Home & Living,budget,moderate,2026-01-17
+USER_0909,25-34,F,Electronics,Books & Media,mid-range,casual,2026-06-30
+USER_0910,25-34,M,Beauty & Personal Care,Electronics,budget,power,2026-04-14
+USER_0911,25-34,M,Electronics,Fashion,budget,casual,2025-04-25
+USER_0912,25-34,F,Books & Media,Electronics,budget,cold_start,2026-07-09
+USER_0913,25-34,M,Beauty & Personal Care,Electronics,budget,power,2025-03-06
+USER_0914,45-54,F,Books & Media,Home & Living,mid-range,casual,2025-12-18
+USER_0915,35-44,F,Beauty & Personal Care,Books & Media,premium,moderate,2026-04-01
+USER_0916,25-34,F,Home & Living,Fashion,mid-range,moderate,2025-08-21
+USER_0917,55+,F,Electronics,Home & Living,mid-range,cold_start,2026-04-12
+USER_0918,35-44,M,Books & Media,Home & Living,budget,casual,2025-06-29
+USER_0919,35-44,F,Fashion,Home & Living,budget,cold_start,2025-02-12
+USER_0920,25-34,M,Home & Living,Fashion,budget,casual,2025-02-05
+USER_0921,55+,M,Fitness & Sports,Beauty & Personal Care,premium,moderate,2026-07-01
+USER_0922,55+,M,Fitness & Sports,Fashion,premium,moderate,2025-11-24
+USER_0923,55+,F,Books & Media,Home & Living,mid-range,moderate,2025-10-30
+USER_0924,25-34,F,Books & Media,Fashion,mid-range,moderate,2026-03-29
+USER_0925,18-24,M,Electronics,Home & Living,mid-range,moderate,2025-04-30
+USER_0926,25-34,F,Fitness & Sports,Home & Living,budget,casual,2025-02-26
+USER_0927,18-24,F,Home & Living,Fashion,budget,casual,2026-07-06
+USER_0928,35-44,F,Books & Media,Fitness & Sports,budget,casual,2025-11-22
+USER_0929,25-34,M,Beauty & Personal Care,Home & Living,mid-range,moderate,2026-03-14
+USER_0930,25-34,M,Home & Living,Fitness & Sports,premium,power,2026-07-29
+USER_0931,35-44,M,Fitness & Sports,Books & Media,budget,casual,2026-03-11
+USER_0932,25-34,F,Books & Media,Electronics,budget,moderate,2025-11-07
+USER_0933,45-54,Other,Electronics,Beauty & Personal Care,mid-range,power,2025-04-01
+USER_0934,35-44,M,Fashion,Beauty & Personal Care,mid-range,moderate,2025-05-21
+USER_0935,45-54,M,Fitness & Sports,Electronics,premium,casual,2025-11-06
+USER_0936,25-34,F,Fitness & Sports,Fashion,budget,moderate,2025-01-03
+USER_0937,25-34,F,Beauty & Personal Care,Fitness & Sports,budget,moderate,2025-10-22
+USER_0938,25-34,F,Fashion,Electronics,budget,moderate,2025-10-11
+USER_0939,55+,F,Home & Living,Beauty & Personal Care,mid-range,casual,2026-03-23
+USER_0940,35-44,M,Beauty & Personal Care,Electronics,mid-range,casual,2025-01-18
+USER_0941,18-24,M,Home & Living,Books & Media,premium,moderate,2025-05-19
+USER_0942,18-24,M,Beauty & Personal Care,Home & Living,budget,moderate,2025-10-26
+USER_0943,55+,F,Beauty & Personal Care,Fashion,mid-range,moderate,2025-06-21
+USER_0944,45-54,F,Beauty & Personal Care,Home & Living,budget,power,2026-01-07
+USER_0945,35-44,F,Electronics,Home & Living,mid-range,casual,2026-01-17
+USER_0946,25-34,F,Fashion,Electronics,budget,moderate,2026-05-31
+USER_0947,18-24,F,Books & Media,Beauty & Personal Care,premium,casual,2026-07-19
+USER_0948,45-54,M,Electronics,Fashion,premium,moderate,2025-01-18
+USER_0949,25-34,M,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2025-12-17
+USER_0950,25-34,F,Electronics,Home & Living,budget,casual,2025-05-26
+USER_0951,25-34,M,Electronics,Books & Media,mid-range,power,2025-04-25
+USER_0952,35-44,F,Electronics,Home & Living,budget,moderate,2026-06-10
+USER_0953,25-34,F,Electronics,Fashion,mid-range,casual,2025-01-11
+USER_0954,35-44,F,Fashion,Beauty & Personal Care,premium,casual,2025-07-09
+USER_0955,18-24,M,Beauty & Personal Care,Home & Living,premium,moderate,2025-12-23
+USER_0956,45-54,F,Books & Media,Fashion,mid-range,power,2025-03-11
+USER_0957,25-34,M,Fashion,Home & Living,premium,cold_start,2025-06-25
+USER_0958,25-34,Other,Electronics,Home & Living,premium,moderate,2026-05-02
+USER_0959,35-44,M,Electronics,Home & Living,premium,moderate,2026-01-24
+USER_0960,25-34,M,Home & Living,Electronics,mid-range,moderate,2026-06-17
+USER_0961,35-44,F,Books & Media,Electronics,budget,power,2026-05-21
+USER_0962,25-34,F,Home & Living,Books & Media,budget,moderate,2026-02-22
+USER_0963,45-54,M,Electronics,Books & Media,premium,moderate,2026-01-12
+USER_0964,55+,F,Electronics,Books & Media,mid-range,power,2025-03-29
+USER_0965,25-34,F,Electronics,Home & Living,budget,moderate,2025-07-23
+USER_0966,35-44,Other,Electronics,Home & Living,premium,moderate,2026-05-27
+USER_0967,35-44,F,Home & Living,Books & Media,mid-range,cold_start,2026-02-19
+USER_0968,25-34,M,Fitness & Sports,Electronics,budget,moderate,2026-05-17
+USER_0969,35-44,M,Electronics,Fashion,premium,casual,2026-05-26
+USER_0970,55+,M,Beauty & Personal Care,Home & Living,budget,casual,2025-04-09
+USER_0971,35-44,F,Fitness & Sports,Books & Media,budget,moderate,2026-05-25
+USER_0972,25-34,M,Books & Media,Beauty & Personal Care,budget,cold_start,2025-02-02
+USER_0973,45-54,M,Fitness & Sports,Home & Living,premium,moderate,2026-03-30
+USER_0974,18-24,F,Home & Living,Fashion,mid-range,moderate,2025-05-18
+USER_0975,25-34,F,Books & Media,Fitness & Sports,mid-range,moderate,2026-07-07
+USER_0976,25-34,F,Books & Media,Electronics,mid-range,moderate,2026-05-22
+USER_0977,25-34,F,Home & Living,Fitness & Sports,budget,moderate,2025-02-16
+USER_0978,25-34,F,Books & Media,Electronics,mid-range,moderate,2025-12-16
+USER_0979,25-34,Other,Fitness & Sports,Home & Living,budget,moderate,2025-09-08
+USER_0980,35-44,F,Beauty & Personal Care,Electronics,premium,moderate,2025-04-28
+USER_0981,18-24,M,Fitness & Sports,Books & Media,mid-range,moderate,2026-03-08
+USER_0982,35-44,F,Home & Living,Books & Media,mid-range,moderate,2025-11-27
+USER_0983,45-54,M,Beauty & Personal Care,Fashion,mid-range,casual,2026-05-30
+USER_0984,35-44,M,Home & Living,Fitness & Sports,premium,moderate,2025-07-26
+USER_0985,45-54,F,Books & Media,Fashion,budget,moderate,2025-02-18
+USER_0986,25-34,F,Books & Media,Electronics,mid-range,moderate,2025-04-08
+USER_0987,25-34,F,Books & Media,Fitness & Sports,mid-range,casual,2025-12-22
+USER_0988,35-44,M,Home & Living,Books & Media,mid-range,moderate,2025-11-17
+USER_0989,25-34,F,Fitness & Sports,Beauty & Personal Care,budget,casual,2025-01-20
+USER_0990,25-34,M,Fitness & Sports,Fashion,mid-range,moderate,2026-04-24
+USER_0991,35-44,F,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2025-03-03
+USER_0992,25-34,M,Fashion,Fitness & Sports,premium,moderate,2026-02-25
+USER_0993,45-54,M,Fashion,Books & Media,budget,casual,2025-10-21
+USER_0994,25-34,F,Fitness & Sports,Fashion,budget,power,2025-07-16
+USER_0995,35-44,M,Fitness & Sports,Beauty & Personal Care,premium,casual,2026-03-09
+USER_0996,18-24,M,Fashion,Electronics,budget,casual,2025-10-12
+USER_0997,18-24,F,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2025-02-26
+USER_0998,18-24,F,Electronics,Books & Media,premium,moderate,2025-04-03
+USER_0999,45-54,F,Fashion,Electronics,mid-range,cold_start,2026-05-28
+USER_1000,25-34,F,Books & Media,Home & Living,mid-range,moderate,2025-04-03
+USER_1001,18-24,F,Home & Living,Beauty & Personal Care,mid-range,cold_start,2025-08-30
+USER_1002,25-34,M,Fashion,Fitness & Sports,mid-range,casual,2025-09-18
+USER_1003,18-24,F,Beauty & Personal Care,Electronics,mid-range,moderate,2026-03-10
+USER_1004,25-34,M,Fashion,Fitness & Sports,mid-range,casual,2026-01-12
+USER_1005,18-24,Other,Books & Media,Electronics,premium,casual,2025-02-25
+USER_1006,35-44,M,Books & Media,Fitness & Sports,mid-range,cold_start,2026-01-07
+USER_1007,35-44,F,Fashion,Books & Media,mid-range,cold_start,2026-02-07
+USER_1008,45-54,M,Fashion,Fitness & Sports,budget,cold_start,2025-06-14
+USER_1009,35-44,F,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2025-10-08
+USER_1010,45-54,F,Fitness & Sports,Books & Media,premium,casual,2025-12-07
+USER_1011,45-54,F,Fashion,Fitness & Sports,mid-range,moderate,2025-12-27
+USER_1012,35-44,F,Home & Living,Books & Media,mid-range,casual,2025-02-23
+USER_1013,18-24,M,Beauty & Personal Care,Fashion,budget,casual,2025-07-24
+USER_1014,25-34,M,Fashion,Home & Living,mid-range,casual,2025-05-14
+USER_1015,35-44,F,Home & Living,Books & Media,mid-range,moderate,2025-05-17
+USER_1016,35-44,F,Home & Living,Fashion,budget,moderate,2026-01-12
+USER_1017,45-54,F,Books & Media,Fashion,budget,cold_start,2025-01-24
+USER_1018,35-44,F,Electronics,Books & Media,budget,power,2025-06-22
+USER_1019,35-44,F,Fashion,Electronics,premium,cold_start,2025-06-24
+USER_1020,18-24,F,Fitness & Sports,Books & Media,premium,power,2026-05-22
+USER_1021,35-44,M,Home & Living,Fitness & Sports,mid-range,moderate,2026-01-27
+USER_1022,45-54,F,Home & Living,Fashion,mid-range,casual,2026-02-23
+USER_1023,18-24,Other,Fashion,Beauty & Personal Care,mid-range,moderate,2025-09-12
+USER_1024,35-44,M,Electronics,Books & Media,budget,cold_start,2025-11-28
+USER_1025,25-34,M,Fitness & Sports,Books & Media,mid-range,power,2025-09-20
+USER_1026,25-34,M,Fashion,Books & Media,premium,power,2025-02-16
+USER_1027,25-34,M,Fitness & Sports,Home & Living,budget,power,2026-07-27
+USER_1028,18-24,M,Fitness & Sports,Home & Living,premium,power,2025-05-16
+USER_1029,35-44,M,Home & Living,Electronics,mid-range,moderate,2025-05-11
+USER_1030,55+,M,Home & Living,Books & Media,budget,casual,2025-09-27
+USER_1031,35-44,M,Home & Living,Books & Media,premium,casual,2025-11-20
+USER_1032,25-34,F,Books & Media,Fitness & Sports,budget,power,2025-06-02
+USER_1033,18-24,M,Fashion,Books & Media,mid-range,power,2026-05-22
+USER_1034,25-34,F,Fitness & Sports,Books & Media,mid-range,moderate,2025-06-01
+USER_1035,18-24,F,Fashion,Home & Living,mid-range,moderate,2025-10-07
+USER_1036,35-44,M,Electronics,Beauty & Personal Care,mid-range,moderate,2025-07-04
+USER_1037,18-24,F,Beauty & Personal Care,Electronics,premium,moderate,2025-01-27
+USER_1038,55+,M,Home & Living,Beauty & Personal Care,premium,casual,2025-04-19
+USER_1039,18-24,M,Beauty & Personal Care,Fitness & Sports,mid-range,moderate,2025-10-03
+USER_1040,18-24,Other,Beauty & Personal Care,Books & Media,premium,cold_start,2025-11-29
+USER_1041,55+,F,Books & Media,Fashion,budget,casual,2025-02-19
+USER_1042,25-34,F,Beauty & Personal Care,Electronics,mid-range,power,2026-01-26
+USER_1043,25-34,M,Fitness & Sports,Electronics,budget,moderate,2025-08-02
+USER_1044,35-44,M,Beauty & Personal Care,Fashion,budget,casual,2026-05-18
+USER_1045,35-44,F,Beauty & Personal Care,Books & Media,budget,casual,2025-04-09
+USER_1046,25-34,F,Fitness & Sports,Books & Media,budget,power,2026-03-10
+USER_1047,25-34,M,Fashion,Books & Media,mid-range,power,2025-04-06
+USER_1048,25-34,M,Fashion,Home & Living,premium,casual,2026-06-24
+USER_1049,25-34,M,Fitness & Sports,Electronics,premium,moderate,2026-05-05
+USER_1050,55+,F,Home & Living,Fashion,mid-range,moderate,2025-10-30
+USER_1051,25-34,F,Books & Media,Electronics,mid-range,power,2026-02-27
+USER_1052,35-44,F,Home & Living,Fitness & Sports,budget,casual,2025-03-25
+USER_1053,18-24,F,Fitness & Sports,Fashion,mid-range,power,2026-02-07
+USER_1054,25-34,F,Home & Living,Beauty & Personal Care,mid-range,casual,2026-04-06
+USER_1055,25-34,Other,Fashion,Home & Living,budget,casual,2025-09-23
+USER_1056,18-24,F,Electronics,Books & Media,budget,casual,2025-06-25
+USER_1057,25-34,M,Beauty & Personal Care,Books & Media,mid-range,casual,2025-11-07
+USER_1058,55+,M,Beauty & Personal Care,Fitness & Sports,premium,moderate,2025-03-31
+USER_1059,18-24,M,Electronics,Home & Living,premium,moderate,2025-08-03
+USER_1060,18-24,M,Beauty & Personal Care,Books & Media,budget,casual,2025-11-05
+USER_1061,18-24,M,Electronics,Home & Living,premium,cold_start,2026-04-01
+USER_1062,25-34,F,Books & Media,Fashion,budget,power,2026-02-06
+USER_1063,18-24,F,Beauty & Personal Care,Fitness & Sports,premium,casual,2026-05-23
+USER_1064,35-44,F,Home & Living,Electronics,mid-range,moderate,2026-05-13
+USER_1065,35-44,F,Fitness & Sports,Fashion,mid-range,power,2026-06-25
+USER_1066,25-34,F,Home & Living,Books & Media,premium,moderate,2025-04-30
+USER_1067,55+,M,Beauty & Personal Care,Fitness & Sports,budget,casual,2025-10-22
+USER_1068,25-34,M,Books & Media,Fashion,mid-range,cold_start,2025-12-14
+USER_1069,45-54,F,Fitness & Sports,Fashion,premium,cold_start,2026-02-04
+USER_1070,45-54,F,Beauty & Personal Care,Home & Living,mid-range,casual,2025-06-15
+USER_1071,25-34,F,Beauty & Personal Care,Fitness & Sports,budget,moderate,2025-07-24
+USER_1072,25-34,F,Fitness & Sports,Home & Living,budget,power,2026-07-25
+USER_1073,18-24,F,Home & Living,Fashion,budget,power,2026-05-31
+USER_1074,18-24,M,Books & Media,Fashion,budget,moderate,2025-08-18
+USER_1075,55+,F,Electronics,Beauty & Personal Care,budget,casual,2025-06-04
+USER_1076,45-54,F,Electronics,Fashion,premium,casual,2026-03-25
+USER_1077,55+,F,Electronics,Beauty & Personal Care,mid-range,casual,2025-04-15
+USER_1078,18-24,M,Beauty & Personal Care,Electronics,premium,moderate,2026-01-06
+USER_1079,25-34,M,Books & Media,Fitness & Sports,mid-range,moderate,2025-04-12
+USER_1080,25-34,F,Electronics,Home & Living,mid-range,casual,2026-03-02
+USER_1081,18-24,F,Fitness & Sports,Home & Living,budget,power,2025-06-25
+USER_1082,25-34,F,Home & Living,Fashion,budget,moderate,2026-06-27
+USER_1083,25-34,F,Fitness & Sports,Books & Media,premium,casual,2026-06-13
+USER_1084,25-34,M,Fashion,Electronics,mid-range,cold_start,2026-06-14
+USER_1085,18-24,M,Fashion,Books & Media,budget,casual,2025-02-07
+USER_1086,35-44,F,Electronics,Beauty & Personal Care,premium,moderate,2026-03-06
+USER_1087,35-44,F,Home & Living,Fitness & Sports,premium,casual,2025-01-09
+USER_1088,45-54,F,Fashion,Books & Media,mid-range,casual,2025-07-30
+USER_1089,35-44,F,Fitness & Sports,Home & Living,premium,casual,2026-02-19
+USER_1090,45-54,M,Books & Media,Home & Living,mid-range,moderate,2025-05-10
+USER_1091,25-34,M,Books & Media,Beauty & Personal Care,mid-range,casual,2025-12-15
+USER_1092,18-24,M,Books & Media,Beauty & Personal Care,budget,casual,2025-11-08
+USER_1093,55+,M,Electronics,Fitness & Sports,budget,moderate,2026-06-04
+USER_1094,18-24,F,Electronics,Books & Media,budget,moderate,2025-01-06
+USER_1095,55+,F,Books & Media,Beauty & Personal Care,mid-range,casual,2026-07-01
+USER_1096,25-34,M,Beauty & Personal Care,Books & Media,mid-range,moderate,2026-01-22
+USER_1097,25-34,M,Books & Media,Fashion,premium,moderate,2026-01-05
+USER_1098,18-24,M,Fitness & Sports,Electronics,budget,casual,2026-03-12
+USER_1099,25-34,M,Home & Living,Beauty & Personal Care,mid-range,moderate,2026-07-27
+USER_1100,25-34,M,Fitness & Sports,Books & Media,premium,casual,2026-05-17
+USER_1101,25-34,M,Books & Media,Fashion,mid-range,moderate,2026-04-14
+USER_1102,35-44,F,Electronics,Home & Living,mid-range,casual,2025-02-03
+USER_1103,55+,M,Electronics,Beauty & Personal Care,premium,moderate,2025-04-23
+USER_1104,25-34,M,Fashion,Electronics,mid-range,moderate,2026-01-19
+USER_1105,25-34,F,Fashion,Beauty & Personal Care,mid-range,casual,2025-11-09
+USER_1106,25-34,F,Fitness & Sports,Electronics,budget,power,2025-12-24
+USER_1107,18-24,F,Home & Living,Beauty & Personal Care,mid-range,casual,2025-12-12
+USER_1108,25-34,F,Books & Media,Fashion,mid-range,casual,2026-06-01
+USER_1109,35-44,F,Fashion,Fitness & Sports,budget,moderate,2026-02-24
+USER_1110,45-54,M,Electronics,Books & Media,mid-range,casual,2025-04-01
+USER_1111,35-44,F,Beauty & Personal Care,Home & Living,mid-range,casual,2025-05-07
+USER_1112,18-24,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2026-06-19
+USER_1113,25-34,F,Electronics,Beauty & Personal Care,budget,moderate,2025-01-20
+USER_1114,25-34,F,Books & Media,Fitness & Sports,budget,casual,2026-07-01
+USER_1115,25-34,M,Electronics,Fitness & Sports,mid-range,power,2026-03-01
+USER_1116,25-34,M,Electronics,Fashion,premium,moderate,2026-07-09
+USER_1117,18-24,M,Electronics,Home & Living,mid-range,casual,2026-02-22
+USER_1118,18-24,Other,Fashion,Electronics,mid-range,moderate,2025-11-02
+USER_1119,25-34,M,Home & Living,Fitness & Sports,mid-range,power,2025-05-04
+USER_1120,25-34,F,Fashion,Books & Media,mid-range,moderate,2026-06-01
+USER_1121,18-24,M,Fitness & Sports,Beauty & Personal Care,mid-range,power,2026-05-11
+USER_1122,35-44,F,Electronics,Fitness & Sports,mid-range,moderate,2025-04-14
+USER_1123,25-34,F,Home & Living,Beauty & Personal Care,mid-range,casual,2025-03-27
+USER_1124,25-34,F,Fashion,Fitness & Sports,mid-range,casual,2025-06-22
+USER_1125,25-34,M,Books & Media,Fitness & Sports,budget,cold_start,2026-04-21
+USER_1126,35-44,F,Fashion,Electronics,budget,moderate,2026-05-09
+USER_1127,25-34,F,Home & Living,Fashion,mid-range,moderate,2026-06-07
+USER_1128,18-24,F,Electronics,Fitness & Sports,budget,casual,2025-05-06
+USER_1129,35-44,Other,Fitness & Sports,Fashion,mid-range,casual,2025-11-22
+USER_1130,55+,F,Beauty & Personal Care,Fitness & Sports,budget,moderate,2025-11-26
+USER_1131,25-34,F,Electronics,Home & Living,mid-range,casual,2025-01-03
+USER_1132,18-24,M,Fashion,Books & Media,mid-range,casual,2026-05-16
+USER_1133,25-34,F,Beauty & Personal Care,Electronics,mid-range,casual,2026-04-01
+USER_1134,25-34,F,Books & Media,Home & Living,mid-range,moderate,2025-01-09
+USER_1135,25-34,M,Electronics,Home & Living,mid-range,casual,2025-10-15
+USER_1136,35-44,M,Books & Media,Home & Living,premium,moderate,2025-08-15
+USER_1137,25-34,M,Home & Living,Books & Media,premium,power,2025-08-03
+USER_1138,55+,F,Electronics,Fitness & Sports,mid-range,moderate,2026-05-21
+USER_1139,18-24,F,Beauty & Personal Care,Books & Media,mid-range,moderate,2025-03-08
+USER_1140,35-44,M,Books & Media,Fashion,premium,moderate,2025-10-08
+USER_1141,35-44,Other,Beauty & Personal Care,Books & Media,mid-range,casual,2026-07-28
+USER_1142,18-24,M,Beauty & Personal Care,Electronics,premium,moderate,2025-11-27
+USER_1143,55+,M,Beauty & Personal Care,Books & Media,mid-range,moderate,2026-01-06
+USER_1144,18-24,F,Electronics,Fitness & Sports,premium,moderate,2026-06-30
+USER_1145,18-24,M,Electronics,Beauty & Personal Care,premium,cold_start,2025-08-20
+USER_1146,25-34,M,Fashion,Home & Living,budget,power,2025-11-15
+USER_1147,35-44,M,Fitness & Sports,Electronics,mid-range,casual,2025-12-09
+USER_1148,25-34,M,Home & Living,Electronics,premium,casual,2026-06-17
+USER_1149,55+,F,Books & Media,Fitness & Sports,mid-range,moderate,2026-04-03
+USER_1150,18-24,M,Electronics,Books & Media,mid-range,casual,2025-03-08
+USER_1151,18-24,F,Electronics,Fitness & Sports,mid-range,power,2026-03-19
+USER_1152,35-44,F,Home & Living,Books & Media,mid-range,moderate,2026-02-25
+USER_1153,35-44,F,Electronics,Books & Media,mid-range,casual,2026-03-15
+USER_1154,35-44,M,Beauty & Personal Care,Electronics,mid-range,moderate,2025-12-03
+USER_1155,18-24,M,Beauty & Personal Care,Electronics,mid-range,cold_start,2025-07-18
+USER_1156,18-24,F,Home & Living,Books & Media,mid-range,moderate,2026-04-01
+USER_1157,18-24,M,Fashion,Fitness & Sports,mid-range,cold_start,2026-06-10
+USER_1158,35-44,M,Books & Media,Fashion,budget,casual,2025-11-13
+USER_1159,25-34,Other,Books & Media,Beauty & Personal Care,mid-range,power,2025-05-29
+USER_1160,25-34,F,Electronics,Books & Media,mid-range,casual,2025-07-25
+USER_1161,25-34,M,Fashion,Books & Media,mid-range,moderate,2026-04-24
+USER_1162,25-34,F,Home & Living,Beauty & Personal Care,budget,moderate,2025-12-03
+USER_1163,25-34,F,Electronics,Books & Media,budget,casual,2025-01-04
+USER_1164,35-44,M,Fashion,Home & Living,mid-range,casual,2025-12-06
+USER_1165,25-34,M,Electronics,Fitness & Sports,budget,power,2026-01-02
+USER_1166,18-24,M,Fashion,Beauty & Personal Care,premium,power,2026-01-04
+USER_1167,18-24,M,Fashion,Home & Living,premium,moderate,2025-06-28
+USER_1168,25-34,M,Electronics,Home & Living,premium,power,2025-04-14
+USER_1169,35-44,M,Electronics,Fitness & Sports,premium,moderate,2025-11-09
+USER_1170,25-34,M,Fashion,Beauty & Personal Care,premium,casual,2026-03-21
+USER_1171,18-24,M,Fashion,Home & Living,budget,casual,2026-01-23
+USER_1172,25-34,M,Beauty & Personal Care,Fashion,premium,casual,2025-07-13
+USER_1173,25-34,M,Fashion,Electronics,mid-range,casual,2025-10-14
+USER_1174,45-54,Other,Fitness & Sports,Fashion,mid-range,casual,2026-04-27
+USER_1175,35-44,M,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2026-06-16
+USER_1176,25-34,M,Beauty & Personal Care,Fitness & Sports,mid-range,moderate,2026-05-22
+USER_1177,35-44,F,Books & Media,Electronics,budget,moderate,2025-07-27
+USER_1178,25-34,M,Fitness & Sports,Books & Media,mid-range,moderate,2026-01-19
+USER_1179,18-24,F,Home & Living,Books & Media,mid-range,moderate,2025-08-24
+USER_1180,25-34,F,Fitness & Sports,Books & Media,mid-range,moderate,2026-02-23
+USER_1181,25-34,M,Electronics,Home & Living,mid-range,casual,2025-09-29
+USER_1182,25-34,M,Books & Media,Beauty & Personal Care,mid-range,casual,2025-03-22
+USER_1183,55+,M,Electronics,Fitness & Sports,budget,moderate,2025-07-25
+USER_1184,35-44,M,Beauty & Personal Care,Home & Living,budget,cold_start,2025-05-22
+USER_1185,35-44,F,Home & Living,Electronics,mid-range,casual,2025-10-16
+USER_1186,35-44,M,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2025-01-13
+USER_1187,25-34,F,Fashion,Books & Media,budget,moderate,2025-08-03
+USER_1188,25-34,F,Fitness & Sports,Books & Media,mid-range,moderate,2025-03-29
+USER_1189,18-24,F,Beauty & Personal Care,Fitness & Sports,budget,casual,2026-04-06
+USER_1190,18-24,M,Fashion,Fitness & Sports,premium,moderate,2025-01-10
+USER_1191,35-44,M,Fashion,Books & Media,mid-range,casual,2026-02-18
+USER_1192,35-44,M,Books & Media,Electronics,mid-range,cold_start,2025-02-02
+USER_1193,18-24,F,Home & Living,Beauty & Personal Care,mid-range,cold_start,2026-02-05
+USER_1194,25-34,M,Books & Media,Fitness & Sports,budget,moderate,2025-04-22
+USER_1195,55+,F,Home & Living,Electronics,budget,moderate,2026-07-21
+USER_1196,45-54,F,Electronics,Home & Living,budget,moderate,2026-01-31
+USER_1197,25-34,F,Electronics,Books & Media,budget,power,2026-06-15
+USER_1198,25-34,F,Fitness & Sports,Fashion,premium,moderate,2025-05-13
+USER_1199,25-34,M,Fashion,Home & Living,premium,moderate,2025-11-14
+USER_1200,35-44,M,Books & Media,Beauty & Personal Care,premium,moderate,2025-07-27
+USER_1201,35-44,M,Electronics,Home & Living,mid-range,casual,2026-02-13
+USER_1202,25-34,M,Books & Media,Fitness & Sports,mid-range,casual,2025-02-10
+USER_1203,25-34,F,Fitness & Sports,Home & Living,mid-range,moderate,2025-11-01
+USER_1204,45-54,F,Fitness & Sports,Fashion,budget,moderate,2026-03-19
+USER_1205,45-54,M,Books & Media,Electronics,mid-range,moderate,2025-02-14
+USER_1206,45-54,M,Beauty & Personal Care,Books & Media,budget,casual,2025-03-10
+USER_1207,35-44,M,Fitness & Sports,Books & Media,premium,moderate,2026-07-21
+USER_1208,25-34,F,Books & Media,Home & Living,mid-range,moderate,2025-06-18
+USER_1209,25-34,M,Electronics,Books & Media,mid-range,casual,2026-02-13
+USER_1210,25-34,M,Electronics,Home & Living,mid-range,moderate,2026-04-21
+USER_1211,18-24,F,Fashion,Books & Media,budget,casual,2025-10-13
+USER_1212,18-24,M,Electronics,Home & Living,budget,casual,2026-07-02
+USER_1213,18-24,F,Electronics,Fitness & Sports,budget,moderate,2026-01-02
+USER_1214,35-44,F,Books & Media,Fashion,mid-range,casual,2025-02-18
+USER_1215,45-54,F,Beauty & Personal Care,Electronics,mid-range,moderate,2025-11-12
+USER_1216,35-44,M,Fitness & Sports,Fashion,premium,cold_start,2026-01-19
+USER_1217,18-24,M,Electronics,Fashion,mid-range,casual,2025-07-16
+USER_1218,18-24,F,Electronics,Home & Living,mid-range,moderate,2025-02-15
+USER_1219,18-24,M,Books & Media,Fashion,mid-range,moderate,2026-07-09
+USER_1220,25-34,M,Electronics,Fitness & Sports,mid-range,moderate,2025-01-16
+USER_1221,25-34,M,Fitness & Sports,Fashion,budget,casual,2025-10-13
+USER_1222,25-34,M,Fashion,Books & Media,mid-range,cold_start,2026-05-27
+USER_1223,18-24,F,Books & Media,Fashion,budget,moderate,2025-04-08
+USER_1224,55+,F,Beauty & Personal Care,Fashion,mid-range,cold_start,2025-11-22
+USER_1225,35-44,M,Electronics,Beauty & Personal Care,premium,moderate,2026-04-05
+USER_1226,35-44,M,Books & Media,Electronics,budget,moderate,2025-05-08
+USER_1227,35-44,F,Books & Media,Electronics,budget,moderate,2026-01-19
+USER_1228,25-34,M,Beauty & Personal Care,Electronics,budget,casual,2026-03-31
+USER_1229,25-34,M,Beauty & Personal Care,Electronics,mid-range,casual,2026-03-01
+USER_1230,25-34,M,Beauty & Personal Care,Home & Living,mid-range,moderate,2025-07-30
+USER_1231,45-54,F,Fashion,Home & Living,mid-range,moderate,2026-01-26
+USER_1232,18-24,F,Electronics,Books & Media,budget,power,2025-07-17
+USER_1233,55+,F,Fashion,Electronics,budget,casual,2026-07-17
+USER_1234,55+,M,Electronics,Books & Media,mid-range,moderate,2025-11-15
+USER_1235,18-24,M,Books & Media,Fashion,mid-range,cold_start,2026-04-05
+USER_1236,25-34,F,Fitness & Sports,Electronics,premium,moderate,2026-01-04
+USER_1237,18-24,M,Books & Media,Beauty & Personal Care,mid-range,casual,2025-06-09
+USER_1238,35-44,M,Fitness & Sports,Books & Media,premium,moderate,2025-11-04
+USER_1239,18-24,F,Home & Living,Books & Media,mid-range,moderate,2026-04-10
+USER_1240,25-34,F,Home & Living,Fashion,mid-range,moderate,2025-07-20
+USER_1241,18-24,M,Books & Media,Home & Living,mid-range,cold_start,2026-03-02
+USER_1242,55+,M,Fitness & Sports,Home & Living,mid-range,moderate,2025-03-14
+USER_1243,18-24,F,Fitness & Sports,Beauty & Personal Care,budget,cold_start,2026-03-23
+USER_1244,35-44,F,Home & Living,Beauty & Personal Care,mid-range,casual,2026-01-13
+USER_1245,35-44,F,Beauty & Personal Care,Fashion,budget,cold_start,2025-02-05
+USER_1246,25-34,F,Electronics,Home & Living,budget,cold_start,2026-04-12
+USER_1247,18-24,M,Books & Media,Fashion,budget,casual,2025-04-05
+USER_1248,45-54,M,Books & Media,Electronics,mid-range,casual,2025-07-13
+USER_1249,18-24,M,Beauty & Personal Care,Home & Living,mid-range,casual,2026-06-30
+USER_1250,25-34,M,Fitness & Sports,Electronics,budget,casual,2025-12-19
+USER_1251,25-34,M,Beauty & Personal Care,Fitness & Sports,mid-range,cold_start,2025-01-07
+USER_1252,45-54,M,Electronics,Books & Media,mid-range,casual,2025-10-23
+USER_1253,18-24,M,Beauty & Personal Care,Fashion,budget,moderate,2025-07-06
+USER_1254,18-24,F,Fashion,Home & Living,budget,casual,2025-07-07
+USER_1255,18-24,Other,Fitness & Sports,Books & Media,mid-range,casual,2025-04-22
+USER_1256,18-24,M,Fitness & Sports,Electronics,budget,power,2025-12-17
+USER_1257,25-34,F,Electronics,Fashion,budget,casual,2025-01-08
+USER_1258,35-44,M,Fashion,Beauty & Personal Care,mid-range,casual,2026-01-20
+USER_1259,55+,F,Fitness & Sports,Books & Media,mid-range,moderate,2026-03-16
+USER_1260,35-44,M,Home & Living,Fashion,premium,moderate,2026-02-13
+USER_1261,18-24,M,Home & Living,Electronics,budget,casual,2026-02-16
+USER_1262,45-54,M,Books & Media,Electronics,premium,cold_start,2025-10-14
+USER_1263,35-44,M,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2026-05-02
+USER_1264,35-44,M,Beauty & Personal Care,Home & Living,budget,casual,2026-01-04
+USER_1265,55+,F,Beauty & Personal Care,Fitness & Sports,budget,moderate,2026-05-12
+USER_1266,35-44,M,Fitness & Sports,Books & Media,premium,casual,2025-04-13
+USER_1267,25-34,M,Fashion,Beauty & Personal Care,premium,power,2026-06-01
+USER_1268,25-34,M,Beauty & Personal Care,Books & Media,premium,moderate,2026-04-24
+USER_1269,25-34,M,Beauty & Personal Care,Books & Media,budget,moderate,2025-08-05
+USER_1270,55+,F,Electronics,Books & Media,premium,moderate,2025-01-30
+USER_1271,55+,F,Home & Living,Fashion,mid-range,cold_start,2026-05-03
+USER_1272,35-44,F,Books & Media,Fitness & Sports,budget,casual,2025-12-07
+USER_1273,55+,F,Books & Media,Electronics,mid-range,cold_start,2026-01-22
+USER_1274,35-44,F,Beauty & Personal Care,Books & Media,premium,casual,2026-03-24
+USER_1275,25-34,M,Electronics,Fashion,budget,casual,2025-07-12
+USER_1276,18-24,M,Home & Living,Books & Media,mid-range,moderate,2025-01-02
+USER_1277,35-44,M,Fitness & Sports,Books & Media,mid-range,casual,2026-01-09
+USER_1278,55+,M,Beauty & Personal Care,Books & Media,mid-range,moderate,2025-04-20
+USER_1279,25-34,M,Fashion,Fitness & Sports,premium,casual,2026-05-27
+USER_1280,18-24,M,Beauty & Personal Care,Electronics,mid-range,moderate,2025-11-13
+USER_1281,35-44,M,Beauty & Personal Care,Books & Media,mid-range,moderate,2025-08-09
+USER_1282,35-44,M,Home & Living,Fashion,premium,casual,2025-08-04
+USER_1283,55+,M,Beauty & Personal Care,Electronics,premium,casual,2025-07-03
+USER_1284,35-44,M,Beauty & Personal Care,Fashion,premium,moderate,2026-07-16
+USER_1285,25-34,M,Home & Living,Books & Media,mid-range,casual,2026-06-25
+USER_1286,25-34,F,Beauty & Personal Care,Books & Media,mid-range,moderate,2025-05-15
+USER_1287,35-44,F,Electronics,Fitness & Sports,mid-range,moderate,2025-06-17
+USER_1288,25-34,F,Fashion,Home & Living,budget,casual,2025-07-20
+USER_1289,18-24,F,Books & Media,Electronics,mid-range,moderate,2025-06-01
+USER_1290,55+,F,Fashion,Electronics,budget,moderate,2026-05-01
+USER_1291,18-24,Other,Beauty & Personal Care,Home & Living,mid-range,casual,2025-06-02
+USER_1292,25-34,M,Fashion,Books & Media,mid-range,casual,2025-06-26
+USER_1293,25-34,F,Beauty & Personal Care,Electronics,mid-range,moderate,2026-01-27
+USER_1294,35-44,M,Electronics,Fashion,budget,casual,2026-05-16
+USER_1295,45-54,M,Books & Media,Beauty & Personal Care,premium,moderate,2026-05-07
+USER_1296,35-44,F,Fashion,Books & Media,mid-range,moderate,2026-03-21
+USER_1297,18-24,M,Beauty & Personal Care,Books & Media,budget,moderate,2025-01-21
+USER_1298,45-54,F,Books & Media,Fitness & Sports,budget,casual,2026-07-06
+USER_1299,35-44,M,Fashion,Electronics,budget,power,2025-07-04
+USER_1300,25-34,M,Electronics,Home & Living,mid-range,power,2025-06-15
+USER_1301,25-34,F,Electronics,Fashion,mid-range,cold_start,2026-01-08
+USER_1302,18-24,Other,Beauty & Personal Care,Electronics,budget,cold_start,2025-02-17
+USER_1303,25-34,F,Beauty & Personal Care,Books & Media,mid-range,casual,2026-05-18
+USER_1304,25-34,Other,Home & Living,Beauty & Personal Care,mid-range,casual,2025-08-03
+USER_1305,35-44,M,Electronics,Home & Living,budget,cold_start,2025-08-09
+USER_1306,35-44,M,Home & Living,Fitness & Sports,budget,power,2026-03-09
+USER_1307,25-34,M,Fashion,Books & Media,mid-range,casual,2025-09-18
+USER_1308,55+,M,Fashion,Electronics,mid-range,cold_start,2025-10-03
+USER_1309,35-44,M,Home & Living,Beauty & Personal Care,mid-range,casual,2026-06-08
+USER_1310,25-34,M,Fitness & Sports,Books & Media,budget,power,2025-09-11
+USER_1311,18-24,M,Books & Media,Fitness & Sports,budget,moderate,2025-04-02
+USER_1312,25-34,M,Fashion,Fitness & Sports,budget,cold_start,2026-01-22
+USER_1313,25-34,F,Electronics,Home & Living,mid-range,moderate,2025-11-10
+USER_1314,45-54,M,Home & Living,Beauty & Personal Care,premium,moderate,2026-07-19
+USER_1315,18-24,M,Home & Living,Books & Media,budget,moderate,2026-06-29
+USER_1316,45-54,M,Books & Media,Fashion,budget,casual,2026-06-10
+USER_1317,35-44,M,Books & Media,Home & Living,budget,casual,2026-01-15
+USER_1318,25-34,F,Beauty & Personal Care,Fitness & Sports,budget,casual,2025-12-29
+USER_1319,25-34,M,Fitness & Sports,Beauty & Personal Care,premium,moderate,2025-08-23
+USER_1320,45-54,F,Fitness & Sports,Home & Living,premium,power,2025-03-23
+USER_1321,25-34,M,Books & Media,Electronics,budget,moderate,2025-10-20
+USER_1322,25-34,F,Fitness & Sports,Beauty & Personal Care,premium,moderate,2025-05-20
+USER_1323,25-34,Other,Books & Media,Electronics,mid-range,cold_start,2025-07-14
+USER_1324,35-44,F,Beauty & Personal Care,Books & Media,mid-range,cold_start,2025-09-08
+USER_1325,35-44,F,Books & Media,Beauty & Personal Care,budget,cold_start,2026-04-05
+USER_1326,35-44,F,Books & Media,Fashion,budget,casual,2026-01-11
+USER_1327,25-34,F,Fitness & Sports,Books & Media,mid-range,cold_start,2026-01-18
+USER_1328,25-34,F,Books & Media,Electronics,budget,moderate,2026-05-10
+USER_1329,25-34,F,Books & Media,Fitness & Sports,budget,cold_start,2025-11-09
+USER_1330,55+,F,Electronics,Books & Media,premium,power,2026-05-15
+USER_1331,18-24,M,Home & Living,Fitness & Sports,budget,casual,2025-12-25
+USER_1332,18-24,M,Electronics,Books & Media,mid-range,moderate,2025-03-28
+USER_1333,45-54,M,Fitness & Sports,Electronics,budget,moderate,2025-09-14
+USER_1334,25-34,M,Fitness & Sports,Fashion,mid-range,power,2025-10-03
+USER_1335,25-34,F,Fashion,Home & Living,mid-range,power,2026-03-21
+USER_1336,45-54,F,Electronics,Home & Living,budget,moderate,2025-05-17
+USER_1337,35-44,F,Fashion,Home & Living,premium,power,2025-09-30
+USER_1338,25-34,F,Beauty & Personal Care,Fashion,mid-range,moderate,2026-02-14
+USER_1339,55+,F,Fitness & Sports,Fashion,budget,casual,2025-04-21
+USER_1340,18-24,M,Electronics,Home & Living,budget,moderate,2025-12-17
+USER_1341,35-44,M,Fitness & Sports,Home & Living,budget,casual,2025-03-26
+USER_1342,25-34,M,Books & Media,Fashion,budget,casual,2025-04-28
+USER_1343,55+,M,Fitness & Sports,Fashion,mid-range,casual,2025-04-16
+USER_1344,25-34,M,Books & Media,Fashion,budget,moderate,2025-05-16
+USER_1345,25-34,M,Fashion,Books & Media,budget,power,2025-07-24
+USER_1346,18-24,M,Home & Living,Fashion,budget,moderate,2026-03-13
+USER_1347,25-34,F,Home & Living,Electronics,budget,cold_start,2025-10-15
+USER_1348,35-44,M,Electronics,Home & Living,budget,casual,2025-02-23
+USER_1349,25-34,M,Home & Living,Beauty & Personal Care,budget,moderate,2025-07-09
+USER_1350,25-34,M,Electronics,Fashion,mid-range,casual,2026-07-20
+USER_1351,18-24,M,Home & Living,Beauty & Personal Care,mid-range,moderate,2026-01-16
+USER_1352,25-34,F,Electronics,Fashion,budget,power,2025-05-04
+USER_1353,55+,F,Fashion,Home & Living,mid-range,power,2025-04-12
+USER_1354,25-34,M,Beauty & Personal Care,Fitness & Sports,premium,moderate,2025-07-26
+USER_1355,18-24,M,Fitness & Sports,Beauty & Personal Care,mid-range,cold_start,2026-07-28
+USER_1356,45-54,M,Beauty & Personal Care,Electronics,premium,moderate,2025-03-11
+USER_1357,25-34,F,Electronics,Home & Living,mid-range,moderate,2025-05-13
+USER_1358,55+,M,Beauty & Personal Care,Fashion,mid-range,moderate,2026-02-12
+USER_1359,25-34,F,Electronics,Home & Living,mid-range,moderate,2026-06-06
+USER_1360,35-44,M,Home & Living,Fashion,budget,moderate,2025-06-13
+USER_1361,35-44,M,Books & Media,Fitness & Sports,mid-range,moderate,2026-06-22
+USER_1362,45-54,M,Home & Living,Beauty & Personal Care,budget,power,2025-08-18
+USER_1363,25-34,M,Fashion,Fitness & Sports,premium,casual,2025-10-04
+USER_1364,18-24,Other,Fashion,Beauty & Personal Care,budget,casual,2025-12-22
+USER_1365,55+,M,Beauty & Personal Care,Books & Media,budget,moderate,2025-05-17
+USER_1366,35-44,M,Electronics,Fashion,premium,casual,2025-08-13
+USER_1367,25-34,M,Electronics,Beauty & Personal Care,mid-range,casual,2025-04-19
+USER_1368,35-44,F,Home & Living,Beauty & Personal Care,mid-range,moderate,2026-03-29
+USER_1369,25-34,F,Fitness & Sports,Fashion,mid-range,moderate,2026-03-21
+USER_1370,45-54,M,Fashion,Books & Media,budget,moderate,2025-06-30
+USER_1371,25-34,F,Beauty & Personal Care,Home & Living,budget,casual,2025-06-16
+USER_1372,45-54,F,Fashion,Electronics,budget,moderate,2026-03-13
+USER_1373,45-54,Other,Electronics,Beauty & Personal Care,budget,casual,2025-01-13
+USER_1374,25-34,M,Electronics,Fashion,budget,moderate,2025-03-27
+USER_1375,55+,F,Electronics,Fashion,mid-range,casual,2025-12-13
+USER_1376,18-24,M,Books & Media,Fitness & Sports,premium,moderate,2025-11-11
+USER_1377,18-24,M,Beauty & Personal Care,Home & Living,mid-range,power,2025-05-07
+USER_1378,18-24,F,Electronics,Beauty & Personal Care,premium,moderate,2026-03-02
+USER_1379,45-54,M,Fitness & Sports,Books & Media,budget,moderate,2025-10-21
+USER_1380,45-54,M,Beauty & Personal Care,Electronics,mid-range,moderate,2025-04-23
+USER_1381,55+,M,Electronics,Beauty & Personal Care,mid-range,cold_start,2026-01-05
+USER_1382,45-54,F,Books & Media,Fashion,budget,moderate,2026-06-28
+USER_1383,18-24,M,Beauty & Personal Care,Home & Living,mid-range,moderate,2025-10-21
+USER_1384,18-24,F,Beauty & Personal Care,Home & Living,premium,casual,2025-03-20
+USER_1385,45-54,Other,Beauty & Personal Care,Fashion,mid-range,moderate,2026-02-04
+USER_1386,35-44,Other,Electronics,Fashion,mid-range,moderate,2025-10-13
+USER_1387,25-34,M,Fitness & Sports,Home & Living,mid-range,moderate,2026-03-11
+USER_1388,55+,F,Beauty & Personal Care,Home & Living,budget,moderate,2025-09-09
+USER_1389,25-34,F,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2025-08-24
+USER_1390,35-44,M,Books & Media,Fashion,mid-range,moderate,2025-08-29
+USER_1391,25-34,F,Home & Living,Beauty & Personal Care,mid-range,cold_start,2025-05-17
+USER_1392,18-24,M,Fashion,Fitness & Sports,mid-range,cold_start,2026-07-19
+USER_1393,45-54,M,Fashion,Electronics,mid-range,cold_start,2025-05-01
+USER_1394,35-44,M,Electronics,Books & Media,mid-range,casual,2025-04-19
+USER_1395,18-24,F,Fashion,Electronics,budget,power,2025-05-25
+USER_1396,18-24,F,Fitness & Sports,Fashion,mid-range,casual,2026-04-27
+USER_1397,35-44,F,Home & Living,Books & Media,mid-range,moderate,2025-12-12
+USER_1398,35-44,M,Electronics,Home & Living,budget,casual,2025-02-02
+USER_1399,18-24,M,Fitness & Sports,Books & Media,mid-range,moderate,2026-04-11
+USER_1400,45-54,F,Books & Media,Home & Living,mid-range,cold_start,2026-03-10
+USER_1401,25-34,M,Fitness & Sports,Fashion,mid-range,casual,2026-02-15
+USER_1402,25-34,M,Beauty & Personal Care,Books & Media,mid-range,casual,2025-03-21
+USER_1403,25-34,M,Beauty & Personal Care,Fitness & Sports,premium,power,2025-06-18
+USER_1404,25-34,M,Home & Living,Electronics,budget,casual,2026-01-07
+USER_1405,45-54,M,Home & Living,Fashion,mid-range,moderate,2025-03-08
+USER_1406,18-24,F,Fashion,Beauty & Personal Care,budget,moderate,2025-02-03
+USER_1407,18-24,F,Electronics,Beauty & Personal Care,premium,power,2026-05-11
+USER_1408,25-34,F,Electronics,Fitness & Sports,mid-range,moderate,2026-02-12
+USER_1409,25-34,M,Home & Living,Fashion,mid-range,moderate,2025-04-10
+USER_1410,45-54,F,Books & Media,Fashion,budget,moderate,2026-01-27
+USER_1411,45-54,M,Fashion,Home & Living,mid-range,casual,2025-03-22
+USER_1412,18-24,F,Fashion,Home & Living,mid-range,cold_start,2025-06-14
+USER_1413,25-34,Other,Books & Media,Beauty & Personal Care,premium,moderate,2025-12-16
+USER_1414,18-24,M,Books & Media,Fitness & Sports,budget,moderate,2026-02-01
+USER_1415,55+,F,Fashion,Beauty & Personal Care,mid-range,power,2026-05-25
+USER_1416,18-24,F,Home & Living,Beauty & Personal Care,premium,moderate,2025-03-31
+USER_1417,25-34,M,Home & Living,Fashion,budget,moderate,2026-01-08
+USER_1418,18-24,F,Fitness & Sports,Home & Living,premium,casual,2025-09-20
+USER_1419,25-34,F,Electronics,Beauty & Personal Care,mid-range,casual,2026-01-08
+USER_1420,25-34,F,Beauty & Personal Care,Fashion,mid-range,casual,2026-06-09
+USER_1421,55+,M,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2025-09-27
+USER_1422,55+,M,Beauty & Personal Care,Electronics,mid-range,casual,2025-09-08
+USER_1423,25-34,M,Electronics,Fitness & Sports,mid-range,casual,2026-02-13
+USER_1424,25-34,F,Beauty & Personal Care,Electronics,mid-range,casual,2026-04-25
+USER_1425,45-54,M,Electronics,Home & Living,mid-range,casual,2026-02-11
+USER_1426,18-24,M,Home & Living,Fitness & Sports,premium,moderate,2026-05-13
+USER_1427,35-44,M,Fitness & Sports,Electronics,mid-range,moderate,2026-04-27
+USER_1428,25-34,F,Books & Media,Fitness & Sports,budget,casual,2026-01-06
+USER_1429,55+,M,Fashion,Electronics,premium,moderate,2026-03-10
+USER_1430,35-44,M,Electronics,Fitness & Sports,mid-range,casual,2025-11-02
+USER_1431,25-34,M,Fashion,Fitness & Sports,budget,power,2025-02-25
+USER_1432,45-54,M,Home & Living,Fashion,budget,moderate,2026-03-06
+USER_1433,25-34,F,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2026-02-03
+USER_1434,25-34,F,Fashion,Electronics,mid-range,moderate,2025-05-29
+USER_1435,55+,F,Beauty & Personal Care,Home & Living,budget,cold_start,2026-04-15
+USER_1436,25-34,M,Beauty & Personal Care,Fitness & Sports,budget,cold_start,2025-01-04
+USER_1437,55+,F,Beauty & Personal Care,Fitness & Sports,mid-range,power,2025-04-10
+USER_1438,35-44,M,Beauty & Personal Care,Books & Media,mid-range,moderate,2026-01-22
+USER_1439,25-34,M,Beauty & Personal Care,Books & Media,premium,casual,2026-01-15
+USER_1440,18-24,F,Books & Media,Electronics,mid-range,moderate,2026-04-12
+USER_1441,25-34,F,Fitness & Sports,Beauty & Personal Care,premium,power,2025-12-10
+USER_1442,18-24,M,Fashion,Beauty & Personal Care,mid-range,moderate,2026-07-10
+USER_1443,25-34,F,Beauty & Personal Care,Fitness & Sports,mid-range,cold_start,2025-04-12
+USER_1444,45-54,M,Beauty & Personal Care,Electronics,mid-range,power,2026-02-26
+USER_1445,35-44,F,Books & Media,Electronics,mid-range,moderate,2026-05-31
+USER_1446,18-24,M,Fitness & Sports,Fashion,budget,moderate,2026-04-11
+USER_1447,18-24,F,Electronics,Fitness & Sports,premium,moderate,2026-04-21
+USER_1448,45-54,F,Beauty & Personal Care,Fitness & Sports,budget,casual,2026-01-19
+USER_1449,25-34,M,Beauty & Personal Care,Home & Living,mid-range,casual,2026-03-01
+USER_1450,18-24,F,Electronics,Fashion,budget,casual,2026-01-19
+USER_1451,25-34,F,Home & Living,Fitness & Sports,budget,moderate,2026-03-17
+USER_1452,55+,M,Beauty & Personal Care,Fitness & Sports,premium,moderate,2026-03-16
+USER_1453,35-44,Other,Fashion,Books & Media,premium,moderate,2026-06-14
+USER_1454,25-34,F,Fashion,Beauty & Personal Care,budget,casual,2026-02-06
+USER_1455,35-44,M,Books & Media,Fashion,premium,power,2025-07-28
+USER_1456,18-24,M,Books & Media,Fashion,budget,cold_start,2026-07-11
+USER_1457,18-24,M,Beauty & Personal Care,Fashion,premium,moderate,2026-01-02
+USER_1458,35-44,M,Fashion,Beauty & Personal Care,premium,casual,2026-01-23
+USER_1459,35-44,M,Fashion,Electronics,mid-range,power,2025-04-16
+USER_1460,55+,M,Fashion,Fitness & Sports,budget,power,2025-07-04
+USER_1461,25-34,M,Fashion,Books & Media,budget,moderate,2025-01-23
+USER_1462,25-34,F,Fashion,Books & Media,mid-range,casual,2025-11-18
+USER_1463,25-34,M,Home & Living,Electronics,premium,power,2025-02-02
+USER_1464,25-34,M,Books & Media,Beauty & Personal Care,mid-range,moderate,2025-06-12
+USER_1465,25-34,M,Books & Media,Electronics,mid-range,moderate,2026-06-15
+USER_1466,18-24,F,Electronics,Home & Living,budget,moderate,2025-05-22
+USER_1467,35-44,F,Home & Living,Fitness & Sports,mid-range,moderate,2025-04-05
+USER_1468,25-34,M,Beauty & Personal Care,Fitness & Sports,mid-range,cold_start,2026-02-14
+USER_1469,25-34,M,Beauty & Personal Care,Home & Living,premium,moderate,2025-04-16
+USER_1470,35-44,M,Fashion,Books & Media,mid-range,moderate,2026-04-02
+USER_1471,35-44,F,Books & Media,Electronics,mid-range,moderate,2026-03-16
+USER_1472,25-34,F,Electronics,Books & Media,budget,cold_start,2025-02-04
+USER_1473,25-34,M,Books & Media,Beauty & Personal Care,mid-range,power,2025-01-31
+USER_1474,45-54,M,Fashion,Fitness & Sports,budget,casual,2025-08-09
+USER_1475,25-34,F,Electronics,Fashion,mid-range,casual,2025-01-12
+USER_1476,25-34,F,Home & Living,Fashion,mid-range,moderate,2026-01-30
+USER_1477,25-34,M,Books & Media,Home & Living,mid-range,moderate,2025-03-18
+USER_1478,35-44,F,Fitness & Sports,Home & Living,premium,moderate,2025-07-22
+USER_1479,45-54,F,Home & Living,Books & Media,budget,moderate,2026-04-09
+USER_1480,25-34,M,Books & Media,Electronics,budget,cold_start,2025-01-05
+USER_1481,25-34,F,Fitness & Sports,Electronics,premium,power,2026-06-25
+USER_1482,35-44,M,Electronics,Books & Media,mid-range,moderate,2025-10-09
+USER_1483,25-34,M,Home & Living,Books & Media,mid-range,moderate,2026-02-07
+USER_1484,55+,F,Beauty & Personal Care,Electronics,premium,power,2025-04-16
+USER_1485,18-24,M,Electronics,Fitness & Sports,premium,moderate,2026-03-23
+USER_1486,18-24,F,Home & Living,Beauty & Personal Care,premium,moderate,2025-02-23
+USER_1487,35-44,M,Home & Living,Electronics,budget,moderate,2026-01-24
+USER_1488,18-24,M,Fitness & Sports,Electronics,budget,casual,2025-06-01
+USER_1489,45-54,Other,Fitness & Sports,Books & Media,mid-range,moderate,2026-06-19
+USER_1490,25-34,F,Home & Living,Fitness & Sports,mid-range,moderate,2026-05-10
+USER_1491,25-34,M,Electronics,Fitness & Sports,mid-range,casual,2025-09-06
+USER_1492,35-44,M,Electronics,Fashion,premium,moderate,2025-03-03
+USER_1493,35-44,M,Fitness & Sports,Fashion,mid-range,moderate,2025-12-15
+USER_1494,35-44,F,Home & Living,Fitness & Sports,mid-range,casual,2025-06-07
+USER_1495,18-24,M,Home & Living,Books & Media,premium,moderate,2026-06-10
+USER_1496,25-34,M,Fitness & Sports,Fashion,mid-range,moderate,2025-04-15
+USER_1497,45-54,F,Fashion,Electronics,premium,moderate,2025-07-11
+USER_1498,25-34,F,Home & Living,Fitness & Sports,budget,power,2026-07-18
+USER_1499,25-34,M,Books & Media,Fitness & Sports,mid-range,moderate,2025-02-24
+USER_1500,25-34,M,Fitness & Sports,Books & Media,budget,moderate,2025-07-13
+USER_1501,35-44,F,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2025-02-21
+USER_1502,55+,M,Electronics,Fashion,mid-range,power,2025-09-02
+USER_1503,18-24,M,Books & Media,Fitness & Sports,mid-range,moderate,2025-04-14
+USER_1504,45-54,F,Fitness & Sports,Fashion,budget,moderate,2025-07-28
+USER_1505,25-34,F,Beauty & Personal Care,Electronics,budget,cold_start,2026-05-31
+USER_1506,35-44,F,Beauty & Personal Care,Fashion,budget,moderate,2025-03-13
+USER_1507,25-34,M,Electronics,Books & Media,mid-range,moderate,2025-01-22
+USER_1508,25-34,M,Beauty & Personal Care,Electronics,mid-range,moderate,2026-05-01
+USER_1509,25-34,M,Electronics,Fashion,premium,casual,2025-10-25
+USER_1510,25-34,M,Fashion,Electronics,budget,moderate,2025-12-10
+USER_1511,35-44,Other,Home & Living,Books & Media,budget,power,2026-04-15
+USER_1512,25-34,F,Books & Media,Beauty & Personal Care,mid-range,casual,2025-10-04
+USER_1513,35-44,M,Fitness & Sports,Fashion,mid-range,moderate,2025-05-26
+USER_1514,18-24,F,Beauty & Personal Care,Fitness & Sports,mid-range,moderate,2025-04-02
+USER_1515,55+,F,Home & Living,Beauty & Personal Care,premium,cold_start,2026-04-06
+USER_1516,45-54,M,Beauty & Personal Care,Home & Living,premium,moderate,2026-02-05
+USER_1517,55+,M,Fashion,Electronics,mid-range,casual,2025-12-18
+USER_1518,18-24,F,Books & Media,Home & Living,budget,moderate,2025-01-09
+USER_1519,35-44,M,Fashion,Beauty & Personal Care,premium,casual,2026-07-26
+USER_1520,25-34,M,Home & Living,Electronics,mid-range,moderate,2025-08-11
+USER_1521,35-44,M,Home & Living,Electronics,mid-range,power,2025-01-01
+USER_1522,18-24,F,Books & Media,Beauty & Personal Care,budget,casual,2025-03-30
+USER_1523,18-24,F,Fitness & Sports,Beauty & Personal Care,premium,moderate,2025-10-25
+USER_1524,25-34,M,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2025-04-11
+USER_1525,55+,F,Fashion,Beauty & Personal Care,mid-range,casual,2025-11-27
+USER_1526,18-24,F,Home & Living,Fashion,mid-range,moderate,2025-07-24
+USER_1527,18-24,F,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2026-01-20
+USER_1528,45-54,M,Books & Media,Fitness & Sports,mid-range,cold_start,2026-05-31
+USER_1529,35-44,M,Fitness & Sports,Books & Media,mid-range,moderate,2026-02-25
+USER_1530,45-54,M,Fitness & Sports,Electronics,mid-range,casual,2025-11-06
+USER_1531,35-44,M,Books & Media,Beauty & Personal Care,premium,power,2025-10-28
+USER_1532,45-54,M,Beauty & Personal Care,Electronics,mid-range,moderate,2026-06-15
+USER_1533,18-24,M,Beauty & Personal Care,Electronics,mid-range,casual,2025-04-10
+USER_1534,25-34,F,Electronics,Fashion,mid-range,casual,2026-06-08
+USER_1535,18-24,M,Fashion,Beauty & Personal Care,mid-range,moderate,2026-05-23
+USER_1536,45-54,F,Fashion,Fitness & Sports,mid-range,casual,2025-01-07
+USER_1537,35-44,M,Electronics,Fashion,budget,moderate,2025-05-04
+USER_1538,25-34,M,Electronics,Beauty & Personal Care,mid-range,cold_start,2025-02-26
+USER_1539,25-34,F,Fashion,Home & Living,premium,moderate,2026-07-14
+USER_1540,35-44,M,Beauty & Personal Care,Books & Media,budget,casual,2025-05-30
+USER_1541,18-24,F,Beauty & Personal Care,Fashion,budget,moderate,2026-07-14
+USER_1542,25-34,M,Electronics,Beauty & Personal Care,mid-range,moderate,2025-10-09
+USER_1543,35-44,M,Fitness & Sports,Books & Media,budget,moderate,2025-10-18
+USER_1544,25-34,M,Home & Living,Electronics,mid-range,power,2026-04-01
+USER_1545,45-54,Other,Fitness & Sports,Books & Media,budget,moderate,2025-06-12
+USER_1546,45-54,F,Home & Living,Beauty & Personal Care,mid-range,moderate,2025-03-06
+USER_1547,18-24,F,Books & Media,Home & Living,mid-range,moderate,2025-05-24
+USER_1548,35-44,M,Fitness & Sports,Electronics,premium,moderate,2026-05-11
+USER_1549,25-34,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2026-06-23
+USER_1550,35-44,F,Books & Media,Home & Living,mid-range,power,2026-02-18
+USER_1551,18-24,F,Fashion,Electronics,mid-range,cold_start,2026-05-27
+USER_1552,25-34,F,Beauty & Personal Care,Fashion,budget,casual,2025-06-28
+USER_1553,25-34,Other,Electronics,Fashion,mid-range,power,2025-04-28
+USER_1554,35-44,M,Home & Living,Beauty & Personal Care,mid-range,cold_start,2025-01-31
+USER_1555,25-34,F,Fitness & Sports,Fashion,premium,moderate,2026-07-24
+USER_1556,25-34,M,Home & Living,Fashion,budget,moderate,2025-06-15
+USER_1557,25-34,F,Electronics,Beauty & Personal Care,budget,moderate,2025-04-09
+USER_1558,45-54,F,Home & Living,Books & Media,mid-range,moderate,2025-03-15
+USER_1559,35-44,F,Beauty & Personal Care,Books & Media,mid-range,moderate,2025-08-01
+USER_1560,25-34,M,Books & Media,Beauty & Personal Care,premium,moderate,2025-03-10
+USER_1561,35-44,F,Books & Media,Electronics,budget,moderate,2026-06-14
+USER_1562,18-24,M,Books & Media,Beauty & Personal Care,mid-range,casual,2025-08-18
+USER_1563,25-34,F,Fitness & Sports,Home & Living,budget,cold_start,2025-06-11
+USER_1564,18-24,F,Books & Media,Beauty & Personal Care,mid-range,casual,2026-02-13
+USER_1565,25-34,F,Books & Media,Fitness & Sports,premium,casual,2025-09-27
+USER_1566,18-24,M,Fashion,Fitness & Sports,premium,moderate,2025-03-02
+USER_1567,25-34,F,Beauty & Personal Care,Electronics,budget,casual,2025-03-16
+USER_1568,25-34,F,Electronics,Fitness & Sports,premium,moderate,2026-03-03
+USER_1569,35-44,M,Books & Media,Fitness & Sports,premium,casual,2025-10-05
+USER_1570,18-24,F,Fashion,Fitness & Sports,mid-range,casual,2025-11-07
+USER_1571,45-54,M,Electronics,Fashion,mid-range,moderate,2025-07-20
+USER_1572,45-54,F,Beauty & Personal Care,Electronics,mid-range,moderate,2025-02-23
+USER_1573,25-34,M,Beauty & Personal Care,Fitness & Sports,mid-range,moderate,2025-04-29
+USER_1574,45-54,Other,Home & Living,Fitness & Sports,budget,cold_start,2026-03-24
+USER_1575,25-34,M,Electronics,Home & Living,mid-range,moderate,2026-07-04
+USER_1576,55+,M,Beauty & Personal Care,Fashion,premium,power,2025-03-20
+USER_1577,25-34,M,Home & Living,Fitness & Sports,mid-range,cold_start,2025-09-08
+USER_1578,18-24,M,Beauty & Personal Care,Electronics,mid-range,moderate,2025-03-20
+USER_1579,25-34,F,Beauty & Personal Care,Home & Living,premium,moderate,2025-08-14
+USER_1580,25-34,M,Books & Media,Home & Living,premium,moderate,2025-09-08
+USER_1581,25-34,F,Books & Media,Electronics,budget,casual,2026-02-25
+USER_1582,35-44,M,Fashion,Home & Living,premium,moderate,2026-06-18
+USER_1583,35-44,M,Home & Living,Fashion,budget,casual,2025-08-29
+USER_1584,35-44,M,Electronics,Fashion,mid-range,moderate,2025-02-04
+USER_1585,35-44,M,Electronics,Fashion,budget,moderate,2026-01-29
+USER_1586,45-54,M,Electronics,Home & Living,budget,casual,2025-07-08
+USER_1587,25-34,F,Electronics,Beauty & Personal Care,mid-range,cold_start,2025-01-27
+USER_1588,35-44,M,Home & Living,Beauty & Personal Care,budget,moderate,2025-01-29
+USER_1589,45-54,M,Fitness & Sports,Electronics,premium,moderate,2026-07-21
+USER_1590,35-44,F,Books & Media,Fitness & Sports,mid-range,moderate,2026-06-16
+USER_1591,55+,M,Fashion,Home & Living,premium,casual,2025-10-15
+USER_1592,55+,M,Fashion,Beauty & Personal Care,budget,power,2026-02-09
+USER_1593,25-34,M,Home & Living,Beauty & Personal Care,budget,moderate,2025-11-11
+USER_1594,25-34,M,Fashion,Books & Media,mid-range,power,2026-03-27
+USER_1595,18-24,M,Beauty & Personal Care,Books & Media,budget,moderate,2025-03-01
+USER_1596,18-24,F,Books & Media,Home & Living,premium,moderate,2026-03-28
+USER_1597,35-44,M,Fitness & Sports,Fashion,budget,moderate,2025-06-28
+USER_1598,35-44,M,Electronics,Fashion,budget,casual,2026-06-03
+USER_1599,25-34,M,Beauty & Personal Care,Fashion,budget,cold_start,2025-09-23
+USER_1600,18-24,F,Home & Living,Beauty & Personal Care,mid-range,moderate,2025-08-29
+USER_1601,18-24,M,Books & Media,Electronics,budget,moderate,2025-11-30
+USER_1602,45-54,F,Electronics,Books & Media,premium,power,2025-05-27
+USER_1603,35-44,M,Fitness & Sports,Home & Living,mid-range,casual,2025-10-29
+USER_1604,18-24,M,Fashion,Beauty & Personal Care,budget,casual,2025-08-05
+USER_1605,25-34,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2025-08-09
+USER_1606,35-44,F,Fashion,Books & Media,mid-range,cold_start,2025-03-22
+USER_1607,55+,Other,Books & Media,Beauty & Personal Care,premium,casual,2026-07-16
+USER_1608,25-34,M,Books & Media,Electronics,mid-range,moderate,2026-06-22
+USER_1609,25-34,M,Books & Media,Home & Living,premium,moderate,2025-12-03
+USER_1610,35-44,M,Fitness & Sports,Home & Living,mid-range,casual,2025-04-29
+USER_1611,25-34,F,Fitness & Sports,Home & Living,budget,moderate,2026-07-28
+USER_1612,45-54,F,Books & Media,Fashion,mid-range,moderate,2026-03-05
+USER_1613,45-54,Other,Books & Media,Fashion,mid-range,casual,2026-02-22
+USER_1614,35-44,F,Home & Living,Fitness & Sports,mid-range,moderate,2025-03-25
+USER_1615,25-34,M,Fitness & Sports,Fashion,premium,power,2026-04-10
+USER_1616,18-24,M,Books & Media,Fitness & Sports,mid-range,casual,2025-05-10
+USER_1617,45-54,M,Fashion,Electronics,budget,cold_start,2026-06-27
+USER_1618,45-54,M,Fitness & Sports,Beauty & Personal Care,budget,power,2025-10-28
+USER_1619,45-54,F,Books & Media,Beauty & Personal Care,mid-range,power,2025-02-16
+USER_1620,55+,F,Fitness & Sports,Books & Media,mid-range,moderate,2026-03-23
+USER_1621,25-34,M,Fashion,Beauty & Personal Care,premium,power,2026-06-06
+USER_1622,45-54,F,Home & Living,Books & Media,mid-range,moderate,2026-03-26
+USER_1623,35-44,M,Electronics,Home & Living,budget,power,2025-12-16
+USER_1624,25-34,F,Books & Media,Fitness & Sports,budget,moderate,2026-01-29
+USER_1625,18-24,M,Beauty & Personal Care,Fashion,mid-range,moderate,2025-10-12
+USER_1626,35-44,M,Home & Living,Fashion,budget,moderate,2025-10-08
+USER_1627,25-34,M,Home & Living,Beauty & Personal Care,mid-range,casual,2025-08-26
+USER_1628,18-24,M,Books & Media,Fashion,budget,cold_start,2025-02-10
+USER_1629,25-34,F,Electronics,Books & Media,premium,moderate,2025-01-27
+USER_1630,25-34,F,Fitness & Sports,Books & Media,mid-range,moderate,2026-04-10
+USER_1631,18-24,F,Electronics,Books & Media,premium,moderate,2026-05-21
+USER_1632,45-54,Other,Beauty & Personal Care,Electronics,premium,casual,2025-03-22
+USER_1633,25-34,M,Fashion,Beauty & Personal Care,mid-range,casual,2026-04-10
+USER_1634,25-34,F,Beauty & Personal Care,Home & Living,premium,moderate,2025-02-09
+USER_1635,55+,F,Home & Living,Fashion,premium,cold_start,2025-02-06
+USER_1636,35-44,M,Books & Media,Fitness & Sports,premium,casual,2025-08-14
+USER_1637,25-34,M,Fashion,Books & Media,budget,casual,2025-07-23
+USER_1638,18-24,F,Beauty & Personal Care,Fashion,budget,moderate,2025-03-10
+USER_1639,35-44,F,Electronics,Books & Media,mid-range,casual,2026-01-25
+USER_1640,25-34,M,Books & Media,Fashion,premium,casual,2025-08-26
+USER_1641,35-44,F,Beauty & Personal Care,Fitness & Sports,mid-range,moderate,2026-07-11
+USER_1642,18-24,M,Home & Living,Books & Media,premium,moderate,2025-11-30
+USER_1643,25-34,M,Home & Living,Electronics,mid-range,casual,2026-02-12
+USER_1644,35-44,F,Fitness & Sports,Beauty & Personal Care,mid-range,power,2025-08-29
+USER_1645,25-34,M,Fitness & Sports,Electronics,mid-range,moderate,2025-11-27
+USER_1646,25-34,M,Fitness & Sports,Books & Media,mid-range,moderate,2025-02-25
+USER_1647,35-44,M,Electronics,Fitness & Sports,mid-range,moderate,2025-08-15
+USER_1648,18-24,M,Beauty & Personal Care,Electronics,premium,moderate,2025-12-04
+USER_1649,25-34,F,Electronics,Books & Media,budget,cold_start,2025-12-08
+USER_1650,35-44,F,Beauty & Personal Care,Electronics,mid-range,moderate,2026-01-06
+USER_1651,55+,F,Fitness & Sports,Fashion,budget,cold_start,2025-06-15
+USER_1652,25-34,M,Beauty & Personal Care,Fashion,premium,casual,2025-02-06
+USER_1653,35-44,F,Books & Media,Fitness & Sports,mid-range,moderate,2025-02-13
+USER_1654,25-34,M,Beauty & Personal Care,Fashion,budget,casual,2025-05-07
+USER_1655,25-34,M,Beauty & Personal Care,Home & Living,premium,power,2025-03-20
+USER_1656,35-44,F,Fitness & Sports,Electronics,budget,casual,2026-07-09
+USER_1657,18-24,F,Fitness & Sports,Fashion,premium,casual,2025-11-16
+USER_1658,25-34,F,Home & Living,Fitness & Sports,mid-range,moderate,2025-04-13
+USER_1659,35-44,M,Home & Living,Books & Media,budget,moderate,2026-02-21
+USER_1660,25-34,F,Books & Media,Beauty & Personal Care,budget,cold_start,2025-01-18
+USER_1661,35-44,F,Books & Media,Electronics,mid-range,moderate,2025-01-26
+USER_1662,25-34,M,Books & Media,Electronics,mid-range,moderate,2025-12-07
+USER_1663,35-44,M,Books & Media,Fashion,budget,moderate,2026-05-17
+USER_1664,18-24,M,Fitness & Sports,Beauty & Personal Care,mid-range,power,2025-08-27
+USER_1665,25-34,M,Beauty & Personal Care,Home & Living,premium,moderate,2025-02-07
+USER_1666,25-34,M,Electronics,Fitness & Sports,mid-range,casual,2026-07-30
+USER_1667,25-34,M,Beauty & Personal Care,Fashion,mid-range,moderate,2026-05-10
+USER_1668,45-54,Other,Electronics,Fashion,mid-range,moderate,2025-03-21
+USER_1669,35-44,M,Beauty & Personal Care,Electronics,budget,casual,2026-03-25
+USER_1670,18-24,F,Fitness & Sports,Fashion,mid-range,moderate,2026-06-22
+USER_1671,35-44,F,Fitness & Sports,Electronics,budget,cold_start,2026-03-22
+USER_1672,35-44,F,Home & Living,Beauty & Personal Care,mid-range,moderate,2026-01-16
+USER_1673,18-24,M,Beauty & Personal Care,Fashion,premium,moderate,2026-01-16
+USER_1674,25-34,M,Home & Living,Fashion,budget,power,2026-05-01
+USER_1675,25-34,M,Electronics,Fashion,mid-range,moderate,2025-07-12
+USER_1676,18-24,M,Electronics,Fashion,mid-range,power,2025-06-10
+USER_1677,35-44,F,Home & Living,Electronics,premium,moderate,2025-10-09
+USER_1678,45-54,M,Beauty & Personal Care,Home & Living,mid-range,cold_start,2026-02-17
+USER_1679,25-34,F,Fashion,Electronics,mid-range,casual,2025-04-16
+USER_1680,25-34,M,Electronics,Home & Living,mid-range,moderate,2026-01-28
+USER_1681,35-44,F,Home & Living,Beauty & Personal Care,mid-range,moderate,2026-04-30
+USER_1682,18-24,M,Fashion,Electronics,premium,moderate,2025-05-31
+USER_1683,25-34,M,Electronics,Fashion,budget,moderate,2026-03-27
+USER_1684,25-34,M,Electronics,Home & Living,mid-range,casual,2026-01-22
+USER_1685,35-44,M,Books & Media,Home & Living,mid-range,cold_start,2025-08-08
+USER_1686,55+,F,Beauty & Personal Care,Fashion,premium,moderate,2026-07-28
+USER_1687,35-44,M,Electronics,Beauty & Personal Care,premium,moderate,2025-12-23
+USER_1688,45-54,F,Beauty & Personal Care,Home & Living,mid-range,casual,2025-08-07
+USER_1689,45-54,F,Fashion,Books & Media,mid-range,moderate,2025-01-11
+USER_1690,25-34,M,Books & Media,Home & Living,mid-range,cold_start,2026-01-13
+USER_1691,25-34,M,Home & Living,Electronics,mid-range,moderate,2026-05-06
+USER_1692,55+,F,Home & Living,Electronics,premium,casual,2025-02-01
+USER_1693,55+,Other,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2026-04-30
+USER_1694,35-44,F,Electronics,Fashion,mid-range,casual,2025-06-06
+USER_1695,18-24,F,Electronics,Books & Media,premium,power,2025-05-03
+USER_1696,35-44,M,Electronics,Beauty & Personal Care,budget,casual,2025-07-18
+USER_1697,35-44,M,Beauty & Personal Care,Home & Living,premium,cold_start,2025-06-23
+USER_1698,35-44,F,Books & Media,Electronics,premium,moderate,2026-02-17
+USER_1699,35-44,M,Fashion,Beauty & Personal Care,budget,power,2025-10-01
+USER_1700,25-34,M,Fashion,Beauty & Personal Care,mid-range,moderate,2025-01-04
+USER_1701,25-34,M,Fitness & Sports,Beauty & Personal Care,premium,moderate,2025-03-30
+USER_1702,25-34,M,Electronics,Home & Living,mid-range,moderate,2025-07-10
+USER_1703,35-44,M,Fashion,Electronics,budget,moderate,2026-01-19
+USER_1704,45-54,F,Home & Living,Fashion,mid-range,moderate,2025-05-16
+USER_1705,25-34,M,Home & Living,Fashion,mid-range,moderate,2026-02-28
+USER_1706,18-24,F,Fashion,Fitness & Sports,budget,moderate,2026-03-27
+USER_1707,25-34,F,Home & Living,Beauty & Personal Care,mid-range,power,2025-06-24
+USER_1708,45-54,M,Books & Media,Beauty & Personal Care,budget,moderate,2026-03-21
+USER_1709,45-54,F,Fashion,Fitness & Sports,mid-range,moderate,2026-05-31
+USER_1710,35-44,M,Books & Media,Fashion,budget,moderate,2026-04-24
+USER_1711,55+,F,Beauty & Personal Care,Fashion,mid-range,moderate,2026-04-24
+USER_1712,25-34,M,Books & Media,Electronics,mid-range,casual,2025-04-18
+USER_1713,45-54,M,Fitness & Sports,Books & Media,mid-range,moderate,2025-04-13
+USER_1714,25-34,M,Books & Media,Fashion,mid-range,casual,2026-03-26
+USER_1715,25-34,F,Fitness & Sports,Books & Media,mid-range,moderate,2025-09-07
+USER_1716,25-34,M,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2025-08-28
+USER_1717,45-54,F,Fitness & Sports,Books & Media,mid-range,moderate,2026-02-15
+USER_1718,18-24,M,Home & Living,Beauty & Personal Care,premium,moderate,2026-06-21
+USER_1719,55+,F,Fashion,Fitness & Sports,mid-range,cold_start,2025-02-25
+USER_1720,25-34,F,Home & Living,Books & Media,mid-range,power,2026-04-17
+USER_1721,18-24,F,Home & Living,Fitness & Sports,budget,casual,2025-08-30
+USER_1722,25-34,F,Fashion,Beauty & Personal Care,premium,power,2026-01-19
+USER_1723,18-24,M,Books & Media,Fitness & Sports,mid-range,casual,2026-04-29
+USER_1724,45-54,F,Electronics,Books & Media,budget,moderate,2025-05-17
+USER_1725,25-34,M,Beauty & Personal Care,Fitness & Sports,mid-range,power,2026-07-01
+USER_1726,25-34,F,Books & Media,Electronics,budget,casual,2025-07-02
+USER_1727,25-34,M,Electronics,Beauty & Personal Care,mid-range,cold_start,2026-02-12
+USER_1728,35-44,M,Fashion,Electronics,budget,power,2026-03-22
+USER_1729,25-34,M,Fashion,Fitness & Sports,mid-range,power,2026-05-08
+USER_1730,55+,M,Fashion,Books & Media,mid-range,moderate,2025-04-19
+USER_1731,18-24,F,Electronics,Books & Media,premium,moderate,2025-01-13
+USER_1732,18-24,F,Beauty & Personal Care,Fitness & Sports,budget,moderate,2026-02-16
+USER_1733,18-24,M,Beauty & Personal Care,Electronics,mid-range,moderate,2026-04-07
+USER_1734,35-44,F,Books & Media,Home & Living,budget,cold_start,2025-07-03
+USER_1735,25-34,M,Beauty & Personal Care,Electronics,budget,cold_start,2025-12-12
+USER_1736,35-44,M,Books & Media,Beauty & Personal Care,mid-range,moderate,2026-04-11
+USER_1737,25-34,M,Fitness & Sports,Books & Media,mid-range,moderate,2026-01-14
+USER_1738,25-34,M,Electronics,Beauty & Personal Care,budget,moderate,2025-10-28
+USER_1739,18-24,M,Beauty & Personal Care,Electronics,mid-range,casual,2026-01-01
+USER_1740,25-34,M,Fashion,Electronics,mid-range,casual,2025-05-10
+USER_1741,35-44,M,Home & Living,Fitness & Sports,premium,cold_start,2025-09-07
+USER_1742,45-54,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2025-03-20
+USER_1743,18-24,F,Beauty & Personal Care,Electronics,mid-range,moderate,2025-03-22
+USER_1744,35-44,M,Fitness & Sports,Electronics,budget,casual,2025-09-21
+USER_1745,35-44,M,Fitness & Sports,Electronics,mid-range,cold_start,2025-09-25
+USER_1746,35-44,F,Fashion,Electronics,mid-range,moderate,2026-04-30
+USER_1747,55+,M,Beauty & Personal Care,Fashion,budget,casual,2025-02-16
+USER_1748,45-54,F,Home & Living,Electronics,mid-range,casual,2025-01-20
+USER_1749,35-44,M,Fitness & Sports,Beauty & Personal Care,mid-range,power,2025-11-22
+USER_1750,25-34,F,Fashion,Electronics,mid-range,moderate,2026-04-17
+USER_1751,35-44,M,Fitness & Sports,Books & Media,premium,moderate,2025-01-13
+USER_1752,25-34,F,Fashion,Books & Media,premium,moderate,2026-05-26
+USER_1753,35-44,F,Home & Living,Books & Media,budget,casual,2025-03-22
+USER_1754,25-34,M,Fashion,Beauty & Personal Care,mid-range,casual,2025-10-26
+USER_1755,25-34,M,Fashion,Beauty & Personal Care,mid-range,moderate,2025-12-27
+USER_1756,25-34,F,Home & Living,Beauty & Personal Care,mid-range,moderate,2025-08-29
+USER_1757,25-34,M,Electronics,Fashion,mid-range,cold_start,2025-08-05
+USER_1758,25-34,M,Fashion,Books & Media,mid-range,casual,2025-12-27
+USER_1759,25-34,F,Home & Living,Fitness & Sports,mid-range,moderate,2025-11-22
+USER_1760,25-34,M,Fitness & Sports,Books & Media,mid-range,casual,2025-10-21
+USER_1761,25-34,F,Fashion,Books & Media,budget,casual,2026-06-30
+USER_1762,35-44,F,Beauty & Personal Care,Electronics,mid-range,cold_start,2026-03-05
+USER_1763,25-34,F,Books & Media,Fashion,budget,cold_start,2026-05-31
+USER_1764,35-44,F,Electronics,Fitness & Sports,mid-range,moderate,2025-06-20
+USER_1765,25-34,M,Home & Living,Electronics,mid-range,moderate,2026-02-03
+USER_1766,45-54,F,Fashion,Books & Media,mid-range,moderate,2025-09-03
+USER_1767,55+,F,Home & Living,Fashion,budget,moderate,2025-02-01
+USER_1768,25-34,M,Books & Media,Fitness & Sports,premium,cold_start,2025-07-01
+USER_1769,25-34,M,Books & Media,Home & Living,premium,moderate,2025-06-13
+USER_1770,35-44,M,Beauty & Personal Care,Electronics,mid-range,casual,2026-02-21
+USER_1771,55+,F,Electronics,Books & Media,premium,moderate,2026-07-05
+USER_1772,35-44,F,Books & Media,Electronics,mid-range,moderate,2025-03-03
+USER_1773,25-34,F,Electronics,Fitness & Sports,mid-range,casual,2026-06-08
+USER_1774,25-34,F,Electronics,Home & Living,premium,casual,2025-04-25
+USER_1775,25-34,F,Fashion,Home & Living,mid-range,moderate,2025-08-04
+USER_1776,25-34,F,Fitness & Sports,Books & Media,mid-range,moderate,2025-09-24
+USER_1777,35-44,M,Fitness & Sports,Home & Living,mid-range,casual,2025-02-06
+USER_1778,18-24,M,Fashion,Fitness & Sports,mid-range,moderate,2025-10-26
+USER_1779,35-44,F,Home & Living,Books & Media,mid-range,moderate,2025-10-29
+USER_1780,45-54,M,Books & Media,Home & Living,premium,casual,2025-09-21
+USER_1781,18-24,M,Home & Living,Fashion,mid-range,moderate,2025-09-23
+USER_1782,25-34,F,Books & Media,Fitness & Sports,mid-range,cold_start,2025-06-24
+USER_1783,35-44,F,Books & Media,Home & Living,mid-range,casual,2026-01-23
+USER_1784,25-34,M,Books & Media,Fitness & Sports,budget,power,2026-01-24
+USER_1785,55+,M,Home & Living,Fashion,budget,casual,2025-10-12
+USER_1786,35-44,M,Fashion,Fitness & Sports,mid-range,casual,2025-01-13
+USER_1787,45-54,F,Books & Media,Fashion,mid-range,casual,2026-01-08
+USER_1788,25-34,M,Home & Living,Beauty & Personal Care,budget,cold_start,2026-07-21
+USER_1789,45-54,F,Electronics,Fashion,mid-range,moderate,2026-06-20
+USER_1790,25-34,F,Beauty & Personal Care,Fashion,budget,moderate,2026-04-13
+USER_1791,55+,M,Home & Living,Electronics,mid-range,cold_start,2025-03-07
+USER_1792,18-24,M,Fashion,Home & Living,budget,moderate,2026-05-04
+USER_1793,25-34,F,Home & Living,Electronics,budget,moderate,2025-04-30
+USER_1794,25-34,M,Books & Media,Fashion,mid-range,moderate,2025-11-04
+USER_1795,35-44,F,Electronics,Books & Media,mid-range,moderate,2025-07-19
+USER_1796,35-44,F,Electronics,Fitness & Sports,mid-range,moderate,2025-10-05
+USER_1797,18-24,F,Books & Media,Home & Living,premium,moderate,2025-11-03
+USER_1798,25-34,M,Beauty & Personal Care,Books & Media,mid-range,power,2026-03-27
+USER_1799,35-44,M,Electronics,Fitness & Sports,premium,moderate,2026-06-06
+USER_1800,18-24,M,Fitness & Sports,Home & Living,budget,moderate,2026-03-30
+USER_1801,35-44,F,Fashion,Electronics,mid-range,moderate,2025-08-07
+USER_1802,25-34,F,Fitness & Sports,Electronics,mid-range,moderate,2025-08-04
+USER_1803,18-24,M,Fitness & Sports,Fashion,premium,moderate,2025-06-10
+USER_1804,25-34,M,Books & Media,Fitness & Sports,mid-range,moderate,2025-10-03
+USER_1805,25-34,F,Home & Living,Fitness & Sports,budget,casual,2025-12-08
+USER_1806,45-54,M,Home & Living,Books & Media,mid-range,power,2026-03-04
+USER_1807,55+,M,Fitness & Sports,Home & Living,mid-range,cold_start,2025-05-24
+USER_1808,35-44,M,Beauty & Personal Care,Fashion,budget,moderate,2025-09-20
+USER_1809,25-34,M,Fitness & Sports,Home & Living,mid-range,casual,2025-07-24
+USER_1810,35-44,M,Home & Living,Electronics,budget,moderate,2025-06-14
+USER_1811,25-34,F,Fitness & Sports,Electronics,mid-range,casual,2026-02-04
+USER_1812,45-54,F,Home & Living,Beauty & Personal Care,mid-range,power,2025-03-02
+USER_1813,35-44,M,Home & Living,Books & Media,premium,moderate,2025-04-24
+USER_1814,45-54,M,Beauty & Personal Care,Fitness & Sports,premium,moderate,2025-06-04
+USER_1815,25-34,F,Fitness & Sports,Fashion,mid-range,casual,2026-07-14
+USER_1816,25-34,F,Home & Living,Electronics,budget,casual,2025-03-11
+USER_1817,35-44,F,Home & Living,Books & Media,mid-range,moderate,2025-08-08
+USER_1818,25-34,M,Home & Living,Fashion,mid-range,moderate,2025-09-23
+USER_1819,35-44,M,Electronics,Books & Media,mid-range,casual,2026-05-14
+USER_1820,45-54,M,Books & Media,Home & Living,budget,cold_start,2026-03-24
+USER_1821,55+,F,Home & Living,Beauty & Personal Care,mid-range,casual,2025-12-08
+USER_1822,35-44,F,Books & Media,Electronics,mid-range,casual,2026-06-10
+USER_1823,18-24,F,Books & Media,Fashion,mid-range,casual,2026-03-18
+USER_1824,25-34,F,Beauty & Personal Care,Fashion,mid-range,moderate,2025-03-16
+USER_1825,25-34,M,Beauty & Personal Care,Fitness & Sports,premium,moderate,2026-02-16
+USER_1826,18-24,F,Electronics,Fashion,budget,moderate,2026-03-14
+USER_1827,45-54,F,Home & Living,Beauty & Personal Care,mid-range,casual,2025-07-25
+USER_1828,25-34,M,Beauty & Personal Care,Books & Media,budget,moderate,2025-06-01
+USER_1829,18-24,M,Books & Media,Electronics,mid-range,moderate,2026-07-08
+USER_1830,18-24,F,Fashion,Home & Living,budget,moderate,2025-06-17
+USER_1831,25-34,F,Fashion,Fitness & Sports,budget,moderate,2026-03-27
+USER_1832,55+,M,Beauty & Personal Care,Fashion,mid-range,moderate,2026-04-03
+USER_1833,18-24,F,Books & Media,Electronics,budget,moderate,2025-06-29
+USER_1834,25-34,F,Fashion,Home & Living,budget,casual,2026-05-16
+USER_1835,25-34,Other,Fitness & Sports,Fashion,budget,casual,2025-04-03
+USER_1836,25-34,M,Electronics,Books & Media,budget,casual,2026-01-25
+USER_1837,25-34,F,Home & Living,Fitness & Sports,premium,moderate,2025-03-08
+USER_1838,45-54,M,Beauty & Personal Care,Electronics,mid-range,casual,2026-02-04
+USER_1839,18-24,Other,Beauty & Personal Care,Home & Living,budget,moderate,2025-09-12
+USER_1840,18-24,F,Fashion,Books & Media,mid-range,moderate,2025-03-04
+USER_1841,25-34,F,Home & Living,Fitness & Sports,mid-range,moderate,2025-06-11
+USER_1842,18-24,F,Fashion,Home & Living,mid-range,casual,2025-04-23
+USER_1843,18-24,M,Fitness & Sports,Home & Living,premium,casual,2025-09-29
+USER_1844,18-24,M,Electronics,Books & Media,budget,cold_start,2025-05-28
+USER_1845,18-24,M,Books & Media,Beauty & Personal Care,budget,power,2025-04-13
+USER_1846,45-54,M,Electronics,Fashion,premium,cold_start,2026-04-21
+USER_1847,45-54,F,Fashion,Beauty & Personal Care,premium,moderate,2025-01-01
+USER_1848,25-34,F,Fashion,Fitness & Sports,mid-range,cold_start,2026-01-10
+USER_1849,35-44,M,Fitness & Sports,Beauty & Personal Care,budget,moderate,2025-08-13
+USER_1850,45-54,M,Beauty & Personal Care,Electronics,mid-range,moderate,2026-02-18
+USER_1851,35-44,M,Home & Living,Fashion,mid-range,moderate,2025-11-05
+USER_1852,55+,F,Books & Media,Beauty & Personal Care,mid-range,casual,2025-10-01
+USER_1853,18-24,M,Beauty & Personal Care,Fashion,mid-range,casual,2025-02-05
+USER_1854,35-44,F,Fashion,Home & Living,budget,casual,2025-02-04
+USER_1855,25-34,M,Electronics,Beauty & Personal Care,mid-range,moderate,2025-12-19
+USER_1856,45-54,Other,Fitness & Sports,Books & Media,premium,casual,2026-04-10
+USER_1857,25-34,M,Home & Living,Beauty & Personal Care,premium,cold_start,2025-12-12
+USER_1858,18-24,M,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2025-04-09
+USER_1859,25-34,F,Electronics,Fitness & Sports,mid-range,cold_start,2025-01-27
+USER_1860,18-24,M,Fitness & Sports,Electronics,budget,moderate,2025-10-30
+USER_1861,25-34,M,Books & Media,Electronics,premium,moderate,2026-06-01
+USER_1862,45-54,F,Books & Media,Fashion,budget,casual,2025-08-16
+USER_1863,18-24,F,Books & Media,Beauty & Personal Care,mid-range,casual,2026-07-31
+USER_1864,25-34,F,Home & Living,Beauty & Personal Care,budget,moderate,2026-06-28
+USER_1865,18-24,F,Beauty & Personal Care,Books & Media,budget,moderate,2025-06-05
+USER_1866,55+,M,Fashion,Fitness & Sports,budget,moderate,2026-02-15
+USER_1867,45-54,Other,Fitness & Sports,Books & Media,mid-range,power,2025-11-04
+USER_1868,25-34,F,Home & Living,Fashion,premium,power,2025-03-10
+USER_1869,25-34,M,Fashion,Home & Living,mid-range,casual,2025-06-13
+USER_1870,25-34,M,Home & Living,Electronics,budget,moderate,2025-10-10
+USER_1871,25-34,F,Books & Media,Fashion,budget,casual,2025-05-26
+USER_1872,35-44,M,Electronics,Beauty & Personal Care,mid-range,casual,2025-04-16
+USER_1873,35-44,M,Fitness & Sports,Home & Living,premium,casual,2026-07-09
+USER_1874,25-34,M,Beauty & Personal Care,Home & Living,premium,moderate,2025-02-11
+USER_1875,45-54,M,Fitness & Sports,Books & Media,mid-range,casual,2026-05-14
+USER_1876,25-34,M,Beauty & Personal Care,Books & Media,premium,moderate,2026-01-07
+USER_1877,45-54,F,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2025-04-18
+USER_1878,25-34,F,Home & Living,Fitness & Sports,mid-range,moderate,2025-12-03
+USER_1879,45-54,Other,Electronics,Fashion,budget,moderate,2026-05-13
+USER_1880,25-34,F,Beauty & Personal Care,Home & Living,budget,moderate,2026-05-15
+USER_1881,45-54,M,Books & Media,Fitness & Sports,budget,moderate,2025-04-21
+USER_1882,35-44,F,Books & Media,Electronics,budget,moderate,2025-09-02
+USER_1883,35-44,F,Fitness & Sports,Books & Media,mid-range,moderate,2025-02-10
+USER_1884,35-44,F,Books & Media,Beauty & Personal Care,budget,casual,2026-02-13
+USER_1885,35-44,F,Beauty & Personal Care,Electronics,budget,power,2025-07-05
+USER_1886,55+,M,Fitness & Sports,Electronics,mid-range,moderate,2025-09-17
+USER_1887,35-44,M,Fashion,Fitness & Sports,mid-range,moderate,2025-02-18
+USER_1888,35-44,F,Fashion,Home & Living,mid-range,casual,2026-07-15
+USER_1889,35-44,F,Fashion,Books & Media,premium,moderate,2025-12-08
+USER_1890,25-34,F,Fashion,Fitness & Sports,premium,cold_start,2025-04-14
+USER_1891,18-24,M,Books & Media,Fitness & Sports,mid-range,moderate,2026-01-27
+USER_1892,45-54,F,Home & Living,Books & Media,premium,cold_start,2025-06-13
+USER_1893,25-34,M,Books & Media,Home & Living,premium,moderate,2026-07-28
+USER_1894,25-34,M,Books & Media,Electronics,budget,casual,2025-04-03
+USER_1895,45-54,F,Home & Living,Fashion,mid-range,moderate,2026-06-30
+USER_1896,18-24,M,Beauty & Personal Care,Home & Living,mid-range,moderate,2025-03-26
+USER_1897,25-34,F,Fashion,Beauty & Personal Care,budget,power,2025-10-08
+USER_1898,25-34,F,Fashion,Home & Living,premium,casual,2026-03-27
+USER_1899,25-34,M,Fashion,Electronics,premium,casual,2026-05-10
+USER_1900,25-34,F,Books & Media,Fashion,mid-range,moderate,2026-06-16
+USER_1901,35-44,F,Fitness & Sports,Home & Living,mid-range,casual,2026-01-08
+USER_1902,25-34,M,Fashion,Fitness & Sports,mid-range,cold_start,2025-03-20
+USER_1903,18-24,F,Beauty & Personal Care,Fashion,mid-range,power,2025-05-12
+USER_1904,45-54,Other,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2025-04-18
+USER_1905,35-44,F,Beauty & Personal Care,Books & Media,premium,moderate,2025-08-18
+USER_1906,25-34,M,Books & Media,Fitness & Sports,mid-range,power,2026-03-23
+USER_1907,55+,M,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2025-12-22
+USER_1908,35-44,M,Home & Living,Electronics,premium,moderate,2025-10-10
+USER_1909,55+,F,Beauty & Personal Care,Books & Media,mid-range,cold_start,2025-05-17
+USER_1910,25-34,M,Books & Media,Home & Living,mid-range,cold_start,2026-06-05
+USER_1911,18-24,F,Beauty & Personal Care,Books & Media,mid-range,cold_start,2025-01-07
+USER_1912,18-24,F,Books & Media,Electronics,mid-range,casual,2025-03-14
+USER_1913,25-34,F,Beauty & Personal Care,Fashion,budget,casual,2025-07-03
+USER_1914,18-24,F,Beauty & Personal Care,Electronics,mid-range,cold_start,2025-04-07
+USER_1915,25-34,F,Fitness & Sports,Books & Media,mid-range,moderate,2026-05-01
+USER_1916,25-34,M,Home & Living,Fashion,mid-range,moderate,2025-09-16
+USER_1917,18-24,M,Fashion,Fitness & Sports,premium,moderate,2025-03-25
+USER_1918,35-44,F,Electronics,Beauty & Personal Care,budget,power,2026-07-25
+USER_1919,25-34,M,Books & Media,Electronics,budget,moderate,2026-01-29
+USER_1920,45-54,F,Home & Living,Electronics,premium,casual,2025-07-13
+USER_1921,25-34,F,Home & Living,Electronics,premium,moderate,2025-06-08
+USER_1922,25-34,F,Beauty & Personal Care,Fashion,mid-range,power,2026-04-01
+USER_1923,18-24,F,Electronics,Fitness & Sports,premium,moderate,2025-04-21
+USER_1924,18-24,F,Electronics,Books & Media,budget,cold_start,2025-06-08
+USER_1925,45-54,F,Beauty & Personal Care,Books & Media,premium,cold_start,2026-04-04
+USER_1926,35-44,M,Fashion,Fitness & Sports,budget,moderate,2026-05-18
+USER_1927,25-34,M,Fitness & Sports,Beauty & Personal Care,budget,power,2026-06-17
+USER_1928,35-44,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2026-06-19
+USER_1929,25-34,M,Home & Living,Fashion,mid-range,moderate,2025-07-22
+USER_1930,35-44,M,Fitness & Sports,Electronics,mid-range,power,2026-05-19
+USER_1931,25-34,F,Home & Living,Books & Media,premium,casual,2025-10-22
+USER_1932,35-44,F,Electronics,Home & Living,premium,casual,2025-11-11
+USER_1933,35-44,F,Fashion,Fitness & Sports,mid-range,power,2026-07-02
+USER_1934,55+,M,Home & Living,Beauty & Personal Care,budget,casual,2026-03-21
+USER_1935,25-34,M,Home & Living,Electronics,premium,moderate,2025-04-12
+USER_1936,18-24,M,Home & Living,Electronics,mid-range,moderate,2026-05-23
+USER_1937,35-44,M,Fitness & Sports,Fashion,premium,cold_start,2025-04-30
+USER_1938,18-24,M,Home & Living,Fashion,premium,moderate,2025-08-22
+USER_1939,45-54,M,Fashion,Beauty & Personal Care,budget,casual,2025-09-22
+USER_1940,25-34,F,Beauty & Personal Care,Home & Living,budget,moderate,2025-10-07
+USER_1941,18-24,F,Fitness & Sports,Home & Living,premium,casual,2025-07-14
+USER_1942,25-34,F,Beauty & Personal Care,Fitness & Sports,budget,moderate,2026-04-05
+USER_1943,35-44,M,Electronics,Fashion,budget,power,2026-05-16
+USER_1944,25-34,M,Beauty & Personal Care,Home & Living,premium,moderate,2026-02-12
+USER_1945,25-34,F,Home & Living,Electronics,mid-range,casual,2026-02-09
+USER_1946,45-54,F,Books & Media,Fitness & Sports,budget,cold_start,2026-06-15
+USER_1947,25-34,M,Fashion,Electronics,premium,power,2025-07-08
+USER_1948,35-44,M,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2025-05-27
+USER_1949,35-44,F,Books & Media,Fashion,mid-range,power,2025-11-22
+USER_1950,18-24,M,Home & Living,Fashion,mid-range,cold_start,2025-07-25
+USER_1951,18-24,M,Home & Living,Beauty & Personal Care,budget,casual,2025-07-08
+USER_1952,25-34,F,Electronics,Books & Media,budget,casual,2025-09-09
+USER_1953,25-34,M,Books & Media,Home & Living,budget,moderate,2025-03-08
+USER_1954,25-34,F,Fashion,Fitness & Sports,mid-range,cold_start,2025-05-27
+USER_1955,35-44,M,Electronics,Beauty & Personal Care,budget,casual,2026-02-01
+USER_1956,18-24,M,Beauty & Personal Care,Electronics,mid-range,power,2025-03-17
+USER_1957,45-54,M,Books & Media,Fitness & Sports,budget,moderate,2026-02-01
+USER_1958,35-44,F,Books & Media,Home & Living,mid-range,moderate,2026-04-11
+USER_1959,45-54,M,Home & Living,Fashion,budget,cold_start,2025-06-28
+USER_1960,25-34,M,Fashion,Fitness & Sports,mid-range,casual,2026-03-19
+USER_1961,18-24,M,Beauty & Personal Care,Books & Media,premium,moderate,2026-02-16
+USER_1962,35-44,M,Fitness & Sports,Books & Media,premium,casual,2026-04-17
+USER_1963,25-34,M,Home & Living,Fitness & Sports,mid-range,moderate,2026-02-13
+USER_1964,25-34,M,Beauty & Personal Care,Fashion,mid-range,cold_start,2026-01-08
+USER_1965,25-34,F,Fitness & Sports,Home & Living,mid-range,moderate,2025-08-07
+USER_1966,25-34,F,Fitness & Sports,Home & Living,premium,power,2026-02-27
+USER_1967,25-34,F,Fashion,Books & Media,premium,moderate,2026-03-19
+USER_1968,25-34,F,Fitness & Sports,Beauty & Personal Care,mid-range,cold_start,2025-10-07
+USER_1969,35-44,F,Beauty & Personal Care,Fitness & Sports,mid-range,moderate,2025-07-22
+USER_1970,25-34,M,Beauty & Personal Care,Fashion,mid-range,moderate,2026-05-14
+USER_1971,55+,F,Beauty & Personal Care,Electronics,mid-range,power,2025-03-08
+USER_1972,18-24,F,Electronics,Fitness & Sports,premium,cold_start,2025-11-17
+USER_1973,25-34,F,Fashion,Fitness & Sports,premium,casual,2026-01-07
+USER_1974,25-34,F,Fitness & Sports,Books & Media,mid-range,moderate,2025-06-29
+USER_1975,18-24,F,Fashion,Home & Living,mid-range,cold_start,2026-06-30
+USER_1976,25-34,F,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2025-10-15
+USER_1977,45-54,Other,Beauty & Personal Care,Fashion,premium,casual,2025-04-10
+USER_1978,18-24,M,Fitness & Sports,Books & Media,budget,moderate,2025-01-21
+USER_1979,55+,M,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2026-04-04
+USER_1980,55+,F,Books & Media,Home & Living,premium,casual,2025-03-29
+USER_1981,18-24,M,Home & Living,Books & Media,premium,cold_start,2025-04-24
+USER_1982,35-44,F,Beauty & Personal Care,Home & Living,budget,moderate,2025-03-27
+USER_1983,55+,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2025-06-23
+USER_1984,25-34,F,Books & Media,Electronics,mid-range,power,2025-06-20
+USER_1985,25-34,M,Fitness & Sports,Books & Media,mid-range,casual,2025-10-07
+USER_1986,35-44,M,Electronics,Fitness & Sports,mid-range,casual,2025-05-14
+USER_1987,55+,M,Books & Media,Electronics,mid-range,cold_start,2025-07-24
+USER_1988,25-34,M,Beauty & Personal Care,Home & Living,mid-range,moderate,2025-12-10
+USER_1989,25-34,Other,Fitness & Sports,Books & Media,mid-range,cold_start,2025-05-16
+USER_1990,35-44,F,Fitness & Sports,Home & Living,budget,cold_start,2026-04-06
+USER_1991,18-24,F,Home & Living,Beauty & Personal Care,premium,casual,2025-01-24
+USER_1992,45-54,M,Electronics,Home & Living,mid-range,moderate,2025-06-07
+USER_1993,25-34,M,Electronics,Fashion,mid-range,casual,2025-12-16
+USER_1994,35-44,M,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2025-12-05
+USER_1995,18-24,M,Beauty & Personal Care,Fashion,budget,moderate,2025-03-25
+USER_1996,35-44,M,Fitness & Sports,Fashion,budget,moderate,2025-03-23
+USER_1997,35-44,M,Fashion,Books & Media,mid-range,moderate,2025-07-10
+USER_1998,35-44,F,Electronics,Books & Media,budget,power,2025-01-07
+USER_1999,55+,M,Books & Media,Beauty & Personal Care,premium,casual,2025-05-07
+USER_2000,18-24,M,Home & Living,Fashion,budget,casual,2025-10-31
+USER_2001,25-34,M,Fitness & Sports,Home & Living,premium,moderate,2025-09-04
+USER_2002,35-44,Other,Home & Living,Fitness & Sports,mid-range,power,2025-03-08
+USER_2003,25-34,F,Electronics,Beauty & Personal Care,mid-range,power,2026-03-17
+USER_2004,35-44,F,Electronics,Fashion,mid-range,casual,2026-01-06
+USER_2005,35-44,F,Books & Media,Home & Living,mid-range,moderate,2025-11-23
+USER_2006,35-44,F,Fitness & Sports,Home & Living,mid-range,moderate,2025-11-17
+USER_2007,35-44,M,Fashion,Electronics,mid-range,moderate,2026-02-24
+USER_2008,25-34,F,Fitness & Sports,Books & Media,premium,moderate,2026-04-21
+USER_2009,18-24,F,Fitness & Sports,Electronics,premium,moderate,2025-11-21
+USER_2010,45-54,M,Home & Living,Electronics,mid-range,moderate,2025-06-26
+USER_2011,55+,M,Electronics,Books & Media,mid-range,moderate,2025-10-05
+USER_2012,18-24,M,Home & Living,Beauty & Personal Care,budget,moderate,2025-07-14
+USER_2013,35-44,M,Fashion,Books & Media,premium,moderate,2025-03-03
+USER_2014,18-24,F,Beauty & Personal Care,Fitness & Sports,mid-range,moderate,2025-05-25
+USER_2015,55+,F,Fitness & Sports,Books & Media,budget,casual,2025-11-12
+USER_2016,25-34,M,Books & Media,Fitness & Sports,mid-range,moderate,2025-05-13
+USER_2017,25-34,M,Beauty & Personal Care,Fashion,mid-range,power,2026-04-30
+USER_2018,25-34,M,Fashion,Fitness & Sports,mid-range,casual,2025-11-17
+USER_2019,45-54,M,Home & Living,Beauty & Personal Care,mid-range,casual,2025-12-06
+USER_2020,45-54,Other,Beauty & Personal Care,Books & Media,premium,casual,2025-08-23
+USER_2021,35-44,F,Fashion,Books & Media,mid-range,moderate,2025-01-20
+USER_2022,45-54,M,Fashion,Beauty & Personal Care,mid-range,moderate,2026-06-26
+USER_2023,35-44,F,Beauty & Personal Care,Home & Living,budget,casual,2026-02-03
+USER_2024,35-44,M,Fashion,Fitness & Sports,premium,moderate,2025-03-02
+USER_2025,25-34,M,Home & Living,Beauty & Personal Care,mid-range,casual,2025-05-30
+USER_2026,55+,F,Home & Living,Beauty & Personal Care,premium,casual,2025-07-24
+USER_2027,35-44,F,Books & Media,Beauty & Personal Care,budget,casual,2025-03-04
+USER_2028,18-24,F,Home & Living,Fashion,mid-range,casual,2026-03-10
+USER_2029,45-54,M,Fashion,Home & Living,budget,casual,2025-01-30
+USER_2030,35-44,M,Fitness & Sports,Fashion,mid-range,moderate,2026-01-27
+USER_2031,35-44,F,Electronics,Fitness & Sports,mid-range,casual,2025-07-22
+USER_2032,25-34,M,Fashion,Fitness & Sports,premium,power,2025-05-07
+USER_2033,25-34,M,Fashion,Fitness & Sports,premium,moderate,2026-01-20
+USER_2034,35-44,F,Fitness & Sports,Fashion,mid-range,casual,2025-02-05
+USER_2035,25-34,F,Electronics,Beauty & Personal Care,budget,moderate,2025-05-16
+USER_2036,55+,M,Electronics,Beauty & Personal Care,budget,power,2025-08-29
+USER_2037,25-34,M,Electronics,Books & Media,mid-range,moderate,2025-03-13
+USER_2038,25-34,F,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2026-07-16
+USER_2039,45-54,M,Electronics,Fitness & Sports,budget,casual,2025-02-27
+USER_2040,25-34,M,Beauty & Personal Care,Fashion,mid-range,moderate,2025-02-13
+USER_2041,25-34,M,Fashion,Beauty & Personal Care,mid-range,casual,2026-02-01
+USER_2042,35-44,M,Home & Living,Books & Media,budget,moderate,2026-03-01
+USER_2043,18-24,F,Fashion,Home & Living,mid-range,moderate,2025-01-08
+USER_2044,18-24,F,Books & Media,Fashion,mid-range,moderate,2025-06-05
+USER_2045,45-54,F,Home & Living,Fitness & Sports,mid-range,moderate,2026-06-08
+USER_2046,45-54,F,Home & Living,Fitness & Sports,budget,moderate,2025-09-24
+USER_2047,35-44,M,Fitness & Sports,Beauty & Personal Care,premium,casual,2026-06-09
+USER_2048,25-34,M,Fitness & Sports,Electronics,mid-range,moderate,2025-07-30
+USER_2049,25-34,F,Beauty & Personal Care,Fashion,premium,moderate,2025-11-07
+USER_2050,18-24,F,Books & Media,Home & Living,budget,moderate,2025-01-25
+USER_2051,25-34,M,Home & Living,Fashion,mid-range,casual,2026-02-02
+USER_2052,25-34,M,Fashion,Books & Media,mid-range,casual,2025-10-20
+USER_2053,35-44,F,Electronics,Beauty & Personal Care,budget,casual,2025-01-01
+USER_2054,35-44,F,Home & Living,Electronics,mid-range,casual,2026-01-26
+USER_2055,55+,M,Home & Living,Fashion,mid-range,casual,2026-03-10
+USER_2056,25-34,M,Beauty & Personal Care,Electronics,budget,casual,2025-02-05
+USER_2057,25-34,M,Fashion,Electronics,premium,casual,2025-02-01
+USER_2058,55+,M,Electronics,Fashion,mid-range,casual,2026-04-12
+USER_2059,25-34,F,Home & Living,Electronics,mid-range,power,2026-05-07
+USER_2060,35-44,M,Fitness & Sports,Books & Media,budget,moderate,2026-05-25
+USER_2061,25-34,M,Electronics,Beauty & Personal Care,premium,cold_start,2025-03-06
+USER_2062,45-54,F,Beauty & Personal Care,Fitness & Sports,budget,power,2025-10-01
+USER_2063,25-34,F,Fashion,Books & Media,premium,casual,2025-02-15
+USER_2064,45-54,M,Beauty & Personal Care,Fitness & Sports,mid-range,moderate,2025-02-18
+USER_2065,18-24,M,Fitness & Sports,Beauty & Personal Care,budget,casual,2026-01-16
+USER_2066,25-34,M,Beauty & Personal Care,Home & Living,mid-range,moderate,2026-02-16
+USER_2067,55+,F,Fashion,Books & Media,mid-range,moderate,2026-02-22
+USER_2068,25-34,F,Fashion,Fitness & Sports,premium,moderate,2026-04-23
+USER_2069,25-34,F,Electronics,Fitness & Sports,mid-range,moderate,2025-05-29
+USER_2070,25-34,F,Fashion,Beauty & Personal Care,budget,casual,2025-07-30
+USER_2071,25-34,F,Electronics,Beauty & Personal Care,mid-range,power,2026-06-17
+USER_2072,18-24,F,Beauty & Personal Care,Fashion,mid-range,moderate,2025-12-09
+USER_2073,25-34,F,Home & Living,Beauty & Personal Care,premium,casual,2026-06-20
+USER_2074,25-34,F,Beauty & Personal Care,Fitness & Sports,mid-range,moderate,2025-04-19
+USER_2075,35-44,M,Beauty & Personal Care,Fashion,mid-range,casual,2026-06-01
+USER_2076,25-34,F,Beauty & Personal Care,Home & Living,budget,moderate,2026-02-20
+USER_2077,25-34,F,Fashion,Electronics,budget,moderate,2025-10-30
+USER_2078,18-24,F,Electronics,Fashion,budget,moderate,2025-05-02
+USER_2079,25-34,M,Beauty & Personal Care,Books & Media,mid-range,moderate,2026-02-02
+USER_2080,25-34,F,Fitness & Sports,Beauty & Personal Care,mid-range,cold_start,2026-05-19
+USER_2081,25-34,M,Home & Living,Books & Media,premium,casual,2026-01-28
+USER_2082,35-44,M,Books & Media,Beauty & Personal Care,premium,cold_start,2026-05-18
+USER_2083,25-34,Other,Electronics,Books & Media,budget,power,2025-04-05
+USER_2084,35-44,F,Electronics,Books & Media,mid-range,moderate,2025-12-12
+USER_2085,55+,M,Home & Living,Beauty & Personal Care,mid-range,moderate,2026-04-08
+USER_2086,25-34,M,Fashion,Beauty & Personal Care,premium,cold_start,2025-01-29
+USER_2087,25-34,F,Fitness & Sports,Home & Living,mid-range,casual,2026-02-02
+USER_2088,25-34,F,Home & Living,Beauty & Personal Care,budget,moderate,2026-06-14
+USER_2089,45-54,M,Fashion,Electronics,budget,moderate,2025-12-06
+USER_2090,35-44,Other,Electronics,Home & Living,mid-range,power,2025-09-13
+USER_2091,35-44,F,Fashion,Books & Media,budget,moderate,2025-07-07
+USER_2092,45-54,F,Fitness & Sports,Fashion,mid-range,power,2025-04-29
+USER_2093,18-24,F,Books & Media,Beauty & Personal Care,budget,moderate,2026-05-24
+USER_2094,35-44,M,Books & Media,Home & Living,mid-range,moderate,2025-04-19
+USER_2095,18-24,M,Beauty & Personal Care,Fitness & Sports,budget,moderate,2025-03-31
+USER_2096,55+,M,Fitness & Sports,Beauty & Personal Care,premium,moderate,2025-05-21
+USER_2097,18-24,F,Beauty & Personal Care,Fashion,mid-range,moderate,2026-07-14
+USER_2098,25-34,M,Beauty & Personal Care,Fashion,mid-range,moderate,2025-04-29
+USER_2099,25-34,M,Fashion,Books & Media,budget,moderate,2025-03-03
+USER_2100,18-24,F,Home & Living,Beauty & Personal Care,mid-range,casual,2025-11-07
+USER_2101,18-24,F,Fitness & Sports,Fashion,budget,moderate,2026-05-02
+USER_2102,25-34,M,Books & Media,Beauty & Personal Care,premium,moderate,2025-03-14
+USER_2103,18-24,F,Electronics,Books & Media,mid-range,moderate,2025-03-16
+USER_2104,25-34,F,Beauty & Personal Care,Home & Living,premium,moderate,2025-09-26
+USER_2105,35-44,M,Home & Living,Books & Media,budget,moderate,2026-01-18
+USER_2106,35-44,F,Beauty & Personal Care,Fashion,mid-range,casual,2026-06-06
+USER_2107,35-44,F,Fashion,Home & Living,mid-range,moderate,2025-10-22
+USER_2108,18-24,F,Fitness & Sports,Electronics,mid-range,casual,2025-05-30
+USER_2109,18-24,M,Home & Living,Books & Media,mid-range,moderate,2025-12-16
+USER_2110,25-34,M,Home & Living,Books & Media,mid-range,casual,2026-01-31
+USER_2111,45-54,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2025-05-21
+USER_2112,18-24,F,Home & Living,Beauty & Personal Care,mid-range,moderate,2025-03-06
+USER_2113,25-34,M,Home & Living,Beauty & Personal Care,mid-range,cold_start,2025-11-17
+USER_2114,25-34,M,Fashion,Fitness & Sports,premium,casual,2025-07-16
+USER_2115,25-34,M,Home & Living,Beauty & Personal Care,mid-range,casual,2025-07-12
+USER_2116,45-54,M,Beauty & Personal Care,Home & Living,budget,casual,2026-01-06
+USER_2117,25-34,M,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2025-05-01
+USER_2118,45-54,F,Fashion,Beauty & Personal Care,mid-range,moderate,2025-12-12
+USER_2119,35-44,F,Fashion,Books & Media,mid-range,cold_start,2025-10-05
+USER_2120,25-34,M,Home & Living,Beauty & Personal Care,budget,cold_start,2025-05-08
+USER_2121,45-54,Other,Electronics,Fashion,budget,cold_start,2025-09-18
+USER_2122,25-34,Other,Books & Media,Home & Living,mid-range,moderate,2026-03-07
+USER_2123,18-24,M,Fitness & Sports,Beauty & Personal Care,budget,moderate,2026-03-24
+USER_2124,18-24,M,Home & Living,Electronics,budget,moderate,2025-03-13
+USER_2125,25-34,M,Electronics,Books & Media,budget,power,2025-03-03
+USER_2126,25-34,F,Home & Living,Fitness & Sports,mid-range,moderate,2025-08-25
+USER_2127,35-44,F,Books & Media,Home & Living,premium,power,2025-06-05
+USER_2128,35-44,F,Fashion,Books & Media,budget,cold_start,2025-01-18
+USER_2129,18-24,F,Home & Living,Books & Media,budget,casual,2025-09-10
+USER_2130,25-34,M,Fashion,Home & Living,premium,power,2025-10-14
+USER_2131,25-34,M,Books & Media,Beauty & Personal Care,premium,moderate,2026-04-02
+USER_2132,18-24,M,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2026-01-29
+USER_2133,35-44,M,Home & Living,Fashion,premium,moderate,2026-05-19
+USER_2134,45-54,M,Electronics,Books & Media,mid-range,casual,2026-02-02
+USER_2135,35-44,M,Beauty & Personal Care,Electronics,mid-range,moderate,2026-01-22
+USER_2136,25-34,M,Home & Living,Books & Media,budget,casual,2025-10-25
+USER_2137,25-34,F,Electronics,Beauty & Personal Care,budget,moderate,2025-03-08
+USER_2138,45-54,M,Home & Living,Fitness & Sports,mid-range,moderate,2026-05-18
+USER_2139,25-34,M,Fitness & Sports,Home & Living,mid-range,moderate,2025-10-03
+USER_2140,55+,M,Fashion,Home & Living,premium,moderate,2026-06-14
+USER_2141,45-54,F,Fitness & Sports,Home & Living,budget,power,2025-08-23
+USER_2142,45-54,M,Beauty & Personal Care,Books & Media,budget,moderate,2025-03-23
+USER_2143,25-34,M,Fashion,Books & Media,budget,moderate,2025-07-10
+USER_2144,25-34,F,Fashion,Electronics,mid-range,moderate,2025-06-30
+USER_2145,25-34,M,Fashion,Home & Living,budget,casual,2025-07-20
+USER_2146,18-24,F,Home & Living,Fashion,mid-range,moderate,2026-04-19
+USER_2147,25-34,M,Books & Media,Fashion,budget,moderate,2025-01-09
+USER_2148,18-24,M,Electronics,Beauty & Personal Care,mid-range,moderate,2025-02-28
+USER_2149,18-24,M,Fashion,Home & Living,premium,moderate,2026-01-12
+USER_2150,25-34,M,Fashion,Electronics,mid-range,casual,2025-06-15
+USER_2151,35-44,M,Fitness & Sports,Fashion,budget,moderate,2026-04-17
+USER_2152,25-34,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2026-06-22
+USER_2153,35-44,F,Books & Media,Beauty & Personal Care,mid-range,casual,2026-02-19
+USER_2154,25-34,M,Books & Media,Fitness & Sports,budget,moderate,2025-02-07
+USER_2155,35-44,M,Home & Living,Electronics,mid-range,moderate,2026-02-27
+USER_2156,25-34,M,Fitness & Sports,Fashion,mid-range,moderate,2025-08-09
+USER_2157,35-44,M,Books & Media,Fashion,mid-range,moderate,2025-11-06
+USER_2158,18-24,F,Fitness & Sports,Home & Living,mid-range,casual,2026-04-23
+USER_2159,25-34,M,Fashion,Books & Media,premium,cold_start,2025-09-09
+USER_2160,45-54,F,Home & Living,Fitness & Sports,budget,cold_start,2026-04-22
+USER_2161,45-54,F,Electronics,Beauty & Personal Care,budget,moderate,2026-06-09
+USER_2162,18-24,Other,Fitness & Sports,Electronics,mid-range,moderate,2025-07-18
+USER_2163,25-34,M,Electronics,Home & Living,mid-range,moderate,2026-07-30
+USER_2164,18-24,M,Books & Media,Home & Living,budget,moderate,2026-02-18
+USER_2165,35-44,M,Home & Living,Fitness & Sports,mid-range,moderate,2026-06-14
+USER_2166,45-54,F,Fitness & Sports,Beauty & Personal Care,budget,casual,2026-07-16
+USER_2167,25-34,M,Fashion,Books & Media,mid-range,casual,2026-03-27
+USER_2168,35-44,M,Fashion,Electronics,mid-range,moderate,2025-10-10
+USER_2169,18-24,M,Fashion,Home & Living,mid-range,moderate,2025-07-18
+USER_2170,45-54,M,Books & Media,Beauty & Personal Care,budget,power,2025-08-04
+USER_2171,18-24,F,Home & Living,Books & Media,mid-range,moderate,2025-08-13
+USER_2172,55+,F,Fitness & Sports,Electronics,budget,casual,2026-04-16
+USER_2173,25-34,F,Home & Living,Books & Media,premium,moderate,2025-09-22
+USER_2174,25-34,F,Beauty & Personal Care,Home & Living,mid-range,moderate,2025-12-01
+USER_2175,35-44,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2025-09-09
+USER_2176,18-24,F,Home & Living,Beauty & Personal Care,mid-range,power,2026-02-19
+USER_2177,35-44,F,Home & Living,Electronics,premium,moderate,2026-07-23
+USER_2178,35-44,F,Fashion,Books & Media,premium,casual,2025-04-11
+USER_2179,25-34,M,Fitness & Sports,Books & Media,mid-range,power,2025-11-03
+USER_2180,18-24,F,Beauty & Personal Care,Electronics,mid-range,moderate,2025-02-28
+USER_2181,45-54,M,Fitness & Sports,Electronics,mid-range,power,2026-01-15
+USER_2182,25-34,F,Fitness & Sports,Books & Media,mid-range,moderate,2026-02-20
+USER_2183,25-34,M,Fashion,Fitness & Sports,budget,moderate,2025-12-01
+USER_2184,45-54,M,Electronics,Fashion,budget,moderate,2026-03-15
+USER_2185,18-24,Other,Beauty & Personal Care,Fashion,premium,moderate,2025-01-03
+USER_2186,18-24,M,Home & Living,Fitness & Sports,mid-range,power,2025-03-31
+USER_2187,45-54,M,Electronics,Beauty & Personal Care,budget,casual,2025-02-10
+USER_2188,45-54,M,Fashion,Books & Media,premium,power,2026-05-18
+USER_2189,35-44,F,Books & Media,Electronics,premium,moderate,2025-10-19
+USER_2190,25-34,F,Fashion,Beauty & Personal Care,budget,casual,2025-08-18
+USER_2191,18-24,F,Beauty & Personal Care,Fashion,mid-range,moderate,2026-04-09
+USER_2192,25-34,M,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2025-08-29
+USER_2193,45-54,F,Fashion,Home & Living,mid-range,power,2025-06-08
+USER_2194,18-24,F,Fashion,Electronics,premium,moderate,2025-05-10
+USER_2195,18-24,F,Beauty & Personal Care,Home & Living,mid-range,moderate,2026-05-09
+USER_2196,18-24,F,Beauty & Personal Care,Books & Media,mid-range,cold_start,2025-11-06
+USER_2197,25-34,M,Electronics,Fitness & Sports,budget,moderate,2025-07-16
+USER_2198,18-24,F,Home & Living,Books & Media,budget,moderate,2026-05-25
+USER_2199,55+,F,Home & Living,Books & Media,budget,casual,2025-12-01
+USER_2200,35-44,F,Books & Media,Fashion,budget,cold_start,2025-06-18
+USER_2201,25-34,F,Home & Living,Fashion,budget,moderate,2025-05-24
+USER_2202,35-44,F,Fashion,Home & Living,mid-range,casual,2025-01-10
+USER_2203,35-44,F,Home & Living,Fitness & Sports,budget,casual,2026-05-10
+USER_2204,55+,M,Fashion,Fitness & Sports,mid-range,moderate,2026-06-02
+USER_2205,25-34,F,Books & Media,Beauty & Personal Care,premium,moderate,2025-07-21
+USER_2206,55+,F,Fitness & Sports,Beauty & Personal Care,mid-range,cold_start,2026-07-06
+USER_2207,25-34,M,Electronics,Books & Media,mid-range,moderate,2025-03-06
+USER_2208,45-54,F,Books & Media,Beauty & Personal Care,budget,casual,2025-11-19
+USER_2209,25-34,M,Beauty & Personal Care,Electronics,premium,moderate,2025-09-18
+USER_2210,18-24,M,Fashion,Books & Media,budget,moderate,2025-01-03
+USER_2211,55+,F,Home & Living,Beauty & Personal Care,premium,cold_start,2026-07-14
+USER_2212,18-24,F,Beauty & Personal Care,Home & Living,mid-range,moderate,2025-02-22
+USER_2213,35-44,F,Books & Media,Home & Living,mid-range,cold_start,2025-08-29
+USER_2214,25-34,F,Fashion,Beauty & Personal Care,mid-range,casual,2025-01-15
+USER_2215,18-24,F,Fitness & Sports,Electronics,budget,moderate,2025-09-22
+USER_2216,25-34,M,Fashion,Books & Media,budget,moderate,2025-06-17
+USER_2217,35-44,M,Books & Media,Beauty & Personal Care,mid-range,cold_start,2025-03-20
+USER_2218,45-54,F,Electronics,Home & Living,budget,cold_start,2025-10-04
+USER_2219,18-24,M,Electronics,Beauty & Personal Care,mid-range,moderate,2026-07-02
+USER_2220,18-24,F,Home & Living,Electronics,mid-range,moderate,2025-04-05
+USER_2221,25-34,M,Home & Living,Electronics,premium,cold_start,2025-03-30
+USER_2222,18-24,M,Books & Media,Beauty & Personal Care,budget,power,2025-12-26
+USER_2223,45-54,F,Fitness & Sports,Electronics,premium,moderate,2026-02-17
+USER_2224,18-24,F,Books & Media,Electronics,premium,casual,2025-08-21
+USER_2225,55+,F,Books & Media,Fitness & Sports,mid-range,moderate,2026-01-13
+USER_2226,18-24,M,Electronics,Beauty & Personal Care,mid-range,casual,2026-01-17
+USER_2227,25-34,F,Home & Living,Books & Media,budget,moderate,2025-04-09
+USER_2228,25-34,M,Fashion,Books & Media,mid-range,casual,2026-07-19
+USER_2229,25-34,F,Electronics,Fitness & Sports,budget,casual,2026-07-04
+USER_2230,25-34,F,Electronics,Fitness & Sports,mid-range,casual,2025-05-21
+USER_2231,45-54,Other,Home & Living,Fitness & Sports,premium,cold_start,2025-03-18
+USER_2232,25-34,F,Beauty & Personal Care,Home & Living,mid-range,cold_start,2025-01-27
+USER_2233,25-34,F,Fashion,Beauty & Personal Care,mid-range,moderate,2025-04-13
+USER_2234,18-24,M,Home & Living,Fitness & Sports,premium,moderate,2025-07-07
+USER_2235,35-44,M,Electronics,Fitness & Sports,mid-range,casual,2026-07-18
+USER_2236,45-54,M,Beauty & Personal Care,Books & Media,premium,moderate,2026-07-14
+USER_2237,25-34,M,Fitness & Sports,Electronics,mid-range,power,2026-03-07
+USER_2238,25-34,F,Fashion,Electronics,budget,power,2025-01-05
+USER_2239,25-34,M,Home & Living,Books & Media,mid-range,moderate,2025-09-28
+USER_2240,55+,F,Fashion,Electronics,mid-range,casual,2025-07-09
+USER_2241,25-34,F,Beauty & Personal Care,Electronics,mid-range,moderate,2025-05-10
+USER_2242,55+,F,Books & Media,Fashion,premium,casual,2025-01-06
+USER_2243,45-54,F,Beauty & Personal Care,Fashion,mid-range,power,2025-09-01
+USER_2244,25-34,F,Fashion,Beauty & Personal Care,budget,moderate,2025-05-20
+USER_2245,35-44,F,Home & Living,Fitness & Sports,budget,casual,2025-05-08
+USER_2246,25-34,F,Electronics,Fashion,mid-range,casual,2025-07-15
+USER_2247,35-44,F,Beauty & Personal Care,Books & Media,budget,moderate,2025-09-12
+USER_2248,18-24,Other,Beauty & Personal Care,Electronics,mid-range,moderate,2026-02-09
+USER_2249,25-34,F,Books & Media,Electronics,mid-range,casual,2025-04-24
+USER_2250,18-24,M,Fashion,Books & Media,budget,casual,2025-05-07
+USER_2251,25-34,M,Beauty & Personal Care,Books & Media,mid-range,casual,2026-03-31
+USER_2252,45-54,M,Fitness & Sports,Home & Living,budget,moderate,2025-09-06
+USER_2253,55+,M,Home & Living,Electronics,mid-range,power,2025-06-12
+USER_2254,45-54,M,Fitness & Sports,Beauty & Personal Care,budget,power,2026-02-28
+USER_2255,25-34,M,Fashion,Books & Media,mid-range,casual,2026-04-30
+USER_2256,25-34,F,Home & Living,Fitness & Sports,mid-range,moderate,2026-04-06
+USER_2257,45-54,F,Fitness & Sports,Home & Living,budget,moderate,2025-08-14
+USER_2258,18-24,F,Beauty & Personal Care,Fitness & Sports,mid-range,moderate,2026-07-19
+USER_2259,55+,M,Beauty & Personal Care,Home & Living,mid-range,moderate,2025-04-12
+USER_2260,35-44,F,Beauty & Personal Care,Fitness & Sports,budget,moderate,2025-04-20
+USER_2261,25-34,F,Beauty & Personal Care,Books & Media,premium,cold_start,2026-06-27
+USER_2262,35-44,Other,Electronics,Home & Living,premium,casual,2025-12-02
+USER_2263,35-44,M,Home & Living,Electronics,mid-range,power,2025-07-11
+USER_2264,25-34,F,Home & Living,Fitness & Sports,mid-range,casual,2026-02-16
+USER_2265,55+,F,Home & Living,Electronics,mid-range,casual,2025-07-20
+USER_2266,25-34,F,Home & Living,Books & Media,mid-range,moderate,2026-06-30
+USER_2267,25-34,F,Electronics,Fashion,budget,moderate,2025-05-21
+USER_2268,45-54,M,Fitness & Sports,Beauty & Personal Care,premium,power,2025-03-16
+USER_2269,55+,F,Beauty & Personal Care,Fashion,budget,moderate,2025-08-08
+USER_2270,18-24,M,Books & Media,Fitness & Sports,budget,casual,2025-10-15
+USER_2271,45-54,F,Electronics,Fitness & Sports,premium,power,2025-05-02
+USER_2272,25-34,F,Beauty & Personal Care,Fashion,budget,moderate,2025-10-11
+USER_2273,35-44,F,Electronics,Books & Media,premium,casual,2025-08-10
+USER_2274,45-54,M,Books & Media,Beauty & Personal Care,budget,power,2025-10-12
+USER_2275,35-44,F,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2025-01-28
+USER_2276,55+,F,Beauty & Personal Care,Home & Living,budget,moderate,2025-06-10
+USER_2277,18-24,M,Fashion,Home & Living,budget,power,2026-04-17
+USER_2278,25-34,F,Electronics,Fashion,mid-range,moderate,2025-07-29
+USER_2279,35-44,F,Beauty & Personal Care,Fitness & Sports,budget,casual,2025-03-06
+USER_2280,18-24,M,Fashion,Fitness & Sports,budget,casual,2025-06-29
+USER_2281,45-54,M,Fashion,Home & Living,budget,power,2026-03-02
+USER_2282,25-34,F,Home & Living,Beauty & Personal Care,mid-range,cold_start,2026-06-28
+USER_2283,55+,F,Books & Media,Home & Living,premium,casual,2025-06-11
+USER_2284,35-44,F,Fashion,Books & Media,mid-range,moderate,2026-04-01
+USER_2285,25-34,M,Beauty & Personal Care,Electronics,budget,moderate,2025-10-30
+USER_2286,25-34,F,Books & Media,Electronics,mid-range,cold_start,2025-05-10
+USER_2287,25-34,F,Electronics,Beauty & Personal Care,mid-range,power,2025-05-19
+USER_2288,18-24,F,Fashion,Home & Living,premium,casual,2026-06-05
+USER_2289,25-34,M,Books & Media,Beauty & Personal Care,budget,moderate,2026-06-22
+USER_2290,25-34,M,Fashion,Home & Living,budget,casual,2026-05-18
+USER_2291,25-34,F,Fashion,Electronics,mid-range,power,2026-03-29
+USER_2292,35-44,F,Beauty & Personal Care,Home & Living,mid-range,cold_start,2025-10-10
+USER_2293,25-34,M,Electronics,Fashion,mid-range,casual,2025-01-25
+USER_2294,35-44,M,Fashion,Beauty & Personal Care,budget,moderate,2025-07-14
+USER_2295,45-54,M,Books & Media,Home & Living,budget,casual,2025-01-27
+USER_2296,55+,M,Beauty & Personal Care,Electronics,mid-range,casual,2026-06-01
+USER_2297,35-44,M,Electronics,Beauty & Personal Care,premium,moderate,2026-07-07
+USER_2298,25-34,F,Electronics,Home & Living,budget,moderate,2025-10-23
+USER_2299,35-44,M,Fitness & Sports,Electronics,mid-range,power,2026-04-24
+USER_2300,35-44,M,Home & Living,Fashion,mid-range,power,2025-12-16
+USER_2301,35-44,M,Fashion,Books & Media,mid-range,moderate,2025-05-06
+USER_2302,18-24,M,Fashion,Fitness & Sports,mid-range,moderate,2025-02-20
+USER_2303,45-54,F,Fitness & Sports,Electronics,mid-range,casual,2025-02-10
+USER_2304,18-24,M,Fitness & Sports,Beauty & Personal Care,premium,moderate,2026-07-26
+USER_2305,25-34,Other,Books & Media,Beauty & Personal Care,budget,power,2025-03-08
+USER_2306,45-54,F,Fitness & Sports,Home & Living,premium,casual,2025-05-08
+USER_2307,45-54,F,Home & Living,Fitness & Sports,premium,moderate,2025-07-01
+USER_2308,25-34,F,Fashion,Beauty & Personal Care,budget,moderate,2025-07-12
+USER_2309,18-24,M,Fashion,Electronics,budget,casual,2026-02-14
+USER_2310,25-34,M,Books & Media,Home & Living,mid-range,power,2025-06-12
+USER_2311,45-54,F,Fashion,Fitness & Sports,mid-range,moderate,2026-06-26
+USER_2312,18-24,Other,Home & Living,Electronics,mid-range,casual,2025-02-11
+USER_2313,25-34,Other,Fitness & Sports,Fashion,mid-range,casual,2026-01-18
+USER_2314,45-54,M,Fitness & Sports,Fashion,mid-range,moderate,2026-01-13
+USER_2315,35-44,M,Beauty & Personal Care,Electronics,mid-range,moderate,2026-04-27
+USER_2316,25-34,M,Home & Living,Beauty & Personal Care,mid-range,moderate,2026-06-28
+USER_2317,45-54,F,Beauty & Personal Care,Electronics,mid-range,casual,2026-07-24
+USER_2318,25-34,F,Home & Living,Fitness & Sports,mid-range,moderate,2025-05-18
+USER_2319,45-54,M,Beauty & Personal Care,Home & Living,budget,cold_start,2025-02-28
+USER_2320,25-34,M,Fashion,Home & Living,premium,moderate,2025-12-30
+USER_2321,25-34,F,Beauty & Personal Care,Electronics,mid-range,casual,2025-08-16
+USER_2322,45-54,M,Beauty & Personal Care,Books & Media,mid-range,casual,2026-04-23
+USER_2323,35-44,F,Books & Media,Fashion,budget,casual,2025-04-04
+USER_2324,18-24,M,Fitness & Sports,Home & Living,premium,casual,2025-02-10
+USER_2325,45-54,F,Electronics,Beauty & Personal Care,mid-range,casual,2026-05-24
+USER_2326,25-34,M,Fitness & Sports,Beauty & Personal Care,premium,casual,2026-07-20
+USER_2327,25-34,M,Fashion,Home & Living,premium,moderate,2025-01-31
+USER_2328,25-34,M,Books & Media,Fashion,premium,cold_start,2026-06-21
+USER_2329,25-34,M,Fitness & Sports,Books & Media,budget,casual,2025-10-18
+USER_2330,35-44,Other,Fitness & Sports,Electronics,premium,moderate,2025-08-07
+USER_2331,35-44,M,Electronics,Fashion,mid-range,casual,2025-03-14
+USER_2332,45-54,F,Books & Media,Home & Living,budget,moderate,2025-10-27
+USER_2333,25-34,M,Electronics,Beauty & Personal Care,budget,moderate,2026-02-22
+USER_2334,45-54,M,Fashion,Beauty & Personal Care,mid-range,power,2025-06-01
+USER_2335,25-34,M,Fitness & Sports,Electronics,budget,casual,2025-02-07
+USER_2336,45-54,M,Books & Media,Beauty & Personal Care,mid-range,casual,2025-02-13
+USER_2337,35-44,F,Home & Living,Fashion,mid-range,moderate,2026-02-09
+USER_2338,55+,F,Books & Media,Electronics,budget,moderate,2025-05-12
+USER_2339,45-54,F,Fashion,Electronics,mid-range,moderate,2025-07-28
+USER_2340,25-34,F,Electronics,Books & Media,budget,power,2026-04-12
+USER_2341,55+,M,Fashion,Home & Living,budget,moderate,2025-12-15
+USER_2342,45-54,F,Fashion,Books & Media,mid-range,casual,2026-05-13
+USER_2343,25-34,F,Beauty & Personal Care,Fashion,mid-range,casual,2026-06-22
+USER_2344,25-34,Other,Electronics,Home & Living,mid-range,power,2026-07-22
+USER_2345,25-34,M,Fashion,Fitness & Sports,budget,casual,2026-05-04
+USER_2346,45-54,F,Books & Media,Fashion,mid-range,moderate,2025-08-06
+USER_2347,25-34,F,Electronics,Fashion,mid-range,casual,2026-04-08
+USER_2348,18-24,F,Books & Media,Home & Living,premium,casual,2025-03-08
+USER_2349,25-34,M,Electronics,Books & Media,premium,moderate,2025-06-19
+USER_2350,35-44,F,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2026-01-20
+USER_2351,35-44,F,Beauty & Personal Care,Books & Media,mid-range,power,2026-04-13
+USER_2352,25-34,M,Home & Living,Beauty & Personal Care,mid-range,moderate,2025-09-12
+USER_2353,25-34,M,Books & Media,Home & Living,mid-range,cold_start,2025-07-19
+USER_2354,45-54,M,Fashion,Fitness & Sports,mid-range,moderate,2026-03-17
+USER_2355,25-34,F,Fitness & Sports,Beauty & Personal Care,mid-range,moderate,2026-07-26
+USER_2356,25-34,M,Fitness & Sports,Electronics,mid-range,casual,2025-06-28
+USER_2357,25-34,F,Beauty & Personal Care,Fashion,mid-range,moderate,2025-08-14
+USER_2358,35-44,F,Beauty & Personal Care,Fashion,premium,moderate,2026-06-17
+USER_2359,45-54,F,Home & Living,Electronics,premium,casual,2026-02-22
+USER_2360,18-24,M,Beauty & Personal Care,Books & Media,mid-range,power,2025-12-16
+USER_2361,45-54,F,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2026-07-12
+USER_2362,25-34,M,Books & Media,Fitness & Sports,mid-range,moderate,2025-12-19
+USER_2363,18-24,F,Electronics,Beauty & Personal Care,mid-range,power,2026-03-13
+USER_2364,45-54,F,Fashion,Beauty & Personal Care,mid-range,cold_start,2025-12-11
+USER_2365,35-44,M,Fashion,Fitness & Sports,mid-range,moderate,2025-06-02
+USER_2366,35-44,M,Books & Media,Home & Living,mid-range,casual,2025-02-11
+USER_2367,45-54,M,Fashion,Electronics,budget,moderate,2026-06-11
+USER_2368,25-34,F,Electronics,Fashion,budget,moderate,2026-02-01
+USER_2369,18-24,F,Books & Media,Home & Living,premium,power,2025-01-27
+USER_2370,18-24,F,Books & Media,Home & Living,budget,casual,2025-03-16
+USER_2371,25-34,M,Fashion,Beauty & Personal Care,budget,casual,2026-03-30
+USER_2372,35-44,M,Home & Living,Fashion,mid-range,power,2025-10-04
+USER_2373,25-34,M,Home & Living,Books & Media,budget,casual,2026-04-05
+USER_2374,35-44,F,Fitness & Sports,Fashion,mid-range,power,2025-12-19
+USER_2375,35-44,F,Fitness & Sports,Books & Media,premium,cold_start,2025-02-18
+USER_2376,25-34,F,Electronics,Fitness & Sports,budget,casual,2026-06-21
+USER_2377,25-34,Other,Fashion,Home & Living,mid-range,cold_start,2025-04-02
+USER_2378,55+,M,Beauty & Personal Care,Fashion,budget,power,2026-02-15
+USER_2379,25-34,M,Electronics,Home & Living,premium,casual,2025-06-18
+USER_2380,18-24,M,Fitness & Sports,Electronics,budget,moderate,2026-03-09
+USER_2381,25-34,F,Fashion,Books & Media,mid-range,moderate,2025-12-20
+USER_2382,18-24,M,Beauty & Personal Care,Books & Media,budget,moderate,2025-09-28
+USER_2383,35-44,M,Books & Media,Home & Living,budget,moderate,2026-02-10
+USER_2384,18-24,F,Fitness & Sports,Home & Living,budget,moderate,2025-02-24
+USER_2385,25-34,M,Electronics,Books & Media,mid-range,cold_start,2025-04-21
+USER_2386,45-54,F,Fitness & Sports,Beauty & Personal Care,budget,power,2025-07-11
+USER_2387,45-54,F,Fitness & Sports,Beauty & Personal Care,mid-range,power,2025-07-06
+USER_2388,18-24,F,Fitness & Sports,Fashion,mid-range,casual,2025-12-15
+USER_2389,25-34,F,Books & Media,Fitness & Sports,budget,casual,2026-03-13
+USER_2390,25-34,F,Fashion,Electronics,premium,moderate,2025-07-01
+USER_2391,55+,M,Home & Living,Fashion,mid-range,cold_start,2026-04-06
+USER_2392,18-24,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2026-03-15
+USER_2393,55+,M,Fitness & Sports,Electronics,mid-range,moderate,2026-05-24
+USER_2394,25-34,F,Fashion,Electronics,mid-range,moderate,2025-01-03
+USER_2395,18-24,F,Fashion,Home & Living,budget,moderate,2025-12-24
+USER_2396,18-24,Other,Beauty & Personal Care,Home & Living,budget,moderate,2025-12-10
+USER_2397,25-34,M,Home & Living,Books & Media,mid-range,moderate,2025-03-16
+USER_2398,35-44,M,Books & Media,Fashion,mid-range,cold_start,2026-02-12
+USER_2399,35-44,F,Books & Media,Beauty & Personal Care,mid-range,moderate,2025-10-02
+USER_2400,35-44,F,Books & Media,Electronics,premium,casual,2025-05-10
+USER_2401,18-24,M,Electronics,Beauty & Personal Care,mid-range,casual,2025-08-24
+USER_2402,25-34,Other,Books & Media,Home & Living,mid-range,casual,2025-10-26
+USER_2403,25-34,F,Beauty & Personal Care,Books & Media,mid-range,casual,2025-03-09
+USER_2404,25-34,M,Books & Media,Beauty & Personal Care,mid-range,casual,2025-02-06
+USER_2405,25-34,M,Fashion,Home & Living,premium,moderate,2026-02-16
+USER_2406,25-34,F,Beauty & Personal Care,Fashion,budget,moderate,2026-04-08
+USER_2407,35-44,Other,Electronics,Books & Media,mid-range,moderate,2026-06-29
+USER_2408,25-34,F,Books & Media,Fitness & Sports,mid-range,casual,2025-06-07
+USER_2409,18-24,F,Fashion,Books & Media,premium,casual,2025-02-09
+USER_2410,25-34,F,Electronics,Books & Media,mid-range,moderate,2025-09-01
+USER_2411,35-44,F,Beauty & Personal Care,Home & Living,mid-range,moderate,2026-02-04
+USER_2412,35-44,F,Books & Media,Electronics,budget,moderate,2025-05-08
+USER_2413,45-54,M,Beauty & Personal Care,Home & Living,premium,moderate,2025-10-02
+USER_2414,55+,M,Books & Media,Fitness & Sports,budget,casual,2025-12-28
+USER_2415,35-44,M,Fashion,Home & Living,mid-range,casual,2025-10-03
+USER_2416,45-54,M,Fashion,Beauty & Personal Care,premium,moderate,2025-04-16
+USER_2417,18-24,M,Beauty & Personal Care,Home & Living,budget,casual,2025-12-12
+USER_2418,55+,M,Home & Living,Books & Media,budget,moderate,2025-06-25
+USER_2419,35-44,F,Fashion,Fitness & Sports,mid-range,power,2026-01-14
+USER_2420,45-54,F,Electronics,Beauty & Personal Care,mid-range,moderate,2026-01-14
+USER_2421,55+,F,Home & Living,Books & Media,premium,moderate,2026-07-27
+USER_2422,35-44,F,Beauty & Personal Care,Home & Living,premium,power,2025-08-18
+USER_2423,25-34,F,Beauty & Personal Care,Books & Media,premium,cold_start,2025-03-18
+USER_2424,18-24,F,Fitness & Sports,Fashion,budget,casual,2026-06-19
+USER_2425,25-34,M,Electronics,Fashion,premium,moderate,2025-08-04
+USER_2426,18-24,M,Electronics,Fitness & Sports,premium,power,2025-07-27
+USER_2427,35-44,M,Fashion,Books & Media,mid-range,power,2026-06-22
+USER_2428,35-44,M,Home & Living,Electronics,budget,cold_start,2025-09-30
+USER_2429,18-24,F,Electronics,Fitness & Sports,premium,power,2025-03-31
+USER_2430,25-34,M,Books & Media,Beauty & Personal Care,premium,casual,2025-05-05
+USER_2431,25-34,F,Books & Media,Fashion,mid-range,moderate,2025-01-07
+USER_2432,18-24,F,Books & Media,Beauty & Personal Care,premium,moderate,2025-12-23
+USER_2433,45-54,F,Books & Media,Fitness & Sports,mid-range,casual,2025-11-29
+USER_2434,35-44,M,Fitness & Sports,Beauty & Personal Care,mid-range,casual,2025-11-02
+USER_2435,18-24,F,Books & Media,Home & Living,premium,moderate,2025-10-14
+USER_2436,25-34,F,Home & Living,Fitness & Sports,mid-range,moderate,2025-10-22
+USER_2437,18-24,F,Electronics,Fashion,premium,cold_start,2026-03-15
+USER_2438,18-24,F,Electronics,Fashion,budget,moderate,2025-11-11
+USER_2439,25-34,F,Fashion,Electronics,premium,casual,2025-05-15
+USER_2440,45-54,Other,Electronics,Fitness & Sports,premium,moderate,2025-03-12
+USER_2441,25-34,F,Books & Media,Fashion,mid-range,moderate,2026-03-12
+USER_2442,18-24,M,Home & Living,Fitness & Sports,premium,casual,2026-06-22
+USER_2443,25-34,F,Beauty & Personal Care,Fitness & Sports,budget,moderate,2025-08-16
+USER_2444,45-54,F,Beauty & Personal Care,Home & Living,mid-range,casual,2025-06-03
+USER_2445,18-24,F,Beauty & Personal Care,Fashion,premium,moderate,2025-10-22
+USER_2446,55+,F,Fashion,Beauty & Personal Care,premium,casual,2025-04-19
+USER_2447,18-24,M,Fashion,Beauty & Personal Care,budget,casual,2025-01-08
+USER_2448,35-44,M,Beauty & Personal Care,Electronics,premium,moderate,2026-06-17
+USER_2449,25-34,M,Beauty & Personal Care,Books & Media,mid-range,moderate,2025-01-25
+USER_2450,35-44,M,Beauty & Personal Care,Electronics,mid-range,casual,2025-07-01
+USER_2451,45-54,F,Home & Living,Fitness & Sports,mid-range,moderate,2026-01-07
+USER_2452,25-34,M,Fashion,Beauty & Personal Care,premium,moderate,2025-11-30
+USER_2453,18-24,F,Beauty & Personal Care,Fitness & Sports,mid-range,moderate,2026-07-22
+USER_2454,18-24,M,Fashion,Books & Media,premium,moderate,2026-04-26
+USER_2455,25-34,M,Fitness & Sports,Fashion,premium,cold_start,2025-07-10
+USER_2456,55+,M,Fashion,Home & Living,mid-range,casual,2025-08-08
+USER_2457,45-54,F,Beauty & Personal Care,Fitness & Sports,mid-range,casual,2025-03-19
+USER_2458,25-34,F,Fashion,Home & Living,mid-range,casual,2026-01-08
+USER_2459,25-34,F,Books & Media,Fashion,mid-range,moderate,2025-11-12
+USER_2460,18-24,F,Fitness & Sports,Books & Media,budget,moderate,2026-02-07
+USER_2461,55+,F,Home & Living,Fitness & Sports,mid-range,casual,2026-05-26
+USER_2462,35-44,M,Fitness & Sports,Beauty & Personal Care,premium,power,2026-03-26
+USER_2463,25-34,M,Fashion,Electronics,mid-range,casual,2026-04-25
+USER_2464,45-54,F,Fashion,Books & Media,mid-range,moderate,2025-12-01
+USER_2465,55+,F,Books & Media,Fashion,budget,casual,2025-01-29
+USER_2466,35-44,M,Home & Living,Books & Media,mid-range,moderate,2025-02-25
+USER_2467,18-24,F,Home & Living,Beauty & Personal Care,mid-range,moderate,2026-04-22
+USER_2468,25-34,F,Home & Living,Fashion,mid-range,casual,2026-01-17
+USER_2469,25-34,M,Books & Media,Fitness & Sports,premium,moderate,2025-02-11
+USER_2470,25-34,M,Fitness & Sports,Electronics,premium,power,2025-11-25
+USER_2471,18-24,F,Fashion,Home & Living,premium,power,2025-04-06
+USER_2472,18-24,F,Beauty & Personal Care,Books & Media,mid-range,power,2025-01-25
+USER_2473,18-24,M,Beauty & Personal Care,Books & Media,budget,cold_start,2025-07-21
+USER_2474,25-34,Other,Electronics,Home & Living,mid-range,power,2026-05-27
+USER_2475,55+,M,Electronics,Home & Living,mid-range,moderate,2025-04-29
+USER_2476,18-24,F,Beauty & Personal Care,Fitness & Sports,mid-range,power,2025-05-23
+USER_2477,35-44,F,Electronics,Fashion,budget,power,2026-02-17
+USER_2478,45-54,M,Books & Media,Electronics,mid-range,casual,2025-12-18
+USER_2479,55+,F,Fashion,Home & Living,premium,power,2025-08-08
+USER_2480,25-34,M,Home & Living,Fashion,mid-range,moderate,2025-07-03
+USER_2481,45-54,F,Books & Media,Electronics,budget,moderate,2025-10-16
+USER_2482,18-24,M,Books & Media,Fitness & Sports,mid-range,cold_start,2025-05-24
+USER_2483,45-54,F,Home & Living,Fashion,budget,moderate,2025-10-21
+USER_2484,18-24,F,Fashion,Fitness & Sports,premium,casual,2025-12-25
+USER_2485,45-54,M,Beauty & Personal Care,Electronics,premium,casual,2025-08-08
+USER_2486,25-34,M,Beauty & Personal Care,Books & Media,mid-range,casual,2025-01-18
+USER_2487,25-34,M,Fashion,Fitness & Sports,budget,moderate,2026-01-03
+USER_2488,25-34,M,Fashion,Home & Living,premium,cold_start,2025-09-23
+USER_2489,45-54,F,Electronics,Home & Living,premium,moderate,2025-02-25
+USER_2490,25-34,M,Fashion,Beauty & Personal Care,mid-range,moderate,2025-03-03
+USER_2491,35-44,M,Beauty & Personal Care,Electronics,mid-range,moderate,2025-01-23
+USER_2492,18-24,F,Books & Media,Electronics,mid-range,cold_start,2025-09-25
+USER_2493,18-24,F,Beauty & Personal Care,Electronics,budget,power,2025-10-20
+USER_2494,18-24,M,Home & Living,Books & Media,premium,cold_start,2026-08-01
+USER_2495,35-44,M,Home & Living,Beauty & Personal Care,budget,moderate,2026-03-30
+USER_2496,35-44,M,Home & Living,Books & Media,premium,moderate,2025-09-10
+USER_2497,45-54,M,Home & Living,Books & Media,mid-range,power,2025-04-24
+USER_2498,18-24,M,Books & Media,Electronics,budget,casual,2025-01-28
+USER_2499,35-44,M,Fashion,Electronics,mid-range,casual,2025-10-10
+USER_2500,18-24,M,Books & Media,Electronics,mid-range,power,2026-06-14
