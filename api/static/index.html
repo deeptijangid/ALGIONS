@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Algions AI Labs | E-Commerce Recommendation Engine</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-brand">
+        <div class="brand-badge">ALGIONS AI LABS</div>
+        <h1>E-Commerce Product Recommendation Engine</h1>
+        <p class="subtitle">Decision-Support Personalization Engine | Production Inference & Evaluation</p>
+      </div>
+      <div class="header-status">
+        <div class="status-indicator" id="statusPill">
+          <span class="status-dot"></span> <span id="statusText">System Ready</span>
+        </div>
+        <div class="metric-pill" id="latencyPill" style="display:none;">⚡ <span id="latencyVal">0.0</span> ms</div>
+        <a href="/docs" target="_blank" class="btn-secondary" title="View OpenAPI Swagger Documentation">Swagger API Docs</a>
+      </div>
+    </header>
+
+    <!-- Main Content Layout -->
+    <main class="dashboard-grid">
+      <!-- Left Sidebar: Controls & User Profile -->
+      <aside class="sidebar-panel">
+        <div class="card control-card">
+          <h2 class="card-title">Inference Controls</h2>
+          
+          <div class="form-group">
+            <label for="personaSelect">Preset User Persona:</label>
+            <select id="personaSelect" class="form-control">
+              <option value="USER_0012">User 12 (Tech Enthusiast - High Activity)</option>
+              <option value="USER_0045">User 45 (Fashion & Apparel Regular)</option>
+              <option value="USER_0088">User 88 (Home & Kitchen Shopper)</option>
+              <option value="COLD_START_USER">Cold-Start User (Brand New / No History)</option>
+              <option value="custom">Custom User ID...</option>
+            </select>
+          </div>
+
+          <div class="form-group" id="customUserGroup" style="display: none;">
+            <label for="customUserId">Enter User ID:</label>
+            <input type="text" id="customUserId" class="form-control" placeholder="e.g. USER_0150">
+          </div>
+
+          <div class="form-group">
+            <label for="modelSelect">Recommendation Model:</label>
+            <select id="modelSelect" class="form-control">
+              <option value="hybrid">Adaptive Hybrid (Collaborative + Content) [Best]</option>
+              <option value="collaborative">Collaborative Filtering (SVD Latent Factors)</option>
+              <option value="content">Content-Based (TF-IDF Metadata Vectorizer)</option>
+              <option value="popularity">Popularity Baseline (Recency Decayed)</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="categoryFilter">Category Scope:</label>
+            <select id="categoryFilter" class="form-control">
+              <option value="">All Catalog Categories</option>
+              <option value="Electronics">Electronics</option>
+              <option value="Fashion">Fashion</option>
+              <option value="Home & Living">Home & Living</option>
+              <option value="Fitness & Sports">Fitness & Sports</option>
+              <option value="Books & Media">Books & Media</option>
+              <option value="Beauty & Personal Care">Beauty & Personal Care</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="topKRange">Top-K Items: <span id="topKDisplay" class="bold-val">10</span></label>
+            <input type="range" id="topKRange" min="5" max="20" step="1" value="10" class="range-slider">
+          </div>
+
+          <div class="form-group-checkbox">
+            <label>
+              <input type="checkbox" id="filterHistoryCheck" checked>
+              Filter previously engaged items
+            </label>
+          </div>
+
+          <button id="btnRecommend" class="btn-primary btn-block">
+            <span>Generate Recommendations</span>
+          </button>
+        </div>
+
+        <!-- User Profile Card -->
+        <div class="card profile-card" id="profileCard">
+          <h3 class="card-title">User Behavioral Profile</h3>
+          <div id="profileLoading" class="mini-spinner" style="display:none;"></div>
+          <div id="profileContent">
+            <div class="profile-row">
+              <span class="label">Cohort Segment:</span>
+              <span class="val badge" id="userSegmentBadge">Active Shopper</span>
+            </div>
+            <div class="profile-row">
+              <span class="label">Affinity Category:</span>
+              <span class="val" id="profilePrimaryCat">Electronics</span>
+            </div>
+            <div class="profile-row">
+              <span class="label">Price Tier:</span>
+              <span class="val" id="profilePriceTier">Mid-Range</span>
+            </div>
+            <div class="profile-row">
+              <span class="label">Historical Interactions:</span>
+              <span class="val" id="profileHistoryCount">0</span>
+            </div>
+
+            <div class="history-list-section">
+              <h4>Recent Browsing / Purchase Anchors</h4>
+              <ul id="userRecentHistoryList" class="history-list">
+                <li class="empty-hint">Loading profile...</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </aside>
+
+      <!-- Center & Right: Recommendations Feed & Benchmark View -->
+      <section class="main-panel">
+        <!-- Merchandising Notice Banner -->
+        <div class="decision-support-banner">
+          <div class="banner-icon">🛡️</div>
+          <div class="banner-body">
+            <strong>Decision-Support Advisory:</strong> Recommendations are probabilistic discovery signals based on historical patterns. Human merchandising review should be exercised to account for supplier inventory constraints, seasonal campaigns, and price margin variations.
+          </div>
+        </div>
+
+        <!-- Feed Tabs -->
+        <div class="panel-tabs">
+          <button class="tab-btn active" id="tabRecs">Personalized Recommendations</button>
+          <button class="tab-btn" id="tabBenchmark">Offline Benchmark Metrics</button>
+        </div>
+
+        <!-- Tab 1: Recommendations Display -->
+        <div id="viewRecs" class="tab-view active">
+          <div class="results-header">
+            <div>
+              <h2 id="resultsHeading">Recommended For You</h2>
+              <p id="resultsSubheading" class="results-sub">Showing top candidates</p>
+            </div>
+            <div id="activeModelTag" class="model-badge">Hybrid Engine</div>
+          </div>
+
+          <div id="recsLoading" class="loading-state" style="display: none;">
+            <div class="spinner"></div>
+            <p>Computing personalization rankings across catalog...</p>
+          </div>
+
+          <div id="recsGrid" class="product-grid">
+            <!-- Product Cards injected here -->
+          </div>
+        </div>
+
+        <!-- Tab 2: Offline Benchmark Metrics Display -->
+        <div id="viewBenchmark" class="tab-view" style="display: none;">
+          <div class="card benchmark-card">
+            <h2>Model Benchmark on Held-Out Test Set (Chronological Split)</h2>
+            <p class="subtitle">Evaluated on strictly future interactions to avoid temporal leakage. Stratified by warm vs cold-start users.</p>
+            
+            <div class="table-responsive">
+              <table class="benchmark-table" id="metricsTable">
+                <thead>
+                  <tr>
+                    <th>Model Architecture</th>
+                    <th>Precision@5</th>
+                    <th>Precision@10</th>
+                    <th>Recall@10</th>
+                    <th>NDCG@10</th>
+                    <th>MAP@10</th>
+                    <th>Catalog Coverage@10</th>
+                    <th>Cold-Start NDCG@10</th>
+                  </tr>
+                </thead>
+                <tbody id="metricsTableBody">
+                  <tr><td colspan="8">Loading offline evaluation results...</td></tr>
+                </tbody>
+              </table>
+            </div>
+
+            <div class="benchmark-summary-box">
+              <h3>Key Engineering Findings</h3>
+              <ul>
+                <li><strong>Hybrid Superiority:</strong> The Adaptive Hybrid model achieves superior ranking quality by balancing latent collaborative patterns with semantic metadata vectors.</li>
+                <li><strong>Zero Leakage Split:</strong> The 80/20 chronological split strictly evaluates on future interactions, reflecting real-world deployment performance.</li>
+                <li><strong>Cold-Start Resilience:</strong> When new users appear with zero historical interactions, the model routes seamlessly to category popularity and top-rated items.</li>
+                <li><strong>Catalog Coverage:</strong> Content and Hybrid models significantly improve long-tail catalog discovery compared to naive popularity.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Modal for Similar Products -->
+    <div class="modal-backdrop" id="similarModal" style="display:none;">
+      <div class="modal-window">
+        <div class="modal-header">
+          <h3 id="modalAnchorTitle">Semantically Similar Products</h3>
+          <button class="btn-close" id="btnCloseModal">&times;</button>
+        </div>
+        <div class="modal-body">
+          <p class="modal-desc">Items with closely matching metadata, tags, and category features.</p>
+          <div id="similarProductsList" class="similar-grid"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p>Algions AI Labs Private Limited Assessment &bull; E-Commerce Recommendation Engine &bull; Built with FastAPI & Scikit-Learn</p>
+    </footer>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
+
