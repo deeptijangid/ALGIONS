@@ -1,0 +1,47 @@
+{
+    "training_timestamp": "2026-11-15T01:26:18.720945",
+    "random_seed": 42,
+    "dataset_statistics": {
+        "total_products": 600,
+        "total_users": 2500,
+        "total_raw_interactions": 65036,
+        "train_interactions": 52028,
+        "test_interactions": 13008,
+        "split_timestamp": "2026-10-12 02:48:37",
+        "matrix_sparsity_pct": 96.53,
+        "cold_start_users_in_test": 22,
+        "cold_start_items_in_test": 0
+    },
+    "models": {
+        "popularity": {
+            "artifact": "artifacts/popularity_model.joblib",
+            "decay_half_life_days": 30.0
+        },
+        "content_based": {
+            "artifact": "artifacts/content_model.joblib",
+            "max_features": 5000,
+            "ngram_range": [
+                1,
+                2
+            ]
+        },
+        "collaborative_svd": {
+            "artifact": "artifacts/collaborative_model.joblib",
+            "n_components": 30
+        },
+        "hybrid": {
+            "artifact": "artifacts/hybrid_model.joblib",
+            "default_cf_weight": 0.65,
+            "dynamic_routing": true
+        }
+    },
+    "target_definition": {
+        "prediction_unit": "User-Item Interaction",
+        "prediction_horizon": "Next session window in held-out test timeframe (post-split)",
+        "implicit_weights": {
+            "view": 1.0,
+            "cart": 2.5,
+            "purchase": 5.0
+        }
+    }
+}
